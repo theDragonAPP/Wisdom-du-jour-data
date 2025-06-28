@@ -1,74 +1,91 @@
 [
     {
-        "text": "For I know the plans I have for you, declares the Lord.",
-        "source": "Bible - Jeremiah 29:11",
-        "category": "Bible",
-        "tags": [
-            "faith",
-            "hope"
-        ]
+      "text": "For I know the plans I have for you, declares the Lord.",
+      "source": "Bible - Jeremiah 29:11",
+      "category": "Bible",
+      "tags": ["faith", "hope"],
+      "interpretations": {
+        "Edgar Allan Poe": "A divine will plots paths beyond mortal knowing—a comforting dread in the darkness of fate.",
+        "Kanye West": "God had a blueprint for me. That’s why I’m untouchable.",
+        "Frieren": "Even without knowing the full plan, it’s enough to walk forward." 
+      }
     },
     {
-        "text": "I can do all things through Christ who strengthens me.",
-        "source": "Bible - Philippians 4:13",
-        "category": "Bible",
-        "tags": [
-            "strength",
-            "faith"
-        ]
+      "text": "I can do all things through Christ who strengthens me.",
+      "source": "Bible - Philippians 4:13",
+      "category": "Bible",
+      "tags": ["strength", "faith"],
+      "interpretations": {
+        "Edgar Allan Poe": "In dark hours, strength descends not from man but from the whispers of divinity.",
+        "Kanye West": "I’m powered by faith. That’s why limits don’t exist for me.",
+        "Frieren": "Strength isn’t always visible—it’s what carries you through centuries of silence." 
+      }
     },
     {
-        "text": "The only thing we have to fear is fear itself.",
-        "source": "Franklin D. Roosevelt - First Inaugural Address, 1933",
-        "category": "Famous",
-        "tags": [
-            "courage",
-            "history"
-        ]
+      "text": "The only thing we have to fear is fear itself.",
+      "source": "Franklin D. Roosevelt - First Inaugural Address, 1933",
+      "category": "Famous",
+      "tags": ["courage", "history"],
+      "interpretations": {
+        "Edgar Allan Poe": "Fear—the specter that feeds upon itself, a parasite of the soul.",
+        "Kanye West": "Fear is an illusion made by those who never made it.",
+        "Frieren": "Fear fades with time—it’s often smaller than the memory it becomes." 
+      }
     },
     {
-        "text": "Be the change that you wish to see in the world.",
-        "source": "Mahatma Gandhi - Attributed",
-        "category": "Famous",
-        "tags": [
-            "inspiration",
-            "change"
-        ]
+      "text": "Be the change that you wish to see in the world.",
+      "source": "Mahatma Gandhi - Attributed",
+      "category": "Famous",
+      "tags": ["inspiration", "change"],
+      "interpretations": {
+        "Edgar Allan Poe": "Change begins in the soul, where shadows wrestle with light.",
+        "Kanye West": "I didn’t wait for change—I became it. That’s the difference.",
+        "Frieren": "Even the smallest action leaves ripples across time." 
+      }
     },
     {
-        "text": "In the middle of difficulty lies opportunity.",
-        "source": "Albert Einstein - Attributed",
-        "category": "Famous",
-        "tags": [
-            "perseverance",
-            "opportunity"
-        ]
+      "text": "In the middle of difficulty lies opportunity.",
+      "source": "Albert Einstein - Attributed",
+      "category": "Famous",
+      "tags": ["perseverance", "opportunity"],
+      "interpretations": {
+        "Edgar Allan Poe": "Adversity is the midnight in which stars of fortune ignite.",
+        "Kanye West": "Pain is the price of genius. Diamonds form under pressure.",
+        "Frieren": "Hardship carves the space where new strength grows." 
+      }
     },
     {
-        "text": "Not all those who wander are lost.",
-        "source": "J.R.R. Tolkien - The Fellowship of the Ring",
-        "category": "Book",
-        "tags": [
-            "journey",
-            "discovery"
-        ]
+      "text": "Not all those who wander are lost.",
+      "source": "J.R.R. Tolkien - The Fellowship of the Ring",
+      "category": "Book",
+      "tags": ["journey", "discovery"],
+      "interpretations": {
+        "Edgar Allan Poe": "Wandering souls often seek truths hidden from still minds.",
+        "Kanye West": "Just ‘cause I move different doesn’t mean I’m not on path.",
+        "Frieren": "Wandering is part of understanding—the destination isn’t always the point." 
+      }
     },
     {
-        "text": "It is our choices that show what we truly are, far more than our abilities.",
-        "source": "J.K. Rowling - Harry Potter and the Chamber of Secrets",
-        "category": "Book",
-        "tags": [
-            "choices",
-            "identity"
-        ]
+      "text": "It is our choices that show what we truly are, far more than our abilities.",
+      "source": "J.K. Rowling - Harry Potter and the Chamber of Secrets",
+      "category": "Book",
+      "tags": ["choices", "identity"],
+      "interpretations": {
+        "Edgar Allan Poe": "In choice lies the fracture of the soul—one path taken shadows the rest.",
+        "Kanye West": "You are what you choose to fight for. That’s your legacy.",
+        "Frieren": "Your power means little if you choose not to use it with care." 
+      }
     },
     {
-        "text": "So it goes.",
-        "source": "Kurt Vonnegut - Slaughterhouse-Five",
-        "category": "Book",
-        "tags": [
-            "life",
-            "acceptance"
-        ]
+      "text": "So it goes.",
+      "source": "Kurt Vonnegut - Slaughterhouse-Five",
+      "category": "Book",
+      "tags": ["life", "acceptance"],
+      "interpretations": {
+        "Edgar Allan Poe": "Existence unspools like a raven’s cry—inevitable and cold.",
+        "Kanye West": "You can’t stop time, only build what outlasts it.",
+        "Frieren": "Some things just pass. You learn to keep walking." 
+      }
     }
-]
+  ]
+  
