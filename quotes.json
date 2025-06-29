@@ -1,91 +1,235 @@
-[
-    {
-      "text": "For I know the plans I have for you, declares the Lord.",
-      "source": "Bible - Jeremiah 29:11",
-      "category": "Bible",
-      "tags": ["faith", "hope"],
-      "interpretations": {
-        "Edgar Allan Poe": "A divine will plots paths beyond mortal knowing—a comforting dread in the darkness of fate.",
-        "Kanye West": "God had a blueprint for me. That’s why I’m untouchable.",
-        "Frieren": "Even without knowing the full plan, it’s enough to walk forward." 
-      }
-    },
-    {
-      "text": "I can do all things through Christ who strengthens me.",
-      "source": "Bible - Philippians 4:13",
-      "category": "Bible",
-      "tags": ["strength", "faith"],
-      "interpretations": {
-        "Edgar Allan Poe": "In dark hours, strength descends not from man but from the whispers of divinity.",
-        "Kanye West": "I’m powered by faith. That’s why limits don’t exist for me.",
-        "Frieren": "Strength isn’t always visible—it’s what carries you through centuries of silence." 
-      }
-    },
-    {
-      "text": "The only thing we have to fear is fear itself.",
-      "source": "Franklin D. Roosevelt - First Inaugural Address, 1933",
-      "category": "Famous",
-      "tags": ["courage", "history"],
-      "interpretations": {
-        "Edgar Allan Poe": "Fear—the specter that feeds upon itself, a parasite of the soul.",
-        "Kanye West": "Fear is an illusion made by those who never made it.",
-        "Frieren": "Fear fades with time—it’s often smaller than the memory it becomes." 
-      }
-    },
-    {
-      "text": "Be the change that you wish to see in the world.",
-      "source": "Mahatma Gandhi - Attributed",
-      "category": "Famous",
-      "tags": ["inspiration", "change"],
-      "interpretations": {
-        "Edgar Allan Poe": "Change begins in the soul, where shadows wrestle with light.",
-        "Kanye West": "I didn’t wait for change—I became it. That’s the difference.",
-        "Frieren": "Even the smallest action leaves ripples across time." 
-      }
-    },
-    {
-      "text": "In the middle of difficulty lies opportunity.",
-      "source": "Albert Einstein - Attributed",
-      "category": "Famous",
-      "tags": ["perseverance", "opportunity"],
-      "interpretations": {
-        "Edgar Allan Poe": "Adversity is the midnight in which stars of fortune ignite.",
-        "Kanye West": "Pain is the price of genius. Diamonds form under pressure.",
-        "Frieren": "Hardship carves the space where new strength grows." 
-      }
-    },
-    {
-      "text": "Not all those who wander are lost.",
-      "source": "J.R.R. Tolkien - The Fellowship of the Ring",
-      "category": "Book",
-      "tags": ["journey", "discovery"],
-      "interpretations": {
-        "Edgar Allan Poe": "Wandering souls often seek truths hidden from still minds.",
-        "Kanye West": "Just ‘cause I move different doesn’t mean I’m not on path.",
-        "Frieren": "Wandering is part of understanding—the destination isn’t always the point." 
-      }
-    },
-    {
-      "text": "It is our choices that show what we truly are, far more than our abilities.",
-      "source": "J.K. Rowling - Harry Potter and the Chamber of Secrets",
-      "category": "Book",
-      "tags": ["choices", "identity"],
-      "interpretations": {
-        "Edgar Allan Poe": "In choice lies the fracture of the soul—one path taken shadows the rest.",
-        "Kanye West": "You are what you choose to fight for. That’s your legacy.",
-        "Frieren": "Your power means little if you choose not to use it with care." 
-      }
-    },
-    {
-      "text": "So it goes.",
-      "source": "Kurt Vonnegut - Slaughterhouse-Five",
-      "category": "Book",
-      "tags": ["life", "acceptance"],
-      "interpretations": {
-        "Edgar Allan Poe": "Existence unspools like a raven’s cry—inevitable and cold.",
-        "Kanye West": "You can’t stop time, only build what outlasts it.",
-        "Frieren": "Some things just pass. You learn to keep walking." 
-      }
-    }
-  ]
+
+    [
+        {
+          "text": "For I know the plans I have for you, declares the Lord.",
+          "source": "Bible - Jeremiah 29:11",
+          "category": "Bible",
+          "tags": ["faith", "hope"],
+          "interpretations": {
+            "Edgar Allan Poe": "A divine will plots paths beyond mortal knowing—a comforting dread in the darkness of fate.",
+            "Kanye West": "God had a blueprint for me. That’s why I’m untouchable.",
+            "Frieren": "Even without knowing the full plan, it’s enough to walk forward." 
+          }
+        },
+        {
+          "text": "I can do all things through Christ who strengthens me.",
+          "source": "Bible - Philippians 4:13",
+          "category": "Bible",
+          "tags": ["strength", "faith"],
+          "interpretations": {
+            "Edgar Allan Poe": "In dark hours, strength descends not from man but from the whispers of divinity.",
+            "Kanye West": "I’m powered by faith. That’s why limits don’t exist for me.",
+            "Frieren": "Strength isn’t always visible—it’s what carries you through centuries of silence." 
+          }
+        },
+        {
+          "text": "The only thing we have to fear is fear itself.",
+          "source": "Franklin D. Roosevelt - First Inaugural Address, 1933",
+          "category": "Famous",
+          "tags": ["courage", "history"],
+          "interpretations": {
+            "Edgar Allan Poe": "Fear—the specter that feeds upon itself, a parasite of the soul.",
+            "Kanye West": "Fear is an illusion made by those who never made it.",
+            "Frieren": "Fear fades with time—it’s often smaller than the memory it becomes." 
+          }
+        },
+        {
+          "text": "Be the change that you wish to see in the world.",
+          "source": "Mahatma Gandhi - Attributed",
+          "category": "Famous",
+          "tags": ["inspiration", "change"],
+          "interpretations": {
+            "Edgar Allan Poe": "Change begins in the soul, where shadows wrestle with light.",
+            "Kanye West": "I didn’t wait for change—I became it. That’s the difference.",
+            "Frieren": "Even the smallest action leaves ripples across time." 
+          }
+        },
+        {
+          "text": "In the middle of difficulty lies opportunity.",
+          "source": "Albert Einstein - Attributed",
+          "category": "Famous",
+          "tags": ["perseverance", "opportunity"],
+          "interpretations": {
+            "Edgar Allan Poe": "Adversity is the midnight in which stars of fortune ignite.",
+            "Kanye West": "Pain is the price of genius. Diamonds form under pressure.",
+            "Frieren": "Hardship carves the space where new strength grows." 
+          }
+        },
+        {
+          "text": "Not all those who wander are lost.",
+          "source": "J.R.R. Tolkien - The Fellowship of the Ring",
+          "category": "Book",
+          "tags": ["journey", "discovery"],
+          "interpretations": {
+            "Edgar Allan Poe": "Wandering souls often seek truths hidden from still minds.",
+            "Kanye West": "Just ‘cause I move different doesn’t mean I’m not on path.",
+            "Frieren": "Wandering is part of understanding—the destination isn’t always the point." 
+          }
+        },
+        {
+          "text": "It is our choices that show what we truly are, far more than our abilities.",
+          "source": "J.K. Rowling - Harry Potter and the Chamber of Secrets",
+          "category": "Book",
+          "tags": ["choices", "identity"],
+          "interpretations": {
+            "Edgar Allan Poe": "In choice lies the fracture of the soul—one path taken shadows the rest.",
+            "Kanye West": "You are what you choose to fight for. That’s your legacy.",
+            "Frieren": "Your power means little if you choose not to use it with care." 
+          }
+        },
+        {
+          "text": "So it goes.",
+          "source": "Kurt Vonnegut - Slaughterhouse-Five",
+          "category": "Book",
+          "tags": ["life", "acceptance"],
+          "interpretations": {
+            "Edgar Allan Poe": "Existence unspools like a raven’s cry—inevitable and cold.",
+            "Kanye West": "You can’t stop time, only build what outlasts it.",
+            "Frieren": "Some things just pass. You learn to keep walking." 
+          }
+        },
+        {
+          "text": "No matter how dark things get, I always have hope.",
+          "source": "Bell Cranel - Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+          "category": "Anime",
+          "tags": ["hope", "determination"],
+          "interpretations": {
+            "Edgar Allan Poe": "Hope is the cruelest flame, flickering still in the caverns of despair.",
+            "Kanye West": "They tried to trap me in the dark—I lit it up with vision.",
+            "Frieren": "Even in the deepest dungeon, one step forward brings the light closer."
+          }
+        },
+        {
+          "text": "There's no rule that says a pervert can't also be a martial arts master!",
+          "source": "Master Roshi - Dragon Ball",
+          "category": "Anime",
+          "tags": ["humor", "discipline"],
+          "interpretations": {
+            "Edgar Allan Poe": "A paradoxical jest—virtue and vice entangled within one fragile vessel.",
+            "Kanye West": "A genius ain’t always clean-cut—look at me.",
+            "Frieren": "Power doesn’t always come with dignity. But it still protects."
+          }
+        },
+        {
+          "text": "The earth speaks to all of us, and if we listen, we can understand.",
+          "source": "Sheeta - Laputa: Castle in the Sky",
+          "category": "Anime",
+          "tags": ["nature", "wisdom"],
+          "interpretations": {
+            "Edgar Allan Poe": "The whisper of the earth—eternal, eerie, a hymn for forgotten souls.",
+            "Kanye West": "The ground holds secrets. I hear 'em all. That’s why I lead.",
+            "Frieren": "To live long is to hear the silence between the leaves. That’s where truth lives."
+          }
+        },
+        {
+          "text": "Why so serious?",
+          "source": "The Joker - The Dark Knight (2008)",
+          "category": "Movie",
+          "tags": ["chaos", "identity"],
+          "interpretations": {
+            "Edgar Allan Poe": "The mask of mirth conceals a grotesque truth—madness needs no reason.",
+            "Kanye West": "Life’s a stage. I smile through the fire.",
+            "Frieren": "Some people laugh to hide the weight they carry inside."
+          }
+        },
+        {
+          "text": "I’ll be back.",
+          "source": "Terminator - The Terminator (1984)",
+          "category": "Movie",
+          "tags": ["promise", "power"],
+          "interpretations": {
+            "Edgar Allan Poe": "A mechanical vow echoes like the ticking of fate’s own metronome.",
+            "Kanye West": "I never leave—I evolve.",
+            "Frieren": "Even the coldest farewell can carry a quiet promise."
+          }
+        },
+        {
+          "text": "May the Force be with you.",
+          "source": "Obi-Wan Kenobi - Star Wars: A New Hope (1977)",
+          "category": "Movie",
+          "tags": ["faith", "strength"],
+          "interpretations": {
+            "Edgar Allan Poe": "An unseen power—whispering through time like spirits in the void.",
+            "Kanye West": "I got my own Force. I call it divine energy.",
+            "Frieren": "Even unseen forces can guide us, if we trust them."
+          }
+        },
+        {
+          "text": "To infinity and beyond!",
+          "source": "Buzz Lightyear - Toy Story (1995)",
+          "category": "Movie",
+          "tags": ["exploration", "bravery"],
+          "interpretations": {
+            "Edgar Allan Poe": "A cry against mortality, defying limits drawn by flesh and bone.",
+            "Kanye West": "I’m reaching where no one even thought to aim.",
+            "Frieren": "It’s not about the distance—it’s about the courage to leap."
+          }
+        },
+        {
+          "text": "Even the smallest person can change the course of the future.",
+          "source": "Galadriel - The Lord of the Rings: The Fellowship of the Ring (2001)",
+          "category": "Movie",
+          "tags": ["potential", "destiny"],
+          "interpretations": {
+            "Edgar Allan Poe": "Tiny hands often tip the scales of fate—unseen, but undeniable.",
+            "Kanye West": "Don’t measure power by size. Greatness starts in the overlooked.",
+            "Frieren": "I’ve watched the smallest spark ignite history."
+          }
+        },
+        {
+          "text": "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else.",
+          "source": "Edward Elric - Fullmetal Alchemist: Brotherhood",
+          "category": "Anime",
+          "tags": ["sacrifice", "growth"],
+          "interpretations": {
+            "Edgar Allan Poe": "Pain is the toll exacted at every threshold of understanding.",
+            "Kanye West": "I built my empire with sacrifice. That’s the alchemy of greatness.",
+            "Frieren": "Pain gives shape to our choices—and teaches us why they matter."
+          }
+        },
+        {
+          "text": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on his own.",
+          "source": "Jiraiya - Naruto",
+          "category": "Anime",
+          "tags": ["growth", "independence"],
+          "interpretations": {
+            "Edgar Allan Poe": "Maturity blossoms not in shelter, but under the burden of agony.",
+            "Kanye West": "You can't raise kings in comfort. Pressure shapes greatness.",
+            "Frieren": "Loneliness teaches lessons no guardian ever could."
+          }
+        },
+        {
+          "text": "I want to know what ‘beautiful’ means.",
+          "source": "Vivi - One Piece",
+          "category": "Anime",
+          "tags": ["curiosity", "emotion"],
+          "interpretations": {
+            "Edgar Allan Poe": "Beauty is a shadow cast by longing—yearned for, never seized.",
+            "Kanye West": "Beautiful is when your soul breaks through the noise.",
+            "Frieren": "Beauty is what lingers—like a memory that gently aches."
+          }
+        },
+        {
+          "text": "People’s lives don’t end when they die. It ends when they lose faith.",
+          "source": "Itachi Uchiha - Naruto",
+          "category": "Anime",
+          "tags": ["faith", "identity"],
+          "interpretations": {
+            "Edgar Allan Poe": "The heart may beat, yet lie dead in the absence of belief.",
+            "Kanye West": "They killed your body, but not your vision—that’s eternal.",
+            "Frieren": "Even long lives can feel over if you forget what you believe in."
+          }
+        },
+        {
+          "text": "These hoes ain't loyal.",
+          "source": "Chris Brown - Interview lyric reference (2014)",
+          "category": "Music",
+          "tags": ["trust", "relationships"],
+          "interpretations": {
+              "Edgar Allan Poe": "A lament of treachery, echoing from the chambers of the disenchanted heart.",
+              "Kanye West": "Loyalty’s rare, especially when the spotlight hits. I know the cost.",
+              "Frieren": "Loyalty is a word too easily spoken and too rarely lived."
+          }
+        }
+    ]
   
