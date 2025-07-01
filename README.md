@@ -1,2 +1,2 @@
-# daily-quotes-data
-JSON data for Daily Quotes app
+# Wisdom-du-jour-Data
+JSON data for Wisdom du Jour app
