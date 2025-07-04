@@ -238,7 +238,7 @@
     "tags": ["sacrifice", "emotion"],
     "interpretations": {
       "Marcus Aurelius": "To endure pain willingly for another is a conscious act of virtue—yet must be measured with reason.",
-      "Lordgenome": "Fools shed blood for love. Only through resolve does sacrifice gain meaning.",
+      "Lord Genome": "Fools shed blood for love. Only through resolve does sacrifice gain meaning.",
       "Gojo (My Dress-Up Darling)": "It’s scary to give that much... but when you care deeply, you just do."
     }
   },
@@ -249,7 +249,7 @@
     "tags": ["love", "paradox"],
     "interpretations": {
       "Marcus Aurelius": "Even disorder can soothe when the soul is attached, though true peace lies in discipline.",
-      "Lordgenome": "You confuse pain with love—true strength feels no comfort in chaos.",
+      "Lord Genome": "You confuse pain with love—true strength feels no comfort in chaos.",
       "Gojo (My Dress-Up Darling)": "Even if it hurt, part of me felt seen. That’s what makes it complicated."
     }
   },
@@ -260,7 +260,7 @@
     "tags": ["resilience", "healing"],
     "interpretations": {
       "Marcus Aurelius": "The soul may bend under pressure, but it retains its form unless abandoned.",
-      "Lordgenome": "Bent things snap when tested. Strength is being unyielding.",
+      "Lord Genome": "Bent things snap when tested. Strength is being unyielding.",
       "Gojo (My Dress-Up Darling)": "I get it—sometimes you just need time, not fixing."
     }
   },
@@ -271,7 +271,7 @@
     "tags": ["betrayal", "vulnerability"],
     "interpretations": {
       "Marcus Aurelius": "Do not grieve what was given freely. One’s virtue lies in the giving, not the outcome.",
-      "Lordgenome": "Only the weak give without cost. You earned your pain.",
+      "Lord Genome": "Only the weak give without cost. You earned your pain.",
       "Gojo (My Dress-Up Darling)": "It hurts when someone takes more than you thought they would... but you learn."
     }
   },
@@ -282,7 +282,7 @@
     "tags": ["intellect", "humility"],
     "interpretations": {
       "Marcus Aurelius": "To seek knowledge is not weakness but the exercise of wisdom.",
-      "Lordgenome": "Even the strong must question—or they become tools of their own power.",
+      "Lord Genome": "Even the strong must question—or they become tools of their own power.",
       "Gojo (My Dress-Up Darling)": "Smart doesn’t mean you know everything. Real strength is asking anyway."
     }
   },
@@ -293,7 +293,7 @@
     "tags": ["identity", "power"],
     "interpretations": {
       "Marcus Aurelius": "Honor and integrity passed through generations are a man’s greatest fortune.",
-      "Lordgenome": "Bloodlines carry strength—but strength is nothing without purpose.",
+      "Lord Genome": "Bloodlines carry strength—but strength is nothing without purpose.",
       "Gojo (My Dress-Up Darling)": "Sometimes you just feel it, like something in your bones saying you matter."
     }
   },
@@ -304,7 +304,7 @@
     "tags": ["gratitude", "perspective"],
     "interpretations": {
       "Marcus Aurelius": "Cherish what you possess; discontent breeds only misery.",
-      "Lordgenome": "The world devours those who chase ghosts. Own your kingdom—no matter how small.",
+      "Lord Genome": "The world devours those who chase ghosts. Own your kingdom—no matter how small.",
       "Gojo (My Dress-Up Darling)": "What you have is already enough—don’t wait to be happy."
     }
   },
@@ -315,7 +315,7 @@
     "tags": ["wealth", "growth"],
     "interpretations": {
       "Marcus Aurelius": "Luxury dulls the soul. Without hardship, there is no virtue.",
-      "Lordgenome": "Gold is soft. Only those who suffer become unbreakable.",
+      "Lord Genome": "Gold is soft. Only those who suffer become unbreakable.",
       "Gojo (My Dress-Up Darling)": "It’s the hard stuff that helps you bloom... even if it sucks at first."
     }
   },
@@ -326,7 +326,7 @@
     "tags": ["purpose", "reflection"],
     "interpretations": {
       "Marcus Aurelius": "Live in accordance with nature and reason, so death meets no unfinished business.",
-      "Lordgenome": "Regret is the chain of the weak. Forge your life like a weapon.",
+      "Lord Genome": "Regret is the chain of the weak. Forge your life like a weapon.",
       "Gojo (My Dress-Up Darling)": "Yeah... I think about that too. I just want to be proud of how I spent my time."
     }
   },
@@ -337,7 +337,7 @@
     "tags": ["morality", "psychology"],
     "interpretations": {
       "Marcus Aurelius": "Guard your mind against corruption, for character is tested in adversity.",
-      "Lordgenome": "Push a man far enough, and he reveals what lies beneath civility.",
+      "Lord Genome": "Push a man far enough, and he reveals what lies beneath civility.",
       "Gojo (My Dress-Up Darling)": "It’s scary to think anyone could slip like that… but I guess that’s why kindness matters."
     }
   },
@@ -348,7 +348,7 @@
     "tags": ["destiny", "dreams"],
     "interpretations": {
       "Marcus Aurelius": "Desire aligned with virtue shapes action. Fortune follows discipline, not whim.",
-      "Lordgenome": "The universe bends to those who force it to. Weak will is ignored.",
+      "Lord Genome": "The universe bends to those who force it to. Weak will is ignored.",
       "Gojo (My Dress-Up Darling)": "That’s kinda beautiful, right? Like... if your heart’s really in it, stuff just clicks."
     }
   },
@@ -460,6 +460,72 @@
       "Bojack Horseman": "Would’ve been nice if someone stuck around to walk next to me.",
       "Ted Lasso": "Everyone’s got their own path. But I’ll bring the snacks for the journey.",
       "Ryuko Matoi": "I don’t need a guide—just someone who won’t run."
+    }
+  }, 
+  {
+    "text": "Many are afraid to create something great, because they prefer to create something safe. There's no life in safety, only at the beginning of greatness.",
+    "source": "P.I.M.P. - 07/03/2025",
+    "category": "Original",
+    "tags": ["creativity", "risk", "ambition"],
+    "interpretations": {
+      "Marcus Aurelius": "The soul shrinks when it chooses ease over excellence. Greatness lies in fulfilling your purpose, not in comfort.",
+      "Ryuko Matoi": "Safe is boring. If you're not risking something, you're not living — you're just waiting.",
+      "Gojo (My Dress-Up Darling)": "I used to play it safe too... until I realized real joy comes from doing what scares you most."
+    }
+  },
+  {
+    "text": "A story never ends, it only waits for someone brave enough to keep reading.",
+    "source": "Falkor - The NeverEnding Story (1984)",
+    "category": "Movie",
+    "tags": ["imagination", "courage"],
+    "interpretations": {
+      "Carl Jung (Swiss Psychoanalyst)": "The story is the unconscious—it waits until the ego dares to descend into the mythic depths.",
+      "Ashitaka (Princess Mononoke)": "Courage isn't the absence of fear. It's the choice to face what others leave behind.",
+      "Dani Ardor (Midsommar)": "Sometimes I read just to feel like I still exist. And it helps."
+    }
+  },
+  {
+    "text": "The road never felt so real until I walked it with people who mattered.",
+    "source": "Gordie Lachance - Stand by Me (1986)",
+    "category": "Movie",
+    "tags": ["friendship", "memory"],
+    "interpretations": {
+      "Carl Jung (Swiss Psychoanalyst)": "Shared experience strengthens the individual’s path to individuation.",
+      "Ashitaka (Princess Mononoke)": "Loyalty gives the journey meaning—even if the path ends too soon.",
+      "Dani Ardor (Midsommar)": "You don’t always know what mattered most until it's long gone."
+    }
+  },
+  {
+    "text": "The more you chase the path, the more it changes to test you.",
+    "source": "Jareth the Goblin King - Labyrinth (1986)",
+    "category": "Movie",
+    "tags": ["identity", "challenge"],
+    "interpretations": {
+      "Carl Jung (Swiss Psychoanalyst)": "The labyrinth is a symbol of the psyche—its shifting nature is the mirror of transformation.",
+      "Ashitaka (Princess Mononoke)": "Even if the walls move, your steps still mean something.",
+      "Dani Ardor (Midsommar)": "I thought I was lost. But maybe I was just being asked to change."
+    }
+  },
+  {
+    "text": "The scariest part of never growing up is never growing out of your hunger.",
+    "source": "David - The Lost Boys (1987)",
+    "category": "Movie",
+    "tags": ["youth", "addiction", "darkness"],
+    "interpretations": {
+      "Carl Jung (Swiss Psychoanalyst)": "The eternal child becomes dangerous when he denies his shadow.",
+      "Ashitaka (Princess Mononoke)": "To grow is to choose responsibility over instinct.",
+      "Dani Ardor (Midsommar)": "Some people never stop wanting... and that’s the part that scares me most."
+    }
+  },
+  {
+    "text": "Everyone loves the comeback. No one loves the breaking.",
+    "source": "Micky Ward - The Fighter (2010)",
+    "category": "Movie",
+    "tags": ["resilience", "struggle"],
+    "interpretations": {
+      "Carl Jung (Swiss Psychoanalyst)": "The comeback is the ego's return after its descent into the underworld.",
+      "Ashitaka (Princess Mononoke)": "A true fighter heals what others can't see.",
+      "Dani Ardor (Midsommar)": "It’s not fair... but it’s real. And real is enough to rise again."
     }
   }
 ]
