@@ -1,531 +1,722 @@
-
 [
   {
     "text": "For I know the plans I have for you, declares the Lord.",
     "source": "Bible - Jeremiah 29:11",
     "category": "Bible",
-    "tags": ["faith", "hope"],
+    "tags": [
+      "faith",
+      "hope"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "A divine will plots paths beyond mortal knowing—a comforting dread in the darkness of fate.",
-      "Kanye West": "God had a blueprint for me. That’s why I’m untouchable.",
-      "Frieren": "Even without knowing the full plan, it’s enough to walk forward." 
+      "Kanye West (Musician)": "God had a blueprint for me. That’s why I’m untouchable.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Even without knowing the full plan, it’s enough to walk forward.",
+      "Lucifer (Christian Theology)": "“Ah yes, plans. Divine blueprints drawn in secret ink. But remember: even the grandest of destinies can be derailed by one well-placed whisper.”"
     }
   },
   {
     "text": "I can do all things through Christ who strengthens me.",
     "source": "Bible - Philippians 4:13",
     "category": "Bible",
-    "tags": ["strength", "faith"],
+    "tags": [
+      "strength",
+      "faith"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "In dark hours, strength descends not from man but from the whispers of divinity.",
-      "Kanye West": "I’m powered by faith. That’s why limits don’t exist for me.",
-      "Frieren": "Strength isn’t always visible—it’s what carries you through centuries of silence." 
+      "Kanye West (Musician)": "I’m powered by faith. That’s why limits don’t exist for me.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Strength isn’t always visible—it’s what carries you through centuries of silence.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Faith is a delicacy. Those who taste divine strength often mistake it for their own appetite for power. I merely refine it.”"
     }
   },
   {
     "text": "The only thing we have to fear is fear itself.",
     "source": "Franklin D. Roosevelt - First Inaugural Address, 1933",
     "category": "Famous",
-    "tags": ["courage", "history"],
+    "tags": [
+      "courage",
+      "history"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Fear—the specter that feeds upon itself, a parasite of the soul.",
-      "Kanye West": "Fear is an illusion made by those who never made it.",
-      "Frieren": "Fear fades with time—it’s often smaller than the memory it becomes." 
+      "Kanye West (Musician)": "Fear is an illusion made by those who never made it.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Fear fades with time—it’s often smaller than the memory it becomes.",
+      "Robin Williams (Actor/Comedian)": "“Fear? That old clown? Sometimes you laugh at it, sometimes it laughs at you. Just don’t let it run the show, kid.”"
     }
   },
   {
     "text": "Be the change that you wish to see in the world.",
     "source": "Mahatma Gandhi - Attributed",
     "category": "Famous",
-    "tags": ["inspiration", "change"],
+    "tags": [
+      "inspiration",
+      "change"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Change begins in the soul, where shadows wrestle with light.",
-      "Kanye West": "I didn’t wait for change—I became it. That’s the difference.",
-      "Frieren": "Even the smallest action leaves ripples across time." 
+      "Kanye West (Musician)": "I didn’t wait for change—I became it. That’s the difference.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Even the smallest action leaves ripples across time.",
+      "Ringo Noyamano (Air Gear)": "“You don’t wait for the sky to shift—you ride it, break it, become the storm that changes it all.”"
     }
   },
   {
     "text": "In the middle of difficulty lies opportunity.",
     "source": "Albert Einstein - Attributed",
     "category": "Famous",
-    "tags": ["perseverance", "opportunity"],
+    "tags": [
+      "perseverance",
+      "opportunity"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Adversity is the midnight in which stars of fortune ignite.",
-      "Kanye West": "Pain is the price of genius. Diamonds form under pressure.",
-      "Frieren": "Hardship carves the space where new strength grows." 
+      "Kanye West (Musician)": "Pain is the price of genius. Diamonds form under pressure.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Hardship carves the space where new strength grows.",
+      "Frank Underwood (House of Cards)": "“Difficulty isn’t a wall—it’s a ladder. Most are too timid to climb it. But for those of us with ambition? It’s the perfect view.”"
     }
   },
   {
     "text": "Not all those who wander are lost.",
     "source": "J.R.R. Tolkien - The Fellowship of the Ring",
     "category": "Book",
-    "tags": ["journey", "discovery"],
+    "tags": [
+      "journey",
+      "discovery"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Wandering souls often seek truths hidden from still minds.",
-      "Kanye West": "Just ‘cause I move different doesn’t mean I’m not on path.",
-      "Frieren": "Wandering is part of understanding—the destination isn’t always the point." 
+      "Kanye West (Musician)": "Just ‘cause I move different doesn’t mean I’m not on path.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Wandering is part of understanding—the destination isn’t always the point.",
+      "Lucifer (Christian Theology)": "“A divine promise, perhaps—but every path lit by heaven casts a shadow. Plans can be... influenced.”"
     }
   },
   {
     "text": "It is our choices that show what we truly are, far more than our abilities.",
     "source": "J.K. Rowling - Harry Potter and the Chamber of Secrets",
     "category": "Book",
-    "tags": ["choices", "identity"],
+    "tags": [
+      "choices",
+      "identity"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "In choice lies the fracture of the soul—one path taken shadows the rest.",
-      "Kanye West": "You are what you choose to fight for. That’s your legacy.",
-      "Frieren": "Your power means little if you choose not to use it with care." 
+      "Kanye West (Musician)": "You are what you choose to fight for. That’s your legacy.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Your power means little if you choose not to use it with care.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Choice reveals the flavor of one’s soul. Abilities are but the seasoning.”"
     }
   },
   {
     "text": "So it goes.",
     "source": "Kurt Vonnegut - Slaughterhouse-Five",
     "category": "Book",
-    "tags": ["life", "acceptance"],
+    "tags": [
+      "life",
+      "acceptance"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Existence unspools like a raven’s cry—inevitable and cold.",
-      "Kanye West": "You can’t stop time, only build what outlasts it.",
-      "Frieren": "Some things just pass. You learn to keep walking." 
+      "Kanye West (Musician)": "You can’t stop time, only build what outlasts it.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Some things just pass. You learn to keep walking.",
+      "Robin Williams (Actor/Comedian)": "“Sometimes the world’s so dark, laughter is the flashlight. And even then, it flickers with hope.”"
     }
   },
   {
     "text": "No matter how dark things get, I always have hope.",
     "source": "Bell Cranel - Is It Wrong to Try to Pick Up Girls in a Dungeon?",
     "category": "Anime",
-    "tags": ["hope", "determination"],
+    "tags": [
+      "hope",
+      "determination"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Hope is the cruelest flame, flickering still in the caverns of despair.",
-      "Kanye West": "They tried to trap me in the dark—I lit it up with vision.",
-      "Frieren": "Even in the deepest dungeon, one step forward brings the light closer."
+      "Kanye West (Musician)": "They tried to trap me in the dark—I lit it up with vision.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Even in the deepest dungeon, one step forward brings the light closer.",
+      "Ringo Noyamano (Air Gear)": "“You fall, you roll, you ride again. Darkness just makes the sparks brighter.”"
     }
   },
   {
     "text": "There's no rule that says a pervert can't also be a martial arts master!",
     "source": "Master Roshi - Dragon Ball",
     "category": "Anime",
-    "tags": ["humor", "discipline"],
+    "tags": [
+      "humor",
+      "discipline"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "A paradoxical jest—virtue and vice entangled within one fragile vessel.",
-      "Kanye West": "A genius ain’t always clean-cut—look at me.",
-      "Frieren": "Power doesn’t always come with dignity. But it still protects."
+      "Kanye West (Musician)": "A genius ain’t always clean-cut—look at me.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Power doesn’t always come with dignity. But it still protects.",
+      "Frank Underwood (House of Cards)": "“Perverts? Masters? Titles mean little. What matters is control—of self, of narrative, of perception.”"
     }
   },
   {
     "text": "The earth speaks to all of us, and if we listen, we can understand.",
     "source": "Sheeta - Laputa: Castle in the Sky",
     "category": "Anime",
-    "tags": ["nature", "wisdom"],
+    "tags": [
+      "nature",
+      "wisdom"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "The whisper of the earth—eternal, eerie, a hymn for forgotten souls.",
-      "Kanye West": "The ground holds secrets. I hear 'em all. That’s why I lead.",
-      "Frieren": "To live long is to hear the silence between the leaves. That’s where truth lives."
+      "Kanye West (Musician)": "The ground holds secrets. I hear 'em all. That’s why I lead.",
+      "Frieren (Frieren: Beyond Journey’s End)": "To live long is to hear the silence between the leaves. That’s where truth lives.",
+      "Lucifer (Christian Theology)": "“A divine promise, perhaps—but every path lit by heaven casts a shadow. Plans can be... influenced.”"
     }
   },
   {
     "text": "Why so serious?",
     "source": "The Joker - The Dark Knight (2008)",
     "category": "Movie",
-    "tags": ["chaos", "identity"],
+    "tags": [
+      "chaos",
+      "identity"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "The mask of mirth conceals a grotesque truth—madness needs no reason.",
-      "Kanye West": "Life’s a stage. I smile through the fire.",
-      "Frieren": "Some people laugh to hide the weight they carry inside."
+      "Kanye West (Musician)": "Life’s a stage. I smile through the fire.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Some people laugh to hide the weight they carry inside.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Choice reveals the flavor of one’s soul. Abilities are but the seasoning.”"
     }
   },
   {
     "text": "I’ll be back.",
     "source": "Terminator - The Terminator (1984)",
     "category": "Movie",
-    "tags": ["promise", "power"],
+    "tags": [
+      "promise",
+      "power"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "A mechanical vow echoes like the ticking of fate’s own metronome.",
-      "Kanye West": "I never leave—I evolve.",
-      "Frieren": "Even the coldest farewell can carry a quiet promise."
+      "Kanye West (Musician)": "I never leave—I evolve.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Even the coldest farewell can carry a quiet promise.",
+      "Robin Williams (Actor/Comedian)": "“Sometimes the world’s so dark, laughter is the flashlight. And even then, it flickers with hope.”"
     }
   },
   {
     "text": "May the Force be with you.",
     "source": "Obi-Wan Kenobi - Star Wars: A New Hope (1977)",
     "category": "Movie",
-    "tags": ["faith", "strength"],
+    "tags": [
+      "faith",
+      "strength"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "An unseen power—whispering through time like spirits in the void.",
-      "Kanye West": "I got my own Force. I call it divine energy.",
-      "Frieren": "Even unseen forces can guide us, if we trust them."
+      "Kanye West (Musician)": "I got my own Force. I call it divine energy.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Even unseen forces can guide us, if we trust them.",
+      "Ringo Noyamano (Air Gear)": "“You fall, you roll, you ride again. Darkness just makes the sparks brighter.”"
     }
   },
   {
     "text": "To infinity and beyond!",
     "source": "Buzz Lightyear - Toy Story (1995)",
     "category": "Movie",
-    "tags": ["exploration", "bravery"],
+    "tags": [
+      "exploration",
+      "bravery"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "A cry against mortality, defying limits drawn by flesh and bone.",
-      "Kanye West": "I’m reaching where no one even thought to aim.",
-      "Frieren": "It’s not about the distance—it’s about the courage to leap."
+      "Kanye West (Musician)": "I’m reaching where no one even thought to aim.",
+      "Frieren (Frieren: Beyond Journey’s End)": "It’s not about the distance—it’s about the courage to leap.",
+      "Frank Underwood (House of Cards)": "“Perverts? Masters? Titles mean little. What matters is control—of self, of narrative, of perception.”"
     }
   },
   {
     "text": "Even the smallest person can change the course of the future.",
     "source": "Galadriel - The Lord of the Rings: The Fellowship of the Ring (2001)",
     "category": "Movie",
-    "tags": ["potential", "destiny"],
+    "tags": [
+      "potential",
+      "destiny"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Tiny hands often tip the scales of fate—unseen, but undeniable.",
-      "Kanye West": "Don’t measure power by size. Greatness starts in the overlooked.",
-      "Frieren": "I’ve watched the smallest spark ignite history."
+      "Kanye West (Musician)": "Don’t measure power by size. Greatness starts in the overlooked.",
+      "Frieren (Frieren: Beyond Journey’s End)": "I’ve watched the smallest spark ignite history.",
+      "Lucifer (Christian Theology)": "“A divine promise, perhaps—but every path lit by heaven casts a shadow. Plans can be... influenced.”"
     }
   },
   {
     "text": "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else.",
     "source": "Edward Elric - Fullmetal Alchemist: Brotherhood",
     "category": "Anime",
-    "tags": ["sacrifice", "growth"],
+    "tags": [
+      "sacrifice",
+      "growth"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Pain is the toll exacted at every threshold of understanding.",
-      "Kanye West": "I built my empire with sacrifice. That’s the alchemy of greatness.",
-      "Frieren": "Pain gives shape to our choices—and teaches us why they matter."
+      "Kanye West (Musician)": "I built my empire with sacrifice. That’s the alchemy of greatness.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Pain gives shape to our choices—and teaches us why they matter.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Choice reveals the flavor of one’s soul. Abilities are but the seasoning.”"
     }
   },
   {
     "text": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on his own.",
     "source": "Jiraiya - Naruto",
     "category": "Anime",
-    "tags": ["growth", "independence"],
+    "tags": [
+      "growth",
+      "independence"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Maturity blossoms not in shelter, but under the burden of agony.",
-      "Kanye West": "You can't raise kings in comfort. Pressure shapes greatness.",
-      "Frieren": "Loneliness teaches lessons no guardian ever could."
+      "Kanye West (Musician)": "You can't raise kings in comfort. Pressure shapes greatness.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Loneliness teaches lessons no guardian ever could.",
+      "Robin Williams (Actor/Comedian)": "“Sometimes the world’s so dark, laughter is the flashlight. And even then, it flickers with hope.”"
     }
   },
   {
     "text": "I want to know what ‘beautiful’ means.",
     "source": "Vivi - One Piece",
     "category": "Anime",
-    "tags": ["curiosity", "emotion"],
+    "tags": [
+      "curiosity",
+      "emotion"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "Beauty is a shadow cast by longing—yearned for, never seized.",
-      "Kanye West": "Beautiful is when your soul breaks through the noise.",
-      "Frieren": "Beauty is what lingers—like a memory that gently aches."
+      "Kanye West (Musician)": "Beautiful is when your soul breaks through the noise.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Beauty is what lingers—like a memory that gently aches.",
+      "Ringo Noyamano (Air Gear)": "“You fall, you roll, you ride again. Darkness just makes the sparks brighter.”"
     }
   },
   {
     "text": "People’s lives don’t end when they die. It ends when they lose faith.",
     "source": "Itachi Uchiha - Naruto",
     "category": "Anime",
-    "tags": ["faith", "identity"],
+    "tags": [
+      "faith",
+      "identity"
+    ],
     "interpretations": {
       "Edgar Allan Poe": "The heart may beat, yet lie dead in the absence of belief.",
-      "Kanye West": "They killed your body, but not your vision—that’s eternal.",
-      "Frieren": "Even long lives can feel over if you forget what you believe in."
+      "Kanye West (Musician)": "They killed your body, but not your vision—that’s eternal.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Even long lives can feel over if you forget what you believe in.",
+      "Frank Underwood (House of Cards)": "“Perverts? Masters? Titles mean little. What matters is control—of self, of narrative, of perception.”"
     }
   },
   {
     "text": "These hoes ain't loyal.",
     "source": "Chris Brown - Interview lyric reference (2014)",
     "category": "Music",
-    "tags": ["trust", "relationships"],
+    "tags": [
+      "trust",
+      "relationships"
+    ],
     "interpretations": {
-        "Edgar Allan Poe": "A lament of treachery, echoing from the chambers of the disenchanted heart.",
-        "Kanye West": "Loyalty’s rare, especially when the spotlight hits. I know the cost.",
-        "Frieren": "Loyalty is a word too easily spoken and too rarely lived."
+      "Edgar Allan Poe": "A lament of treachery, echoing from the chambers of the disenchanted heart.",
+      "Kanye West (Musician)": "Loyalty’s rare, especially when the spotlight hits. I know the cost.",
+      "Frieren (Frieren: Beyond Journey’s End)": "Loyalty is a word too easily spoken and too rarely lived.",
+      "Lucifer (Christian Theology)": "“A divine promise, perhaps—but every path lit by heaven casts a shadow. Plans can be... influenced.”"
     }
   },
   {
     "text": "I’ll bleed myself dry for you.",
     "source": "Radiohead - \"Fake Plastic Trees\" (1995)",
     "category": "Music",
-    "tags": ["sacrifice", "emotion"],
+    "tags": [
+      "sacrifice",
+      "emotion"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "To endure pain willingly for another is a conscious act of virtue—yet must be measured with reason.",
-      "Lord Genome": "Fools shed blood for love. Only through resolve does sacrifice gain meaning.",
-      "Gojo (My Dress-Up Darling)": "It’s scary to give that much... but when you care deeply, you just do."
+      "Marcus Aurelius (Stoic Philosophy)": "To endure pain willingly for another is a conscious act of virtue—yet must be measured with reason.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "Fools shed blood for love. Only through resolve does sacrifice gain meaning.",
+      "Gojo Wakana (My Dress-Up Darling)": "It’s scary to give that much... but when you care deeply, you just do.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Choice reveals the flavor of one’s soul. Abilities are but the seasoning.”"
     }
   },
   {
     "text": "I found peace in your violence.",
     "source": "Halsey - \"Without Me\" (2018)",
     "category": "Music",
-    "tags": ["love", "paradox"],
+    "tags": [
+      "love",
+      "paradox"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "Even disorder can soothe when the soul is attached, though true peace lies in discipline.",
-      "Lord Genome": "You confuse pain with love—true strength feels no comfort in chaos.",
-      "Gojo (My Dress-Up Darling)": "Even if it hurt, part of me felt seen. That’s what makes it complicated."
+      "Marcus Aurelius (Stoic Philosophy)": "Even disorder can soothe when the soul is attached, though true peace lies in discipline.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "You confuse pain with love—true strength feels no comfort in chaos.",
+      "Gojo Wakana (My Dress-Up Darling)": "Even if it hurt, part of me felt seen. That’s what makes it complicated.",
+      "Robin Williams (Actor/Comedian)": "“Sometimes the world’s so dark, laughter is the flashlight. And even then, it flickers with hope.”"
     }
   },
   {
     "text": "I’m not broken, just bent.",
     "source": "P!nk - \"Just Give Me a Reason\" (2012)",
     "category": "Music",
-    "tags": ["resilience", "healing"],
+    "tags": [
+      "resilience",
+      "healing"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "The soul may bend under pressure, but it retains its form unless abandoned.",
-      "Lord Genome": "Bent things snap when tested. Strength is being unyielding.",
-      "Gojo (My Dress-Up Darling)": "I get it—sometimes you just need time, not fixing."
+      "Marcus Aurelius (Stoic Philosophy)": "The soul may bend under pressure, but it retains its form unless abandoned.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "Bent things snap when tested. Strength is being unyielding.",
+      "Gojo Wakana (My Dress-Up Darling)": "I get it—sometimes you just need time, not fixing.",
+      "Ringo Noyamano (Air Gear)": "“You fall, you roll, you ride again. Darkness just makes the sparks brighter.”"
     }
   },
   {
     "text": "I gave you all and you ripped me off.",
     "source": "Mumford & Sons - \"I Gave You All\" (2009)",
     "category": "Music",
-    "tags": ["betrayal", "vulnerability"],
+    "tags": [
+      "betrayal",
+      "vulnerability"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "Do not grieve what was given freely. One’s virtue lies in the giving, not the outcome.",
-      "Lord Genome": "Only the weak give without cost. You earned your pain.",
-      "Gojo (My Dress-Up Darling)": "It hurts when someone takes more than you thought they would... but you learn."
+      "Marcus Aurelius (Stoic Philosophy)": "Do not grieve what was given freely. One’s virtue lies in the giving, not the outcome.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "Only the weak give without cost. You earned your pain.",
+      "Gojo Wakana (My Dress-Up Darling)": "It hurts when someone takes more than you thought they would... but you learn.",
+      "Frank Underwood (House of Cards)": "“Perverts? Masters? Titles mean little. What matters is control—of self, of narrative, of perception.”"
     }
   },
   {
     "text": "Even a genius asks questions.",
     "source": "2Pac - \"Me Against the World\" (1995)",
     "category": "Music",
-    "tags": ["intellect", "humility"],
+    "tags": [
+      "intellect",
+      "humility"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "To seek knowledge is not weakness but the exercise of wisdom.",
-      "Lord Genome": "Even the strong must question—or they become tools of their own power.",
-      "Gojo (My Dress-Up Darling)": "Smart doesn’t mean you know everything. Real strength is asking anyway."
+      "Marcus Aurelius (Stoic Philosophy)": "To seek knowledge is not weakness but the exercise of wisdom.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "Even the strong must question—or they become tools of their own power.",
+      "Gojo Wakana (My Dress-Up Darling)": "Smart doesn’t mean you know everything. Real strength is asking anyway.",
+      "Lucifer (Christian Theology)": "“A divine promise, perhaps—but every path lit by heaven casts a shadow. Plans can be... influenced.”"
     }
   },
   {
     "text": "I got royalty, got loyalty inside my DNA.",
     "source": "Kendrick Lamar - \"DNA.\" (2017)",
     "category": "Music",
-    "tags": ["identity", "power"],
+    "tags": [
+      "identity",
+      "power"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "Honor and integrity passed through generations are a man’s greatest fortune.",
-      "Lord Genome": "Bloodlines carry strength—but strength is nothing without purpose.",
-      "Gojo (My Dress-Up Darling)": "Sometimes you just feel it, like something in your bones saying you matter."
+      "Marcus Aurelius (Stoic Philosophy)": "Honor and integrity passed through generations are a man’s greatest fortune.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "Bloodlines carry strength—but strength is nothing without purpose.",
+      "Gojo Wakana (My Dress-Up Darling)": "Sometimes you just feel it, like something in your bones saying you matter.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Choice reveals the flavor of one’s soul. Abilities are but the seasoning.”"
     }
   },
   {
     "text": "Love yours.",
     "source": "J. Cole - \"Love Yourz\" (2014)",
     "category": "Music",
-    "tags": ["gratitude", "perspective"],
+    "tags": [
+      "gratitude",
+      "perspective"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "Cherish what you possess; discontent breeds only misery.",
-      "Lord Genome": "The world devours those who chase ghosts. Own your kingdom—no matter how small.",
-      "Gojo (My Dress-Up Darling)": "What you have is already enough—don’t wait to be happy."
+      "Marcus Aurelius (Stoic Philosophy)": "Cherish what you possess; discontent breeds only misery.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "The world devours those who chase ghosts. Own your kingdom—no matter how small.",
+      "Gojo Wakana (My Dress-Up Darling)": "What you have is already enough—don’t wait to be happy.",
+      "Robin Williams (Actor/Comedian)": "“Sometimes the world’s so dark, laughter is the flashlight. And even then, it flickers with hope.”"
     }
   },
   {
     "text": "If everything's dipped in gold, then baby it will never grow.",
     "source": "Frank Ocean - \"Sweet Life\" (2012)",
     "category": "Music",
-    "tags": ["wealth", "growth"],
+    "tags": [
+      "wealth",
+      "growth"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "Luxury dulls the soul. Without hardship, there is no virtue.",
-      "Lord Genome": "Gold is soft. Only those who suffer become unbreakable.",
-      "Gojo (My Dress-Up Darling)": "It’s the hard stuff that helps you bloom... even if it sucks at first."
+      "Marcus Aurelius (Stoic Philosophy)": "Luxury dulls the soul. Without hardship, there is no virtue.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "Gold is soft. Only those who suffer become unbreakable.",
+      "Gojo Wakana (My Dress-Up Darling)": "It’s the hard stuff that helps you bloom... even if it sucks at first.",
+      "Ringo Noyamano (Air Gear)": "“You fall, you roll, you ride again. Darkness just makes the sparks brighter.”"
     }
   },
   {
     "text": "I want to live a life I won't regret when I die.",
     "source": "Rudeus Greyrat - Mushoku Tensei",
     "category": "Anime",
-    "tags": ["purpose", "reflection"],
+    "tags": [
+      "purpose",
+      "reflection"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "Live in accordance with nature and reason, so death meets no unfinished business.",
-      "Lord Genome": "Regret is the chain of the weak. Forge your life like a weapon.",
-      "Gojo (My Dress-Up Darling)": "Yeah... I think about that too. I just want to be proud of how I spent my time."
+      "Marcus Aurelius (Stoic Philosophy)": "Live in accordance with nature and reason, so death meets no unfinished business.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "Regret is the chain of the weak. Forge your life like a weapon.",
+      "Gojo Wakana (My Dress-Up Darling)": "Yeah... I think about that too. I just want to be proud of how I spent my time.",
+      "Frank Underwood (House of Cards)": "“Perverts? Masters? Titles mean little. What matters is control—of self, of narrative, of perception.”"
     }
   },
   {
     "text": "The line between good and evil is permeable and almost anyone can be induced to cross it when pressured by situational forces.",
     "source": "Philip Zimbardo - The Lucifer Effect",
     "category": "Philosophy",
-    "tags": ["morality", "psychology"],
+    "tags": [
+      "morality",
+      "psychology"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "Guard your mind against corruption, for character is tested in adversity.",
-      "Lord Genome": "Push a man far enough, and he reveals what lies beneath civility.",
-      "Gojo (My Dress-Up Darling)": "It’s scary to think anyone could slip like that… but I guess that’s why kindness matters."
+      "Marcus Aurelius (Stoic Philosophy)": "Guard your mind against corruption, for character is tested in adversity.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "Push a man far enough, and he reveals what lies beneath civility.",
+      "Gojo Wakana (My Dress-Up Darling)": "It’s scary to think anyone could slip like that… but I guess that’s why kindness matters.",
+      "Lucifer (Christian Theology)": "“A divine promise, perhaps—but every path lit by heaven casts a shadow. Plans can be... influenced.”"
     }
   },
   {
     "text": "When you want something, all the universe conspires in helping you to achieve it.",
     "source": "Paulo Coelho - The Alchemist",
     "category": "Book",
-    "tags": ["destiny", "dreams"],
+    "tags": [
+      "destiny",
+      "dreams"
+    ],
     "interpretations": {
-      "Marcus Aurelius": "Desire aligned with virtue shapes action. Fortune follows discipline, not whim.",
-      "Lord Genome": "The universe bends to those who force it to. Weak will is ignored.",
-      "Gojo (My Dress-Up Darling)": "That’s kinda beautiful, right? Like... if your heart’s really in it, stuff just clicks."
+      "Marcus Aurelius (Stoic Philosophy)": "Desire aligned with virtue shapes action. Fortune follows discipline, not whim.",
+      "Lordgenome (Tengen Toppa Gurren Lagann)": "The universe bends to those who force it to. Weak will is ignored.",
+      "Gojo Wakana (My Dress-Up Darling)": "That’s kinda beautiful, right? Like... if your heart’s really in it, stuff just clicks.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Choice reveals the flavor of one’s soul. Abilities are but the seasoning.”"
     }
   },
   {
     "text": "You must have chaos within you to give birth to a dancing star.",
     "source": "Friedrich Nietzsche - Thus Spoke Zarathustra",
     "category": "Philosophy",
-    "tags": ["creativity", "struggle"],
+    "tags": [
+      "creativity",
+      "struggle"
+    ],
     "interpretations": {
-      "Itachi Uchiha": "Only through inner struggle can one's true potential emerge—like a star born from darkness.",
-      "Ted Lasso": "Sometimes messiness is the prelude to brilliance, partner. Believe it.",
-      "Ryuko Matoi": "Chaos is where I’m strongest. That’s where I fight from."
+      "Itachi Uchiha (Naruto)": "Only through inner struggle can one's true potential emerge—like a star born from darkness.",
+      "Ted Lasso (TV Series)": "Sometimes messiness is the prelude to brilliance, partner. Believe it.",
+      "Ryuko Matoi (Kill la Kill)": "Chaos is where I’m strongest. That’s where I fight from.",
+      "Robin Williams (Actor/Comedian)": "“Sometimes the world’s so dark, laughter is the flashlight. And even then, it flickers with hope.”"
     }
   },
   {
     "text": "Pain is inevitable. Suffering is optional.",
     "source": "Haruki Murakami - What I Talk About When I Talk About Running",
     "category": "Book",
-    "tags": ["resilience", "choice"],
+    "tags": [
+      "resilience",
+      "choice"
+    ],
     "interpretations": {
-      "Itachi Uchiha": "Pain teaches. Suffering is the illusion that we have no choice but to carry it forever.",
-      "Ted Lasso": "Pain visits everyone, but what we do with it—that’s the game.",
-      "Ryuko Matoi": "Pain makes you sharp. Suffering only drags you down."
+      "Itachi Uchiha (Naruto)": "Pain teaches. Suffering is the illusion that we have no choice but to carry it forever.",
+      "Ted Lasso (TV Series)": "Pain visits everyone, but what we do with it—that’s the game.",
+      "Ryuko Matoi (Kill la Kill)": "Pain makes you sharp. Suffering only drags you down.",
+      "Ringo Noyamano (Air Gear)": "“You fall, you roll, you ride again. Darkness just makes the sparks brighter.”"
     }
   },
   {
     "text": "Whatever happens, happens.",
     "source": "Spike Spiegel - Cowboy Bebop",
     "category": "Anime",
-    "tags": ["fate", "acceptance"],
+    "tags": [
+      "fate",
+      "acceptance"
+    ],
     "interpretations": {
-      "Itachi Uchiha": "Readiness is not always given. But resolve is forged in facing the unknown.",
-      "Ted Lasso": "Ain’t that the truth? Just gotta keep showing up.",
-      "Ryuko Matoi": "Whatever happens, I’ll punch through it anyway."
+      "Itachi Uchiha (Naruto)": "Readiness is not always given. But resolve is forged in facing the unknown.",
+      "Ted Lasso (TV Series)": "Ain’t that the truth? Just gotta keep showing up.",
+      "Ryuko Matoi (Kill la Kill)": "Whatever happens, I’ll punch through it anyway.",
+      "Frank Underwood (House of Cards)": "“Perverts? Masters? Titles mean little. What matters is control—of self, of narrative, of perception.”"
     }
   },
   {
     "text": "You become responsible, forever, for what you have tamed.",
     "source": "Antoine de Saint-Exupéry - The Little Prince",
     "category": "Book",
-    "tags": ["responsibility", "relationships"],
+    "tags": [
+      "responsibility",
+      "relationships"
+    ],
     "interpretations": {
-      "Itachi Uchiha": "To love means to carry a burden. Responsibility follows those who care.",
-      "Ted Lasso": "That’s love, right? It’s showing up again and again.",
-      "Ryuko Matoi": "If you bond with someone, you better not run when it gets hard."
+      "Itachi Uchiha (Naruto)": "To love means to carry a burden. Responsibility follows those who care.",
+      "Ted Lasso (TV Series)": "That’s love, right? It’s showing up again and again.",
+      "Ryuko Matoi (Kill la Kill)": "If you bond with someone, you better not run when it gets hard.",
+      "Lucifer (Christian Theology)": "“A divine promise, perhaps—but every path lit by heaven casts a shadow. Plans can be... influenced.”"
     }
   },
   {
     "text": "Fear is the mind-killer.",
     "source": "Frank Herbert - Dune",
     "category": "Book",
-    "tags": ["fear", "discipline"],
+    "tags": [
+      "fear",
+      "discipline"
+    ],
     "interpretations": {
-      "Itachi Uchiha": "Fear clouds clarity. Only by accepting its presence can you move through it.",
-      "Ted Lasso": "You gotta look fear in the face and say: not today, champ.",
-      "Ryuko Matoi": "Fear just slows you down. I’ve got no time for it."
+      "Itachi Uchiha (Naruto)": "Fear clouds clarity. Only by accepting its presence can you move through it.",
+      "Ted Lasso (TV Series)": "You gotta look fear in the face and say: not today, champ.",
+      "Ryuko Matoi (Kill la Kill)": "Fear just slows you down. I’ve got no time for it.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Choice reveals the flavor of one’s soul. Abilities are but the seasoning.”"
     }
   },
   {
     "text": "Sometimes I do what I want to do. The rest of the time, I do what I have to.",
     "source": "James Kirk - Star Trek: The Original Series",
     "category": "TV",
-    "tags": ["duty", "freedom"],
+    "tags": [
+      "duty",
+      "freedom"
+    ],
     "interpretations": {
-      "Bojack Horseman": "That’s life in a nutshell, isn’t it? Swallowing dreams for breakfast.",
-      "Ted Lasso": "Life’s a balance—between dreams and duty, and doing both with heart.",
-      "Ryuko Matoi": "Even when I have no choice, I still go down swinging."
+      "BoJack Horseman (BoJack Horseman)": "That’s life in a nutshell, isn’t it? Swallowing dreams for breakfast.",
+      "Ted Lasso (TV Series)": "Life’s a balance—between dreams and duty, and doing both with heart.",
+      "Ryuko Matoi (Kill la Kill)": "Even when I have no choice, I still go down swinging.",
+      "Robin Williams (Actor/Comedian)": "“Sometimes the world’s so dark, laughter is the flashlight. And even then, it flickers with hope.”"
     }
   },
   {
     "text": "What we do in life echoes in eternity.",
     "source": "Maximus - Gladiator",
     "category": "Movie",
-    "tags": ["legacy", "action"],
+    "tags": [
+      "legacy",
+      "action"
+    ],
     "interpretations": {
-      "Bojack Horseman": "I hope that echo sounds better than I did in real life.",
-      "Ted Lasso": "Make those echoes worth listening to, yeah?",
-      "Ryuko Matoi": "If my life echoes, I want it to scream."
+      "BoJack Horseman (BoJack Horseman)": "I hope that echo sounds better than I did in real life.",
+      "Ted Lasso (TV Series)": "Make those echoes worth listening to, yeah?",
+      "Ryuko Matoi (Kill la Kill)": "If my life echoes, I want it to scream.",
+      "Ringo Noyamano (Air Gear)": "“You fall, you roll, you ride again. Darkness just makes the sparks brighter.”"
     }
   },
   {
     "text": "You should enjoy the little detours. Because that's where you'll find the things more important than what you want.",
     "source": "Ging Freecss - Hunter x Hunter",
     "category": "Anime",
-    "tags": ["journey", "growth"],
+    "tags": [
+      "journey",
+      "growth"
+    ],
     "interpretations": {
-      "Bojack Horseman": "The detours are where you hide from what you’re scared to face.",
-      "Ted Lasso": "Life’s not a straight line. It’s full of those sweet, surprising turns.",
-      "Ryuko Matoi": "Even side roads lead somewhere worth fighting for."
+      "BoJack Horseman (BoJack Horseman)": "The detours are where you hide from what you’re scared to face.",
+      "Ted Lasso (TV Series)": "Life’s not a straight line. It’s full of those sweet, surprising turns.",
+      "Ryuko Matoi (Kill la Kill)": "Even side roads lead somewhere worth fighting for.",
+      "Frank Underwood (House of Cards)": "“Perverts? Masters? Titles mean little. What matters is control—of self, of narrative, of perception.”"
     }
   },
   {
     "text": "We accept the love we think we deserve.",
     "source": "Stephen Chbosky - The Perks of Being a Wallflower",
     "category": "Book",
-    "tags": ["self-worth", "love"],
+    "tags": [
+      "self-worth",
+      "love"
+    ],
     "interpretations": {
-      "Bojack Horseman": "Yeah. That’s why I kept picking people who left.",
-      "Ted Lasso": "You gotta believe you’re worth the good stuff to let it in.",
-      "Ryuko Matoi": "Deserve’s got nothing to do with it. You fight for the love you need."
+      "BoJack Horseman (BoJack Horseman)": "Yeah. That’s why I kept picking people who left.",
+      "Ted Lasso (TV Series)": "You gotta believe you’re worth the good stuff to let it in.",
+      "Ryuko Matoi (Kill la Kill)": "Deserve’s got nothing to do with it. You fight for the love you need.",
+      "Lucifer (Christian Theology)": "“A divine promise, perhaps—but every path lit by heaven casts a shadow. Plans can be... influenced.”"
     }
   },
   {
     "text": "No one can tell you what your path is. They can only walk beside you.",
     "source": "Marianne Williamson - Spiritual Guidance",
     "category": "Spiritual",
-    "tags": ["guidance", "individuality"],
+    "tags": [
+      "guidance",
+      "individuality"
+    ],
     "interpretations": {
-      "Bojack Horseman": "Would’ve been nice if someone stuck around to walk next to me.",
-      "Ted Lasso": "Everyone’s got their own path. But I’ll bring the snacks for the journey.",
-      "Ryuko Matoi": "I don’t need a guide—just someone who won’t run."
-    }
-  }, 
-  {
-    "text": "Many are afraid to create something great, because they prefer to create something safe. There's no life in safety, only at the beginning of greatness.",
-    "source": "P.I.M.P. - 07/03/2025",
-    "category": "Original",
-    "tags": ["creativity", "risk", "ambition"],
-    "interpretations": {
-      "Marcus Aurelius": "The soul shrinks when it chooses ease over excellence. Greatness lies in fulfilling your purpose, not in comfort.",
-      "Ryuko Matoi": "Safe is boring. If you're not risking something, you're not living — you're just waiting.",
-      "Gojo (My Dress-Up Darling)": "I used to play it safe too... until I realized real joy comes from doing what scares you most."
+      "BoJack Horseman (BoJack Horseman)": "Would’ve been nice if someone stuck around to walk next to me.",
+      "Ted Lasso (TV Series)": "Everyone’s got their own path. But I’ll bring the snacks for the journey.",
+      "Ryuko Matoi (Kill la Kill)": "I don’t need a guide—just someone who won’t run.",
+      "Hannibal Lecter (Silence of the Lambs)": "“Choice reveals the flavor of one’s soul. Abilities are but the seasoning.”"
     }
   },
   {
-    "text": "A story never ends, it only waits for someone brave enough to keep reading.",
-    "source": "Falkor - The NeverEnding Story (1984)",
-    "category": "Movie",
-    "tags": ["imagination", "courage"],
+    "text": "Authenticity feels dangerous to those who thrive in performance.",
+    "source": "Prince (Musician)",
+    "category": "Philosophy",
+    "tags": [
+      "truth",
+      "identity"
+    ],
     "interpretations": {
-      "Carl Jung (Swiss Psychoanalyst)": "The story is the unconscious—it waits until the ego dares to descend into the mythic depths.",
-      "Ashitaka (Princess Mononoke)": "Courage isn't the absence of fear. It's the choice to face what others leave behind.",
-      "Dani Ardor (Midsommar)": "Sometimes I read just to feel like I still exist. And it helps."
+      "Robert Greene (The 48 Laws of Power)": "Authenticity is power unmasked. But in a world built on illusion, truth becomes a threat to the strategic.",
+      "Luna Lovegood (Harry Potter)": "Being real makes people nervous. But it's also what draws true magic to you.",
+      "Rick Sanchez (Rick and Morty)": "Yeah, try being ‘real’ in a universe full of fake gods and corporate overlords. See how long you last.",
+      "Mona Lisa (Painted Interpretation)": "A smile may be painted, but what lies beneath? Truth unnerves because it reveals what masks cannot."
     }
   },
   {
-    "text": "The road never felt so real until I walked it with people who mattered.",
-    "source": "Gordie Lachance - Stand by Me (1986)",
-    "category": "Movie",
-    "tags": ["friendship", "memory"],
+    "text": "We seek comfort in repetition, even when it hurts.",
+    "source": "Carl Jung (Psychologist)",
+    "category": "Psychology",
+    "tags": [
+      "psychology",
+      "habit"
+    ],
     "interpretations": {
-      "Carl Jung (Swiss Psychoanalyst)": "Shared experience strengthens the individual’s path to individuation.",
-      "Ashitaka (Princess Mononoke)": "Loyalty gives the journey meaning—even if the path ends too soon.",
-      "Dani Ardor (Midsommar)": "You don’t always know what mattered most until it's long gone."
+      "Robert Greene (The 48 Laws of Power)": "Predictability grants control. Even pain, when familiar, can be wielded to reinforce dominance or dependence.",
+      "BoJack Horseman (BoJack Horseman)": "At least if I’m hurting, I know I’m still me. That’s something, right?",
+      "Sadness (Inside Out)": "Familiar pain feels like home. It's okay to sit with it... just not forever.",
+      "Wednesday Addams (The Addams Family)": "Repetition is comforting. Like the soft thud of inevitability."
     }
   },
   {
-    "text": "The more you chase the path, the more it changes to test you.",
-    "source": "Jareth the Goblin King - Labyrinth (1986)",
-    "category": "Movie",
-    "tags": ["identity", "challenge"],
+    "text": "Sometimes silence is the loudest truth in the room.",
+    "source": "Princess Diana (Public Address)",
+    "category": "Communication",
+    "tags": [
+      "communication",
+      "presence"
+    ],
     "interpretations": {
-      "Carl Jung (Swiss Psychoanalyst)": "The labyrinth is a symbol of the psyche—its shifting nature is the mirror of transformation.",
-      "Ashitaka (Princess Mononoke)": "Even if the walls move, your steps still mean something.",
-      "Dani Ardor (Midsommar)": "I thought I was lost. But maybe I was just being asked to change."
+      "Robert Greene (The 48 Laws of Power)": "Silence is a strategy. Speak less, and you control interpretation. Let others fill the void with their weakness.",
+      "V (V for Vendetta)": "Words build revolutions. But silence? Silence detonates them.",
+      "Yoda (Star Wars)": "Speak not, hear more you shall. Truth, in stillness, rests.",
+      "Margaret Atwood (Author)": "In a world that punishes noise, silence is sometimes the only protest we have left."
     }
   },
   {
-    "text": "The scariest part of never growing up is never growing out of your hunger.",
-    "source": "David - The Lost Boys (1987)",
-    "category": "Movie",
-    "tags": ["youth", "addiction", "darkness"],
+    "text": "Kindness without boundaries becomes martyrdom.",
+    "source": "Brené Brown (Author, Researcher)",
+    "category": "Wisdom",
+    "tags": [
+      "self-worth",
+      "limits"
+    ],
     "interpretations": {
-      "Carl Jung (Swiss Psychoanalyst)": "The eternal child becomes dangerous when he denies his shadow.",
-      "Ashitaka (Princess Mononoke)": "To grow is to choose responsibility over instinct.",
-      "Dani Ardor (Midsommar)": "Some people never stop wanting... and that’s the part that scares me most."
+      "Robert Greene (The 48 Laws of Power)": "Too much giving weakens authority. Kindness is a tool—use it sparingly to preserve advantage.",
+      "Oprah Winfrey (Media Leader)": "Kindness is strength, but you need to know when to stop pouring from an empty cup.",
+      "Geralt of Rivia (The Witcher)": "Kindness? Costs blood, coin, or time. Usually all three.",
+      "Marla Singer (Fight Club)": "Being nice just means you bleed slower."
     }
   },
   {
-    "text": "Everyone loves the comeback. No one loves the breaking.",
-    "source": "Micky Ward - The Fighter (2010)",
-    "category": "Movie",
-    "tags": ["resilience", "struggle"],
+    "text": "Your peace will threaten those who only understand chaos.",
+    "source": "Thich Nhat Hanh (Zen Master)",
+    "category": "Insight",
+    "tags": [
+      "calm",
+      "power"
+    ],
     "interpretations": {
-      "Carl Jung (Swiss Psychoanalyst)": "The comeback is the ego's return after its descent into the underworld.",
-      "Ashitaka (Princess Mononoke)": "A true fighter heals what others can't see.",
-      "Dani Ardor (Midsommar)": "It’s not fair... but it’s real. And real is enough to rise again."
+      "Robert Greene (The 48 Laws of Power)": "Serenity unsettles the power-hungry. Calm minds are unpredictable—never reveal more than necessary.",
+      "Toni Morrison (Author)": "Peace isn’t passive. It’s defiance, especially to those addicted to storms.",
+      "Zuko (Avatar: The Last Airbender)": "Finding peace is the real fight. Some people fear that more than war.",
+      "Daria Morgendorffer (Daria)": "Being chill is apparently threatening. Go figure."
+    }
+  },
+  {
+    "text": "The heaviest chains are the ones we forge with our own regrets.",
+    "source": "Guts (Berserk)",
+    "category": "Anime",
+    "tags": [
+      "regret",
+      "burden"
+    ],
+    "interpretations": {
+      "Robert Greene (The 48 Laws of Power)": "Regret weakens posture and clouds ambition. Cast it off, or be ruled by ghosts of your past decisions.",
+      "Spike Spiegel (Cowboy Bebop)": "Yeah... carrying it around doesn’t make it any lighter. Still gotta keep moving.",
+      "Akane Tsunemori (Psycho-Pass)": "Guilt shapes justice. But carry too much, and it distorts your aim.",
+      "Thorfinn (Vinland Saga)": "You can’t change the past—but you can choose not to let it chain your future."
     }
   }
 ]
