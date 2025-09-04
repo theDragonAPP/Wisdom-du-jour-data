@@ -583,6 +583,17 @@
     }
   },
   {
+    "text": "Take it with a grain of salt.",
+    "source": "Traditional proverb (Latin origin: 'cum grano salis')",
+    "category": "Proverb",
+    "tags": ["skepticism", "discernment"],
+    "interpretations": {
+      "Killua Zoldyck (Hunter x Hunter)": "Most people talk before they think. Better to smile, nod, and wait to see what they really do.",
+      "Marcus Aurelius (Meditations)": "Let reason weigh every claim. Even the wisest words require scrutiny.",
+      "Bojack Horseman (Bojack Horseman)": "Everything sounds true when you want it to be. That's how I got here."
+    }
+  },
+  {
     "text": "I solemnly swear that I am up to no good.",
     "source": "Marauder's Map - Harry Potter and the Prisoner of Azkaban",
     "category": "Book",
@@ -653,5 +664,156 @@
         "Robin Williams (Actor/Comedian)": "Normal is a setting on the dryer. Embrace your sparkle, baby.",
         "Lucifer (Christian Theology)": "Sanity is subjective—defined by those in power. I’ve heard worse accusations."
     }
+  },
+  {
+    "text": "Revenge is a dish best served cold.",
+    "source": "Traditional proverb",
+    "category": "Proverb",
+    "tags": [
+      "revenge",
+      "justice"
+    ],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "Revenge taken in anger only deepens wounds. But if one must strike, let it be with clarity\u2014not hatred\u2014like snow that falls in stillness.",
+      "Lt. Aldo Raine (Inglourious Basterds)": "You don\u2019t go in hot. You let it simmer. Wait till they\u2019re sleeping sound. Then hit where it hurts.",
+      "Luna Lovegood (Harry Potter)": "Revenge is like frost on a flower\u2014it seems pretty at first, but it wilts everything it touches."
+    }
+  },
+  {
+    "text": "The Returner helps, then departs before thanks become a leash.",
+    "source": "Reditus Reditus 6:11",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "Those who serve and leave do so with grace. Their strength is in humility, not recognition.",
+      "Lt. Aldo Raine (Inglourious Basterds)": "Do the job. Don\u2019t wait for a thank-you. Get in, get out. Keep your soul light.",
+      "Luna Lovegood (Harry Potter)": "Sometimes people leave before they\u2019re thanked... because magic doesn\u2019t like being trapped."
+    }
+  },
+  {
+    "text": "The Veil loosens where the gaze becomes honest. What you will not look upon, governs you.",
+    "source": "Velaris Velaris I:24-25",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "Only when you confront truth without fear does the veil lift. Avoidance empowers the very thing you flee.",
+      "Lt. Aldo Raine (Inglourious Basterds)": "Face what\u2019s hidin\u2019, or it\u2019ll own you. Ain\u2019t no freedom without a stare-down with your demons.",
+      "Luna Lovegood (Harry Potter)": "The veil is shy. But if you smile at it, it shows you the things others won\u2019t see."
+    }
+  },
+  {
+    "text": "The Shadow Drexil beckons: 'Chase a thousand doors,' but all return to the same room.",
+    "source": "Umbrae Umbrae 2:13",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "Chasing illusion never frees the spirit. One must face their truth, not escape through endless doors.",
+      "Lt. Aldo Raine (Inglourious Basterds)": "Run all you want, you\u2019ll end up where you started. Best to face it with a knife in hand.",
+      "Luna Lovegood (Harry Potter)": "Doors are funny, aren\u2019t they? But if you keep chasing them, maybe you\u2019re just dreaming in circles."
+    }
+  },
+  {
+    "text": "The Source does not persuade; it deepens silence.",
+    "source": "Fontis Fontis 6:8",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "The Source teaches not through noise, but through silence. In stillness, wisdom forms.",
+      "Lt. Aldo Raine (Inglourious Basterds)": "Some folks talk too much. Real power? That\u2019s in what you don\u2019t say.",
+      "Luna Lovegood (Harry Potter)": "I like silence. It\u2019s where stars whisper their best thoughts."
+    }
+  },
+  {
+    "text": "The Circle unbroken is not agreement, but presence without chain.",
+    "source": "Circulum Circulum 2:18",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "True presence is not agreement\u2014it is quiet commitment. Just as nature stands, unchained yet connected.",
+      "Lt. Aldo Raine (Inglourious Basterds)": "I don\u2019t need agreement, just loyalty. Stand next to me, not over me.",
+      "Luna Lovegood (Harry Potter)": "Circles are nice. They remind me that we\u2019re all connected, even when we don\u2019t agree."
+    }
+  },
+  {
+    "text": "The wound is the place where the light enters you.",
+    "source": "Rumi",
+    "category": "Poetry",
+    "tags": ["healing", "pain", "growth"],
+    "interpretations": {
+      "Gojo Satoru (Jujutsu Kaisen)": "The more they hurt you, the more you glow. That’s why they’re scared of people like us.",
+      "Dani Ardor (Midsommar)": "It broke me open... and for the first time, I could breathe again.",
+      "Lord Genome (Gurren Lagann)": "Light only enters where something has been torn. Power only comes through pain endured."
+    }
+  },
+  {
+    "text": "Power tends to corrupt, and absolute power corrupts absolutely.",
+    "source": "Lord Acton",
+    "category": "Philosophy",
+    "tags": ["power", "corruption", "ethics"],
+    "interpretations": {
+      "Ted Lasso (Ted Lasso)": "Power’s like winning too much — if no one can call you out, you start believing your own worst ideas.",
+      "Ashitaka (Princess Mononoke)": "Unchecked strength invites imbalance. The forest teaches that harmony cannot be taken by force.",
+      "Itachi Uchiha (Naruto)": "Even noble power decays when left alone. Only those who suffer understand its burden."
+    }
+  },
+  {
+    "text": "Be careful what you pretend to be, because you are what you pretend to be.",
+    "source": "Kurt Vonnegut",
+    "category": "Literature",
+    "tags": ["identity", "deception", "self"],
+    "interpretations": {
+      "Luna Lovegood (Harry Potter)": "Pretending is powerful. So be kind with your masks—they sometimes stay on longer than we think.",
+      "Rengoku Kyojuro (Demon Slayer)": "Honor what you pretend to be. For soon, it may become the fire that shapes you.",
+      "Spike Spiegel (Cowboy Bebop)": "Fake something long enough... and eventually, you forget what was real."
+    }
+  },
+  {
+    "text": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+    "source": "Winston Churchill",
+    "category": "Politics",
+    "tags": ["conviction", "courage", "resistance"],
+    "interpretations": {
+      "Jareth the Goblin King (Labyrinth)": "Let them hate. That’s how you know they were watching when you dared to speak.",
+      "Marcus Aurelius (Meditations)": "A just man attracts opposition. Virtue often offends the unprincipled.",
+      "Dani Ardor (Midsommar)": "I stopped apologizing. And that’s when they started leaving."
+    }
+  },
+  {
+    "text": "No one can make you feel inferior without your consent.",
+    "source": "Eleanor Roosevelt",
+    "category": "Empowerment",
+    "tags": ["confidence", "agency"],
+    "interpretations": {
+      "Killua Zoldyck (Hunter x Hunter)": "They only win if you believe their voice over your own.",
+      "Gojo Satoru (Jujutsu Kaisen)": "Let 'em talk. They can't touch what they can't reach.",
+      "Ted Lasso (Ted Lasso)": "Believe in yourself harder than they doubt you. That’s the trick."
+    }
+  },
+  {
+    "text": "Even the smallest person can change the course of the future.",
+    "source": "Galadriel (The Lord of the Rings: The Fellowship of the Ring)",
+    "category": "Fantasy",
+    "tags": ["hope", "destiny", "courage"],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "The world turns on quiet strength. What’s small in form may be vast in purpose.",
+      "Bojack Horseman (Bojack Horseman)": "I guess that means even I could’ve mattered. I just didn’t believe it in time.",
+      "Rengoku Kyojuro (Demon Slayer)": "Size does not define fire. Even a spark, lit in resolve, can lead armies home."
+    }
   }
 ]
+
