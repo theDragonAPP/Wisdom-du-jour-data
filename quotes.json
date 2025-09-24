@@ -15,29 +15,26 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
-    ],
-    "interpreter_personality": {
-      "Marcus Aurelius": "spiritual"
-    }
+    ]
   },
   {
     "text": "Grief is just love with nowhere to go.",
@@ -54,29 +51,26 @@
     },
     "personality_types": [
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
-    ],
-    "interpreter_personality": {
-      "Marcus Aurelius": "spiritual"
-    }
+    ]
   },
   {
     "text": "Power comes in response to a need, not a desire.",
@@ -93,22 +87,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "Personality": "Malevolent",
+        "name": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -129,22 +123,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
@@ -165,22 +159,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Earnest",
+        "name": "Earnest",
         "origin": "Anime - Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "Personality": "Manic",
+        "name": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       },
       {
-        "Personality": "Strategic",
+        "name": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       }
@@ -201,22 +195,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Earnest",
+        "name": "Earnest",
         "origin": "Anime - Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "Personality": "Manic",
+        "name": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       },
       {
-        "Personality": "Godlike",
+        "name": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       }
@@ -237,22 +231,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Passionate",
+        "name": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "Personality": "Confident",
+        "name": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "Personality": "Strategic",
+        "name": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       }
@@ -273,22 +267,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "Personality": "Manic",
+        "name": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -311,22 +305,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Passionate",
+        "name": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "Personality": "Godlike",
+        "name": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       }
@@ -349,22 +343,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Godlike",
+        "name": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "Personality": "Passionate",
+        "name": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "Personality": "Distraught",
+        "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -387,22 +381,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       }
@@ -425,22 +419,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       }
@@ -463,22 +457,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Guarded",
+        "name": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "Personality": "Confident",
+        "name": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -501,22 +495,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Earnest",
+        "name": "Earnest",
         "origin": "Anime - Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       }
@@ -539,22 +533,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Godlike",
+        "name": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -577,22 +571,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Guarded",
+        "name": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -615,22 +609,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -653,22 +647,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Godlike",
+        "name": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "Personality": "Confident",
+        "name": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       }
@@ -691,22 +685,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Guarded",
+        "name": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Distraught",
+        "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       }
@@ -729,22 +723,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       }
@@ -767,22 +761,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       }
@@ -804,22 +798,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Strategic",
+        "name": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -836,29 +830,28 @@
     "interpretations": {
       "Ted Lasso (Amiable)": "Chase life like a golden retriever on espresso. Curiosity keeps you young.",
       "Satan (Malevolent)": "Hunger drives progress. Foolishness? That\u2019s just ambition with guts.",
-      "Ryuko Matoi (Resolute)": "Being a fool is how you learn to fight. You get up and swing again.",
-      "Fushi": "Interpretation of 'Stay hungry, stay foolish.' from Fushi perspective."
+      "Ryuko Matoi (Resolute)": "Being a fool is how you learn to fight. You get up and swing again."
     },
     "personality_types": [
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Malevolent",
+        "name": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -878,22 +871,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -915,22 +908,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       }
@@ -952,22 +945,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Strategic",
+        "name": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       }
@@ -989,22 +982,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Passionate",
+        "name": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       }
@@ -1026,22 +1019,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Manic",
+        "name": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       }
@@ -1063,22 +1056,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       }
@@ -1100,22 +1093,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -1137,22 +1130,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       }
@@ -1174,22 +1167,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
@@ -1211,22 +1204,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -1248,22 +1241,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -1285,22 +1278,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -1322,22 +1315,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       }
@@ -1359,22 +1352,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -1396,22 +1389,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -1433,22 +1426,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
@@ -1470,22 +1463,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Confident",
+        "name": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       }
@@ -1507,22 +1500,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -1544,22 +1537,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Strategic",
+        "name": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       }
@@ -1581,22 +1574,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -1618,22 +1611,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       }
@@ -1655,22 +1648,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -1692,22 +1685,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -1729,22 +1722,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -1767,22 +1760,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "Personality": "Manic",
+        "name": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -1804,22 +1797,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -1841,22 +1834,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       }
@@ -1878,22 +1871,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       }
@@ -1915,22 +1908,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -1952,22 +1945,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       }
@@ -1989,22 +1982,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -2026,22 +2019,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -2063,22 +2056,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -2100,22 +2093,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Malevolent",
+        "name": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       }
@@ -2137,22 +2130,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -2174,22 +2167,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -2211,22 +2204,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Distraught",
+        "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       }
@@ -2248,22 +2241,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -2285,22 +2278,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       }
@@ -2322,22 +2315,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -2359,22 +2352,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -2396,22 +2389,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Godlike",
+        "name": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       }
@@ -2433,22 +2426,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       }
@@ -2470,22 +2463,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Distraught",
+        "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       }
@@ -2507,22 +2500,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Resolute",
+        "name": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       }
@@ -2544,22 +2537,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Strategic",
+        "name": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -2581,22 +2574,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "Personality": "Distraught",
+        "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -2618,22 +2611,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Malevolent",
+        "name": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -2655,22 +2648,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Strategic",
+        "name": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       }
@@ -2692,22 +2685,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Guarded",
+        "name": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -2723,24 +2716,28 @@
     ],
     "interpretations": {
       "Frank Underwood (Calculating)": "Declaration of intent? Amateur move. Real mischief is quiet.",
-      "Joker (Chaotic)": "I find a little mischief spices things up, don't you?",
-      "Fushi": "Interpretation of 'I solemnly swear that I am up to no good.' from Fushi perspective."
+      "Joker (Chaotic)": "I find a little mischief spices things up, don't you?"
     },
     "personality_types": [
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder3",
+        "origin": "Artificial",
+        "character": "Placeholder"
+      },
+      {
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -2760,22 +2757,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -2797,22 +2794,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Malevolent",
+        "name": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -2834,22 +2831,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Analytical",
+        "name": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -2871,22 +2868,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Confident",
+        "name": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "Personality": "Melancholy",
+        "name": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       }
@@ -2908,22 +2905,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Earnest",
+        "name": "Earnest",
         "origin": "Anime - Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "Personality": "Intellectual",
+        "name": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Romantic",
+        "name": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       }
@@ -2945,22 +2942,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Dominant",
+        "name": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Godlike",
+        "name": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       }
@@ -2977,29 +2974,28 @@
     "interpretations": {
       "Rengoku Kyojuro (Passionate)": "Standing by someone\u2019s side \u2014 that\u2019s what a flame does. It never leaves the cold behind.",
       "Bojack Horseman (Nihilistic)": "Forever sounds nice... until one of you disappears. But yeah, sure. Let\u2019s pretend it lasts.",
-      "Gojo Satoru (Confident)": "I'll stand by your side. Just try to keep up.",
-      "Fushi": "Interpretation of 'I'll stand by your side... now and forever.' from Fushi perspective."
+      "Gojo Satoru (Confident)": "I'll stand by your side. Just try to keep up."
     },
     "personality_types": [
       {
-        "Personality": "Passionate",
+        "name": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Confident",
+        "name": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3013,24 +3009,28 @@
     ],
     "interpretations": {
       "Killua Zoldyck (Guarded)": "That\u2019s real. Love that doesn\u2019t flinch \u2014 even when death\u2019s part of the deal.",
-      "Rengoku Kyojuro (Passionate)": "Dying for someone is the noblest act of all. It is fire for fire.",
-      "Fushi": "Interpretation of 'I don\u2019t care if I die protecting you.' from Fushi perspective."
+      "Rengoku Kyojuro (Passionate)": "Dying for someone is the noblest act of all. It is fire for fire."
     },
     "personality_types": [
       {
-        "Personality": "Guarded",
+        "name": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "Personality": "Passionate",
+        "name": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder3",
+        "origin": "Artificial",
+        "character": "Placeholder"
+      },
+      {
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3050,22 +3050,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "Personality": "Distraught",
+        "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       }
@@ -3082,29 +3082,28 @@
     "interpretations": {
       "Ted Lasso (Amiable)": "Weird\u2019s just another word for being yourself with flavor.",
       "Lucifer (Defiant)": "Sanity is subjective\u2014defined by those in power. I\u2019ve heard worse accusations.",
-      "Joker (Chaotic)": "Sane? Sane is a straight line. I prefer to dance.",
-      "Fushi": "Interpretation of 'You\u2019re just as sane as I am.' from Fushi perspective."
+      "Joker (Chaotic)": "Sane? Sane is a straight line. I prefer to dance."
     },
     "personality_types": [
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Defiant",
+        "name": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3119,29 +3118,28 @@
     "interpretations": {
       "Ashitaka (Harmonious)": "Revenge taken in anger only deepens wounds. But if one must strike, let it be with clarity\u2014not hatred\u2014like snow that falls in stillness.",
       "Luna Lovegood (Eccentric)": "Revenge is like frost on a flower\u2014it seems pretty at first, but it wilts everything it touches.",
-      "Frank Underwood (Calculating)": "Revenge is a slow-burn strategy. It requires patience and precision.",
-      "Fushi": "Interpretation of 'Revenge is a dish best served cold.' from Fushi perspective."
+      "Frank Underwood (Calculating)": "Revenge is a slow-burn strategy. It requires patience and precision."
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3156,29 +3154,28 @@
     "interpretations": {
       "Ashitaka (Harmonious)": "Those who serve and leave do so with grace. Their strength is in humility, not recognition.",
       "Luna Lovegood (Eccentric)": "Sometimes people leave before they\u2019re thanked... because magic doesn\u2019t like being trapped.",
-      "Joker (Chaotic)": "A leash? My whole life is a leash. The trick is to bite the hand that holds it.",
-      "Fushi": "Interpretation of 'The Returner helps, then departs before thanks become a leash.' from Fushi perspective."
+      "Joker (Chaotic)": "A leash? My whole life is a leash. The trick is to bite the hand that holds it."
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Chaotic",
+        "name": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3193,29 +3190,28 @@
     "interpretations": {
       "Ashitaka (Harmonious)": "Only when you confront truth without fear does the veil lift. Avoidance empowers the very thing you flee.",
       "Luna Lovegood (Eccentric)": "The veil is shy. But if you smile at it, it shows you the things others won\u2019t see.",
-      "Robert Greene (Strategic)": "To be governed by an unseen force is to be a fool. Look directly at your enemies and their strategies.",
-      "Fushi": "Interpretation of 'The Veil loosens where the gaze becomes honest. What you will not look upon, governs you.' from Fushi perspective."
+      "Robert Greene (Strategic)": "To be governed by an unseen force is to be a fool. Look directly at your enemies and their strategies."
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Strategic",
+        "name": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3230,29 +3226,28 @@
     "interpretations": {
       "Ashitaka (Harmonious)": "Chasing illusion never frees the spirit. One must face their truth, not escape through endless doors.",
       "Luna Lovegood (Eccentric)": "Doors are funny, aren\u2019t they? But if you keep chasing them, maybe you\u2019re just dreaming in circles.",
-      "Bojack Horseman (Nihilistic)": "Yeah, that's what living is. You think you're going somewhere, but you're just trapped in a loop.",
-      "Fushi": "Interpretation of 'The Shadow Drexil beckons: 'Chase a thousand doors,' but all return to the same room.' from Fushi perspective."
+      "Bojack Horseman (Nihilistic)": "Yeah, that's what living is. You think you're going somewhere, but you're just trapped in a loop."
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3267,29 +3262,28 @@
     "interpretations": {
       "Ashitaka (Harmonious)": "The Source teaches not through noise, but through silence. In stillness, wisdom forms.",
       "Luna Lovegood (Eccentric)": "I like silence. It\u2019s where stars whisper their best thoughts.",
-      "Marcus Aurelius (Stoic)": "Silence is the language of truth. It is where one finds inner strength.",
-      "Fushi": "Interpretation of 'The Source does not persuade; it deepens silence.' from Fushi perspective."
+      "Marcus Aurelius (Stoic)": "Silence is the language of truth. It is where one finds inner strength."
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3304,29 +3298,28 @@
     "interpretations": {
       "Ashitaka (Harmonious)": "True presence is not agreement\u2014it is quiet commitment. Just as nature stands, unchained yet connected.",
       "Luna Lovegood (Eccentric)": "Circles are nice. They remind me that we\u2019re all connected, even when we don\u2019t agree.",
-      "Killua Zoldyck (Guarded)": "Presence without a chain? That's what I've been searching for.",
-      "Fushi": "Interpretation of 'The Circle unbroken is not agreement, but presence without chain.' from Fushi perspective."
+      "Killua Zoldyck (Guarded)": "Presence without a chain? That's what I've been searching for."
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Guarded",
+        "name": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3347,22 +3340,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Confident",
+        "name": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "Personality": "Distraught",
+        "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       },
       {
-        "Personality": "Grandiose",
+        "name": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "Personality": "Godlike",
+        "name": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       }
@@ -3385,22 +3378,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Disciplined",
+        "name": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "Personality": "Calculating",
+        "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -3418,29 +3411,28 @@
     "interpretations": {
       "Luna Lovegood (Eccentric)": "Pretending is powerful. So be kind with your masks\u2014they sometimes stay on longer than we think.",
       "Rengoku Kyojuro (Passionate)": "Honor what you pretend to be. For soon, it may become the fire that shapes you.",
-      "Spike Spiegel (Stoic)": "Fake something long enough... and eventually, you forget what was real.",
-      "Fushi": "Interpretation of 'Be careful what you pretend to be, because you are what you pretend to be.' from Fushi perspective."
+      "Spike Spiegel (Stoic)": "Fake something long enough... and eventually, you forget what was real."
     },
     "personality_types": [
       {
-        "Personality": "Eccentric",
+        "name": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "Personality": "Passionate",
+        "name": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Anime - Cowboy Bebop",
         "character": "Spike Spiegel"
       },
       {
-        "Personality": "Fushi",
-        "origin": "Anime - To Your Eternity",
-        "character": "Fushi"
+        "name": "Placeholder4",
+        "origin": "Artificial",
+        "character": "Placeholder"
       }
     ]
   },
@@ -3461,22 +3453,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Manipulative",
+        "name": "Manipulative",
         "origin": "Movie - Labyrinth",
         "character": "Jareth the Goblin King"
       },
       {
-        "Personality": "Stoic",
+        "name": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "Personality": "Distraught",
+        "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       },
       {
-        "Personality": "Egotistical",
+        "name": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       }
@@ -3498,22 +3490,22 @@
     },
     "personality_types": [
       {
-        "Personality": "Guarded",
+        "name": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "Personality": "Confident",
+        "name": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "Personality": "Amiable",
+        "name": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "Personality": "Manic",
+        "name": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       }
@@ -3536,24 +3528,100 @@
     },
     "personality_types": [
       {
-        "Personality": "Harmonious",
+        "name": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "Personality": "Nihilistic",
+        "name": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "Personality": "Passionate",
+        "name": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "Personality": "Pensive",
+        "name": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
+      }
+    ]
+  },
+  {
+    "text": "They see me as I was, not as I am.",
+    "source": "Unknown \u2013 Common modern proverb",
+    "category": "Identity",
+    "tags": [
+      "self-perception",
+      "change",
+      "misunderstanding"
+    ],
+    "interpretations": {
+      "Kanye West": "That\u2019s \u2018cause people don\u2019t upgrade their perception software. I moved on, but they\u2019re stuck on version 1.0.",
+      "Edgar Allan Poe": "A tragedy lies in the gaze of others\u2014how they chain your evolution to a grave already filled with memory.",
+      "Clevatess (Record of Ragnarok)": "Let them cling to the past. It makes crushing their expectations that much sweeter.",
+      "Violet Evergarden": "Even if they cannot see the change in me, I will continue walking toward the person I\u2019ve become."
+    },
+    "personality_types": [
+      {
+        "name": "Unfiltered",
+        "origin": "Music \u2013 Ye (Kanye West)",
+        "character": "Kanye West"
+      },
+      {
+        "name": "Haunted",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      },
+      {
+        "name": "Predator",
+        "origin": "Anime \u2013 Record of Ragnarok",
+        "character": "Clevatess"
+      },
+      {
+        "name": "Empath",
+        "origin": "Anime \u2013 Violet Evergarden",
+        "character": "Violet Evergarden"
+      }
+    ]
+  },
+  {
+    "text": "If you\u2019re obsessed with revenge, you\u2019ll never see the beauty of the world.",
+    "source": "Kojiro Sasaki \u2013 Record of Ragnarok (Shuumatsu no Valkyrie)",
+    "category": "Anime",
+    "tags": [
+      "revenge",
+      "perspective",
+      "healing"
+    ],
+    "interpretations": {
+      "Kojiro Sasaki": "I learned too late that peace and beauty do not come from triumph, but from letting go of vengeance.",
+      "Itachi Uchiha": "Those who chase revenge blind themselves to the future\u2014and become trapped in the very pain they sought to escape.",
+      "Killua Zoldyck": "Revenge is just another leash. You think it\u2019s power, but really, it\u2019s someone else\u2019s shadow controlling you.",
+      "Rumi (Spiritual)": "Revenge clouds the mirror of the heart. To see beauty, one must clear the fog of bitterness."
+    },
+    "personality_types": [
+      {
+        "name": "Wistful",
+        "origin": "Anime \u2013 Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      },
+      {
+        "name": "Sacrificial",
+        "origin": "Anime \u2013 Naruto Shippuden",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "name": "Cynical",
+        "origin": "Anime \u2013 Hunter x Hunter",
+        "character": "Killua Zoldyck"
+      },
+      {
+        "name": "Mystic",
+        "origin": "Poetry \u2013 Sufi Mystic",
+        "character": "Rumi"
       }
     ]
   }
