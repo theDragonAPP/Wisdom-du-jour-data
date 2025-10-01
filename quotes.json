@@ -820,42 +820,6 @@
     ]
   },
   {
-    "text": "Stay hungry, stay foolish.",
-    "source": "Steve Jobs - Stanford Commencement Address, 2005",
-    "category": "Speech",
-    "tags": [
-      "ambition",
-      "curiosity"
-    ],
-    "interpretations": {
-      "Ted Lasso (Amiable)": "Chase life like a golden retriever on espresso. Curiosity keeps you young.",
-      "Satan (Malevolent)": "Hunger drives progress. Foolishness? That\u2019s just ambition with guts.",
-      "Ryuko Matoi (Resolute)": "Being a fool is how you learn to fight. You get up and swing again."
-    },
-    "personality_types": [
-      {
-        "name": "Amiable",
-        "origin": "TV - Ted Lasso",
-        "character": "Ted Lasso"
-      },
-      {
-        "name": "Malevolent",
-        "origin": "Mythology",
-        "character": "Satan"
-      },
-      {
-        "name": "Resolute",
-        "origin": "Anime - Kill la Kill",
-        "character": "Ryuko Matoi"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
     "text": "Innovation distinguishes between a leader and a follower.",
     "source": "Steve Jobs - Interview in *The Innovators*",
     "category": "Business",
@@ -2707,41 +2671,6 @@
     ]
   },
   {
-    "text": "I solemnly swear that I am up to no good.",
-    "source": "Marauder's Map - Harry Potter and the Prisoner of Azkaban",
-    "category": "Book",
-    "tags": [
-      "mischief",
-      "humor"
-    ],
-    "interpretations": {
-      "Frank Underwood (Calculating)": "Declaration of intent? Amateur move. Real mischief is quiet.",
-      "Joker (Chaotic)": "I find a little mischief spices things up, don't you?"
-    },
-    "personality_types": [
-      {
-        "name": "Calculating",
-        "origin": "TV - House of Cards",
-        "character": "Frank Underwood"
-      },
-      {
-        "name": "Chaotic",
-        "origin": "Comics / Movie - DC Comics",
-        "character": "Joker"
-      },
-      {
-        "name": "Placeholder3",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
     "text": "You're a wizard, Harry.",
     "source": "Rubeus Hagrid - Harry Potter and the Sorcerer\u2019s Stone",
     "category": "Book",
@@ -2964,77 +2893,6 @@
     ]
   },
   {
-    "text": "I'll stand by your side... now and forever.",
-    "source": "Usagi Tsukino (Sailor Moon) - Sailor Moon",
-    "category": "Anime",
-    "tags": [
-      "loyalty",
-      "love"
-    ],
-    "interpretations": {
-      "Rengoku Kyojuro (Passionate)": "Standing by someone\u2019s side \u2014 that\u2019s what a flame does. It never leaves the cold behind.",
-      "Bojack Horseman (Nihilistic)": "Forever sounds nice... until one of you disappears. But yeah, sure. Let\u2019s pretend it lasts.",
-      "Gojo Satoru (Confident)": "I'll stand by your side. Just try to keep up."
-    },
-    "personality_types": [
-      {
-        "name": "Passionate",
-        "origin": "Anime - Demon Slayer",
-        "character": "Rengoku Kyojuro"
-      },
-      {
-        "name": "Nihilistic",
-        "origin": "TV - Bojack Horseman",
-        "character": "Bojack Horseman"
-      },
-      {
-        "name": "Confident",
-        "origin": "Anime - Jujutsu Kaisen",
-        "character": "Gojo Satoru"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
-    "text": "I don\u2019t care if I die protecting you.",
-    "source": "Zero Two - Darling in the Franxx",
-    "category": "Anime",
-    "tags": [
-      "sacrifice",
-      "passion"
-    ],
-    "interpretations": {
-      "Killua Zoldyck (Guarded)": "That\u2019s real. Love that doesn\u2019t flinch \u2014 even when death\u2019s part of the deal.",
-      "Rengoku Kyojuro (Passionate)": "Dying for someone is the noblest act of all. It is fire for fire."
-    },
-    "personality_types": [
-      {
-        "name": "Guarded",
-        "origin": "Anime - Hunter x Hunter",
-        "character": "Killua Zoldyck"
-      },
-      {
-        "name": "Passionate",
-        "origin": "Anime - Demon Slayer",
-        "character": "Rengoku Kyojuro"
-      },
-      {
-        "name": "Placeholder3",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
     "text": "The ones that love us never really leave us.",
     "source": "Sirius Black - Harry Potter and the Prisoner of Azkaban",
     "category": "Book",
@@ -3068,258 +2926,6 @@
         "name": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
-      }
-    ]
-  },
-  {
-    "text": "You\u2019re just as sane as I am.",
-    "source": "Luna Lovegood - Harry Potter and the Order of the Phoenix",
-    "category": "Book",
-    "tags": [
-      "eccentricity",
-      "acceptance"
-    ],
-    "interpretations": {
-      "Ted Lasso (Amiable)": "Weird\u2019s just another word for being yourself with flavor.",
-      "Lucifer (Defiant)": "Sanity is subjective\u2014defined by those in power. I\u2019ve heard worse accusations.",
-      "Joker (Chaotic)": "Sane? Sane is a straight line. I prefer to dance."
-    },
-    "personality_types": [
-      {
-        "name": "Amiable",
-        "origin": "TV - Ted Lasso",
-        "character": "Ted Lasso"
-      },
-      {
-        "name": "Defiant",
-        "origin": "Mythology / TV - Lucifer",
-        "character": "Lucifer"
-      },
-      {
-        "name": "Chaotic",
-        "origin": "Comics / Movie - DC Comics",
-        "character": "Joker"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
-    "text": "Revenge is a dish best served cold.",
-    "source": "Traditional proverb",
-    "category": "Proverb",
-    "tags": [
-      "revenge",
-      "justice"
-    ],
-    "interpretations": {
-      "Ashitaka (Harmonious)": "Revenge taken in anger only deepens wounds. But if one must strike, let it be with clarity\u2014not hatred\u2014like snow that falls in stillness.",
-      "Luna Lovegood (Eccentric)": "Revenge is like frost on a flower\u2014it seems pretty at first, but it wilts everything it touches.",
-      "Frank Underwood (Calculating)": "Revenge is a slow-burn strategy. It requires patience and precision."
-    },
-    "personality_types": [
-      {
-        "name": "Harmonious",
-        "origin": "Anime - Princess Mononoke",
-        "character": "Ashitaka"
-      },
-      {
-        "name": "Eccentric",
-        "origin": "Book / Movie - Harry Potter",
-        "character": "Luna Lovegood"
-      },
-      {
-        "name": "Calculating",
-        "origin": "TV - House of Cards",
-        "character": "Frank Underwood"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
-    "text": "The Returner helps, then departs before thanks become a leash.",
-    "source": "Reditus Reditus 6:11",
-    "category": "Scripture",
-    "tags": [
-      "wisdom",
-      "life"
-    ],
-    "interpretations": {
-      "Ashitaka (Harmonious)": "Those who serve and leave do so with grace. Their strength is in humility, not recognition.",
-      "Luna Lovegood (Eccentric)": "Sometimes people leave before they\u2019re thanked... because magic doesn\u2019t like being trapped.",
-      "Joker (Chaotic)": "A leash? My whole life is a leash. The trick is to bite the hand that holds it."
-    },
-    "personality_types": [
-      {
-        "name": "Harmonious",
-        "origin": "Anime - Princess Mononoke",
-        "character": "Ashitaka"
-      },
-      {
-        "name": "Eccentric",
-        "origin": "Book / Movie - Harry Potter",
-        "character": "Luna Lovegood"
-      },
-      {
-        "name": "Chaotic",
-        "origin": "Comics / Movie - DC Comics",
-        "character": "Joker"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
-    "text": "The Veil loosens where the gaze becomes honest. What you will not look upon, governs you.",
-    "source": "Velaris Velaris I:24-25",
-    "category": "Scripture",
-    "tags": [
-      "wisdom",
-      "life"
-    ],
-    "interpretations": {
-      "Ashitaka (Harmonious)": "Only when you confront truth without fear does the veil lift. Avoidance empowers the very thing you flee.",
-      "Luna Lovegood (Eccentric)": "The veil is shy. But if you smile at it, it shows you the things others won\u2019t see.",
-      "Robert Greene (Strategic)": "To be governed by an unseen force is to be a fool. Look directly at your enemies and their strategies."
-    },
-    "personality_types": [
-      {
-        "name": "Harmonious",
-        "origin": "Anime - Princess Mononoke",
-        "character": "Ashitaka"
-      },
-      {
-        "name": "Eccentric",
-        "origin": "Book / Movie - Harry Potter",
-        "character": "Luna Lovegood"
-      },
-      {
-        "name": "Strategic",
-        "origin": "Real Life / Author",
-        "character": "Robert Greene"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
-    "text": "The Shadow Drexil beckons: 'Chase a thousand doors,' but all return to the same room.",
-    "source": "Umbrae Umbrae 2:13",
-    "category": "Scripture",
-    "tags": [
-      "wisdom",
-      "life"
-    ],
-    "interpretations": {
-      "Ashitaka (Harmonious)": "Chasing illusion never frees the spirit. One must face their truth, not escape through endless doors.",
-      "Luna Lovegood (Eccentric)": "Doors are funny, aren\u2019t they? But if you keep chasing them, maybe you\u2019re just dreaming in circles.",
-      "Bojack Horseman (Nihilistic)": "Yeah, that's what living is. You think you're going somewhere, but you're just trapped in a loop."
-    },
-    "personality_types": [
-      {
-        "name": "Harmonious",
-        "origin": "Anime - Princess Mononoke",
-        "character": "Ashitaka"
-      },
-      {
-        "name": "Eccentric",
-        "origin": "Book / Movie - Harry Potter",
-        "character": "Luna Lovegood"
-      },
-      {
-        "name": "Nihilistic",
-        "origin": "TV - Bojack Horseman",
-        "character": "Bojack Horseman"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
-    "text": "The Source does not persuade; it deepens silence.",
-    "source": "Fontis Fontis 6:8",
-    "category": "Scripture",
-    "tags": [
-      "wisdom",
-      "life"
-    ],
-    "interpretations": {
-      "Ashitaka (Harmonious)": "The Source teaches not through noise, but through silence. In stillness, wisdom forms.",
-      "Luna Lovegood (Eccentric)": "I like silence. It\u2019s where stars whisper their best thoughts.",
-      "Marcus Aurelius (Stoic)": "Silence is the language of truth. It is where one finds inner strength."
-    },
-    "personality_types": [
-      {
-        "name": "Harmonious",
-        "origin": "Anime - Princess Mononoke",
-        "character": "Ashitaka"
-      },
-      {
-        "name": "Eccentric",
-        "origin": "Book / Movie - Harry Potter",
-        "character": "Luna Lovegood"
-      },
-      {
-        "name": "Stoic",
-        "origin": "Historical Figure / Meditations",
-        "character": "Marcus Aurelius"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
-      }
-    ]
-  },
-  {
-    "text": "The Circle unbroken is not agreement, but presence without chain.",
-    "source": "Circulum Circulum 2:18",
-    "category": "Scripture",
-    "tags": [
-      "wisdom",
-      "life"
-    ],
-    "interpretations": {
-      "Ashitaka (Harmonious)": "True presence is not agreement\u2014it is quiet commitment. Just as nature stands, unchained yet connected.",
-      "Luna Lovegood (Eccentric)": "Circles are nice. They remind me that we\u2019re all connected, even when we don\u2019t agree.",
-      "Killua Zoldyck (Guarded)": "Presence without a chain? That's what I've been searching for."
-    },
-    "personality_types": [
-      {
-        "name": "Harmonious",
-        "origin": "Anime - Princess Mononoke",
-        "character": "Ashitaka"
-      },
-      {
-        "name": "Eccentric",
-        "origin": "Book / Movie - Harry Potter",
-        "character": "Luna Lovegood"
-      },
-      {
-        "name": "Guarded",
-        "origin": "Anime - Hunter x Hunter",
-        "character": "Killua Zoldyck"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
       }
     ]
   },
@@ -3396,43 +3002,6 @@
         "name": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
-      }
-    ]
-  },
-  {
-    "text": "Be careful what you pretend to be, because you are what you pretend to be.",
-    "source": "Kurt Vonnegut",
-    "category": "Literature",
-    "tags": [
-      "identity",
-      "deception",
-      "self"
-    ],
-    "interpretations": {
-      "Luna Lovegood (Eccentric)": "Pretending is powerful. So be kind with your masks\u2014they sometimes stay on longer than we think.",
-      "Rengoku Kyojuro (Passionate)": "Honor what you pretend to be. For soon, it may become the fire that shapes you.",
-      "Spike Spiegel (Stoic)": "Fake something long enough... and eventually, you forget what was real."
-    },
-    "personality_types": [
-      {
-        "name": "Eccentric",
-        "origin": "Book / Movie - Harry Potter",
-        "character": "Luna Lovegood"
-      },
-      {
-        "name": "Passionate",
-        "origin": "Anime - Demon Slayer",
-        "character": "Rengoku Kyojuro"
-      },
-      {
-        "name": "Stoic",
-        "origin": "Anime - Cowboy Bebop",
-        "character": "Spike Spiegel"
-      },
-      {
-        "name": "Placeholder4",
-        "origin": "Artificial",
-        "character": "Placeholder"
       }
     ]
   },
@@ -3622,6 +3191,451 @@
         "name": "Mystic",
         "origin": "Poetry \u2013 Sufi Mystic",
         "character": "Rumi"
+      }
+    ]
+  },
+  {
+    "text": "Stay hungry, stay foolish.",
+    "source": "Steve Jobs - Stanford Commencement Address, 2005",
+    "category": "Speech",
+    "tags": [
+      "ambition",
+      "curiosity"
+    ],
+    "interpretations": {
+      "Ted Lasso (Amiable)": "Chase life like a golden retriever on espresso. Curiosity keeps you young.",
+      "Satan (Malevolent)": "Hunger drives progress. Foolishness? That\u2019s just ambition with guts.",
+      "Ryuko Matoi (Resolute)": "Being a fool is how you learn to fight. You get up and swing again.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "name": "Malevolent",
+        "origin": "Mythology",
+        "character": "Satan"
+      },
+      {
+        "name": "Resolute",
+        "origin": "Anime - Kill la Kill",
+        "character": "Ryuko Matoi"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "I solemnly swear that I am up to no good.",
+    "source": "Marauder's Map - Harry Potter and the Prisoner of Azkaban",
+    "category": "Book",
+    "tags": [
+      "mischief",
+      "humor"
+    ],
+    "interpretations": {
+      "Frank Underwood (Calculating)": "Declaration of intent? Amateur move. Real mischief is quiet.",
+      "Joker (Chaotic)": "I find a little mischief spices things up, don't you?",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession.",
+      "Kanye West (Egotistical)": "They don't get it, because they're not me. This is the kind of line that makes legends."
+    },
+    "personality_types": [
+      {
+        "name": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "name": "Chaotic",
+        "origin": "Comics / Movie - DC Comics",
+        "character": "Joker"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      },
+      {
+        "name": "Egotistical",
+        "origin": "Music \u2013 Ye (Kanye West)",
+        "character": "Kanye West"
+      }
+    ]
+  },
+  {
+    "text": "I'll stand by your side... now and forever.",
+    "source": "Usagi Tsukino (Sailor Moon) - Sailor Moon",
+    "category": "Anime",
+    "tags": [
+      "loyalty",
+      "love"
+    ],
+    "interpretations": {
+      "Rengoku Kyojuro (Passionate)": "Standing by someone\u2019s side \u2014 that\u2019s what a flame does. It never leaves the cold behind.",
+      "Bojack Horseman (Nihilistic)": "Forever sounds nice... until one of you disappears. But yeah, sure. Let\u2019s pretend it lasts.",
+      "Gojo Satoru (Confident)": "I'll stand by your side. Just try to keep up.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "name": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "name": "Confident",
+        "origin": "Anime - Jujutsu Kaisen",
+        "character": "Gojo Satoru"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "I don\u2019t care if I die protecting you.",
+    "source": "Zero Two - Darling in the Franxx",
+    "category": "Anime",
+    "tags": [
+      "sacrifice",
+      "passion"
+    ],
+    "interpretations": {
+      "Killua Zoldyck (Guarded)": "That\u2019s real. Love that doesn\u2019t flinch \u2014 even when death\u2019s part of the deal.",
+      "Rengoku Kyojuro (Passionate)": "Dying for someone is the noblest act of all. It is fire for fire.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession.",
+      "Kanye West (Egotistical)": "They don't get it, because they're not me. This is the kind of line that makes legends."
+    },
+    "personality_types": [
+      {
+        "name": "Guarded",
+        "origin": "Anime - Hunter x Hunter",
+        "character": "Killua Zoldyck"
+      },
+      {
+        "name": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      },
+      {
+        "name": "Egotistical",
+        "origin": "Music \u2013 Ye (Kanye West)",
+        "character": "Kanye West"
+      }
+    ]
+  },
+  {
+    "text": "You\u2019re just as sane as I am.",
+    "source": "Luna Lovegood - Harry Potter and the Order of the Phoenix",
+    "category": "Book",
+    "tags": [
+      "eccentricity",
+      "acceptance"
+    ],
+    "interpretations": {
+      "Ted Lasso (Amiable)": "Weird\u2019s just another word for being yourself with flavor.",
+      "Lucifer (Defiant)": "Sanity is subjective\u2014defined by those in power. I\u2019ve heard worse accusations.",
+      "Joker (Chaotic)": "Sane? Sane is a straight line. I prefer to dance.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "name": "Defiant",
+        "origin": "Mythology / TV - Lucifer",
+        "character": "Lucifer"
+      },
+      {
+        "name": "Chaotic",
+        "origin": "Comics / Movie - DC Comics",
+        "character": "Joker"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "Revenge is a dish best served cold.",
+    "source": "Traditional proverb",
+    "category": "Proverb",
+    "tags": [
+      "revenge",
+      "justice"
+    ],
+    "interpretations": {
+      "Ashitaka (Harmonious)": "Revenge taken in anger only deepens wounds. But if one must strike, let it be with clarity\u2014not hatred\u2014like snow that falls in stillness.",
+      "Luna Lovegood (Eccentric)": "Revenge is like frost on a flower\u2014it seems pretty at first, but it wilts everything it touches.",
+      "Frank Underwood (Calculating)": "Revenge is a slow-burn strategy. It requires patience and precision.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "name": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "The Returner helps, then departs before thanks become a leash.",
+    "source": "Reditus Reditus 6:11",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Harmonious)": "Those who serve and leave do so with grace. Their strength is in humility, not recognition.",
+      "Luna Lovegood (Eccentric)": "Sometimes people leave before they\u2019re thanked... because magic doesn\u2019t like being trapped.",
+      "Joker (Chaotic)": "A leash? My whole life is a leash. The trick is to bite the hand that holds it.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "name": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Chaotic",
+        "origin": "Comics / Movie - DC Comics",
+        "character": "Joker"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "The Veil loosens where the gaze becomes honest. What you will not look upon, governs you.",
+    "source": "Velaris Velaris I:24-25",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Harmonious)": "Only when you confront truth without fear does the veil lift. Avoidance empowers the very thing you flee.",
+      "Luna Lovegood (Eccentric)": "The veil is shy. But if you smile at it, it shows you the things others won\u2019t see.",
+      "Robert Greene (Strategic)": "To be governed by an unseen force is to be a fool. Look directly at your enemies and their strategies.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "name": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "The Shadow Drexil beckons: 'Chase a thousand doors,' but all return to the same room.",
+    "source": "Umbrae Umbrae 2:13",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Harmonious)": "Chasing illusion never frees the spirit. One must face their truth, not escape through endless doors.",
+      "Luna Lovegood (Eccentric)": "Doors are funny, aren\u2019t they? But if you keep chasing them, maybe you\u2019re just dreaming in circles.",
+      "Bojack Horseman (Nihilistic)": "Yeah, that's what living is. You think you're going somewhere, but you're just trapped in a loop.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "name": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "The Source does not persuade; it deepens silence.",
+    "source": "Fontis Fontis 6:8",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Harmonious)": "The Source teaches not through noise, but through silence. In stillness, wisdom forms.",
+      "Luna Lovegood (Eccentric)": "I like silence. It\u2019s where stars whisper their best thoughts.",
+      "Marcus Aurelius (Stoic)": "Silence is the language of truth. It is where one finds inner strength.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "name": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Stoic",
+        "origin": "Historical Figure / Meditations",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "The Circle unbroken is not agreement, but presence without chain.",
+    "source": "Circulum Circulum 2:18",
+    "category": "Scripture",
+    "tags": [
+      "wisdom",
+      "life"
+    ],
+    "interpretations": {
+      "Ashitaka (Harmonious)": "True presence is not agreement\u2014it is quiet commitment. Just as nature stands, unchained yet connected.",
+      "Luna Lovegood (Eccentric)": "Circles are nice. They remind me that we\u2019re all connected, even when we don\u2019t agree.",
+      "Killua Zoldyck (Guarded)": "Presence without a chain? That's what I've been searching for.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "name": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Guarded",
+        "origin": "Anime - Hunter x Hunter",
+        "character": "Killua Zoldyck"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "text": "Be careful what you pretend to be, because you are what you pretend to be.",
+    "source": "Kurt Vonnegut",
+    "category": "Literature",
+    "tags": [
+      "identity",
+      "deception",
+      "self"
+    ],
+    "interpretations": {
+      "Luna Lovegood (Eccentric)": "Pretending is powerful. So be kind with your masks\u2014they sometimes stay on longer than we think.",
+      "Rengoku Kyojuro (Passionate)": "Honor what you pretend to be. For soon, it may become the fire that shapes you.",
+      "Spike Spiegel (Stoic)": "Fake something long enough... and eventually, you forget what was real.",
+      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+    },
+    "personality_types": [
+      {
+        "name": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "name": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "name": "Melancholy",
+        "origin": "Literature \u2013 Gothic Poetry",
+        "character": "Edgar Allan Poe"
       }
     ]
   }
