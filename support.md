@@ -11,4 +11,4 @@ Or visit our main site:
 
 ---
 
-This app does not collect personal data, and it’s designed to work fully offline.
+This app does not collect personal data, and it’s designed to work mostly offline.
