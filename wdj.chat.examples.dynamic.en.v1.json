@@ -1,0 +1,602 @@
+{
+  "name": "wdj.chat.examples.dynamic.en.v1",
+  "version": "1.0",
+  "schema": {
+    "example": {
+      "id": "string",
+      "role": "user|bot",
+      "type": "question|comment|response",
+      "text": "string (only for static items)",
+      "context": "quote|story|ai-interpret|system|chat",
+      "intent": "FindByTag|FindByCategory|FindBySource|ExplainInVoice|MoreLikeThis|StartStory|ContinueStory|JumpToTheme|CompareVoices|Help|System",
+      "slots": {
+        "tag": "string|optional",
+        "category": "string|optional",
+        "source": "string|optional",
+        "voice": "string|optional",
+        "story": "string|optional",
+        "tone": "string|optional",
+        "feeling": "string|optional"
+      },
+      "dynamic": "boolean|optional",
+      "resolve": "string|optional",
+      "render_template": "string|optional",
+      "payload_contract": {
+        "expects": ["array of field names your resolver must return"]
+      }
+    }
+  },
+  "intents": [
+    {
+      "intent": "FindByTag",
+      "examples": [
+        {
+          "id": "FT-01",
+          "role": "user",
+          "type": "question",
+          "text": "Show me a quote about courage.",
+          "context": "quote",
+          "intent": "FindByTag",
+          "slots": { "tag": "courage" }
+        },
+        {
+          "id": "FT-02",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "FindByTag",
+          "dynamic": true,
+          "resolve": "quote.byTag",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        },
+        {
+          "id": "FT-03",
+          "role": "user",
+          "type": "question",
+          "text": "Anything on purpose?",
+          "context": "quote",
+          "intent": "FindByTag",
+          "slots": { "tag": "purpose" }
+        },
+        {
+          "id": "FT-04",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "FindByTag",
+          "dynamic": true,
+          "resolve": "quote.byTag",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        },
+        {
+          "id": "FT-05",
+          "role": "user",
+          "type": "question",
+          "text": "Do you have anything on gratitude?",
+          "context": "quote",
+          "intent": "FindByTag",
+          "slots": { "tag": "gratitude" }
+        },
+        {
+          "id": "FT-06",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "FindByTag",
+          "dynamic": true,
+          "resolve": "quote.byTag",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        },
+        {
+          "id": "FT-07",
+          "role": "user",
+          "type": "question",
+          "text": "Show me something on discipline.",
+          "context": "quote",
+          "intent": "FindByTag",
+          "slots": { "tag": "discipline" }
+        },
+        {
+          "id": "FT-08",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "FindByTag",
+          "dynamic": true,
+          "resolve": "quote.byTag",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        }
+      ]
+    },
+    {
+      "intent": "FindByCategory",
+      "examples": [
+        {
+          "id": "FC-01",
+          "role": "user",
+          "type": "question",
+          "text": "Give me something in Motherhood.",
+          "context": "quote",
+          "intent": "FindByCategory",
+          "slots": { "category": "Motherhood" }
+        },
+        {
+          "id": "FC-02",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "FindByCategory",
+          "dynamic": true,
+          "resolve": "quote.byCategory",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        },
+        {
+          "id": "FC-03",
+          "role": "user",
+          "type": "question",
+          "text": "Anything in Literature?",
+          "context": "quote",
+          "intent": "FindByCategory",
+          "slots": { "category": "Literature" }
+        },
+        {
+          "id": "FC-04",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "FindByCategory",
+          "dynamic": true,
+          "resolve": "quote.byCategory",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        }
+      ]
+    },
+    {
+      "intent": "FindBySource",
+      "examples": [
+        {
+          "id": "FS-01",
+          "role": "user",
+          "type": "question",
+          "text": "More from Marcus Aurelius?",
+          "context": "quote",
+          "intent": "FindBySource",
+          "slots": { "source": "Marcus Aurelius" }
+        },
+        {
+          "id": "FS-02",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "FindBySource",
+          "dynamic": true,
+          "resolve": "quote.bySource",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        },
+        {
+          "id": "FS-03",
+          "role": "user",
+          "type": "question",
+          "text": "Show me something by Original – Wisdom du Jour.",
+          "context": "quote",
+          "intent": "FindBySource",
+          "slots": { "source": "Original – Wisdom du Jour" }
+        },
+        {
+          "id": "FS-04",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "FindBySource",
+          "dynamic": true,
+          "resolve": "quote.bySource",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        }
+      ]
+    },
+    {
+      "intent": "ExplainInVoice",
+      "examples": [
+        {
+          "id": "EV-01",
+          "role": "user",
+          "type": "question",
+          "text": "Explain that like Violet Evergarden.",
+          "context": "ai-interpret",
+          "intent": "ExplainInVoice",
+          "slots": { "voice": "Violet Evergarden (Earnest)" }
+        },
+        {
+          "id": "EV-02",
+          "role": "bot",
+          "type": "response",
+          "context": "ai-interpret",
+          "intent": "ExplainInVoice",
+          "dynamic": true,
+          "resolve": "ai.explainInVoice",
+          "render_template": "“{{interpretation}}” — {{interpreter}}",
+          "payload_contract": { "expects": ["quoteId","interpreter","interpretation"] }
+        },
+        {
+          "id": "EV-03",
+          "role": "user",
+          "type": "question",
+          "text": "Interpret this in the voice of Itachi.",
+          "context": "ai-interpret",
+          "intent": "ExplainInVoice",
+          "slots": { "voice": "Itachi Uchiha (Disciplined)" }
+        },
+        {
+          "id": "EV-04",
+          "role": "bot",
+          "type": "response",
+          "context": "ai-interpret",
+          "intent": "ExplainInVoice",
+          "dynamic": true,
+          "resolve": "ai.explainInVoice",
+          "render_template": "“{{interpretation}}” — {{interpreter}}",
+          "payload_contract": { "expects": ["quoteId","interpreter","interpretation"] }
+        },
+        {
+          "id": "EV-05",
+          "role": "user",
+          "type": "question",
+          "text": "Explain that in Marcus Aurelius’s voice.",
+          "context": "ai-interpret",
+          "intent": "ExplainInVoice",
+          "slots": { "voice": "Marcus Aurelius (Stoic)" }
+        },
+        {
+          "id": "EV-06",
+          "role": "bot",
+          "type": "response",
+          "context": "ai-interpret",
+          "intent": "ExplainInVoice",
+          "dynamic": true,
+          "resolve": "ai.explainInVoice",
+          "render_template": "“{{interpretation}}” — {{interpreter}}",
+          "payload_contract": { "expects": ["quoteId","interpreter","interpretation"] }
+        },
+        {
+          "id": "EV-07",
+          "role": "user",
+          "type": "question",
+          "text": "Rumi’s take, please.",
+          "context": "ai-interpret",
+          "intent": "ExplainInVoice",
+          "slots": { "voice": "Rumi (Spiritual)" }
+        },
+        {
+          "id": "EV-08",
+          "role": "bot",
+          "type": "response",
+          "context": "ai-interpret",
+          "intent": "ExplainInVoice",
+          "dynamic": true,
+          "resolve": "ai.explainInVoice",
+          "render_template": "“{{interpretation}}” — {{interpreter}}",
+          "payload_contract": { "expects": ["quoteId","interpreter","interpretation"] }
+        }
+      ]
+    },
+    {
+      "intent": "MoreLikeThis",
+      "examples": [
+        {
+          "id": "ML-01",
+          "role": "user",
+          "type": "question",
+          "text": "More like this.",
+          "context": "chat",
+          "intent": "MoreLikeThis"
+        },
+        {
+          "id": "ML-02",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "MoreLikeThis",
+          "dynamic": true,
+          "resolve": "quote.moreLikeThis",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        },
+        {
+          "id": "ML-03",
+          "role": "user",
+          "type": "question",
+          "text": "Another one, same category.",
+          "context": "chat",
+          "intent": "MoreLikeThis"
+        },
+        {
+          "id": "ML-04",
+          "role": "bot",
+          "type": "response",
+          "context": "quote",
+          "intent": "MoreLikeThis",
+          "dynamic": true,
+          "resolve": "quote.moreLikeThis",
+          "render_template": "“{{text}}”\n— {{source}}\n🌿 {{category}}",
+          "payload_contract": { "expects": ["quoteId","text","source","category","tags","interpretations"] }
+        }
+      ]
+    },
+    {
+      "intent": "StartStory",
+      "examples": [
+        {
+          "id": "SS-01",
+          "role": "user",
+          "type": "comment",
+          "text": "I feel unseen; be blunt.",
+          "context": "story",
+          "intent": "StartStory",
+          "slots": { "feeling": "unseen/ordinary", "tone": "defiant/blunt" }
+        },
+        {
+          "id": "SS-02",
+          "role": "bot",
+          "type": "response",
+          "context": "story",
+          "intent": "StartStory",
+          "dynamic": true,
+          "resolve": "story.route.start",
+          "render_template": "Routing to *{{title}}* ({{narrator}}).\nReason: {{reason}}",
+          "payload_contract": { "expects": ["storyId","title","narrator","tone","reason"] }
+        },
+        {
+          "id": "SS-03",
+          "role": "user",
+          "type": "comment",
+          "text": "I’m bereaved and want a gentle tone.",
+          "context": "story",
+          "intent": "StartStory",
+          "slots": { "feeling": "bereaved", "tone": "earnest/gentle" }
+        },
+        {
+          "id": "SS-04",
+          "role": "bot",
+          "type": "response",
+          "context": "story",
+          "intent": "StartStory",
+          "dynamic": true,
+          "resolve": "story.route.start",
+          "render_template": "Routing to *{{title}}* ({{narrator}}).\nReason: {{reason}}",
+          "payload_contract": { "expects": ["storyId","title","narrator","tone","reason"] }
+        },
+        {
+          "id": "SS-05",
+          "role": "user",
+          "type": "comment",
+          "text": "I’m tempted by spectacle but want one small improvement.",
+          "context": "story",
+          "intent": "StartStory",
+          "slots": { "feeling": "restless", "tone": "defiant/blunt" }
+        },
+        {
+          "id": "SS-06",
+          "role": "bot",
+          "type": "response",
+          "context": "story",
+          "intent": "StartStory",
+          "dynamic": true,
+          "resolve": "story.route.start",
+          "render_template": "Routing to *{{title}}* ({{narrator}}).\nReason: {{reason}}",
+          "payload_contract": { "expects": ["storyId","title","narrator","tone","reason"] }
+        }
+      ]
+    },
+    {
+      "intent": "ContinueStory",
+      "examples": [
+        {
+          "id": "CS-01",
+          "role": "user",
+          "type": "question",
+          "text": "Continue.",
+          "context": "story",
+          "intent": "ContinueStory"
+        },
+        {
+          "id": "CS-02",
+          "role": "bot",
+          "type": "response",
+          "context": "story",
+          "intent": "ContinueStory",
+          "dynamic": true,
+          "resolve": "story.chapter.next",
+          "render_template": "“{{chapter_excerpt}}”\n— {{source}}\n🌿 {{tags_joined}}\n(Chapter {{chapterIndex}})",
+          "payload_contract": { "expects": ["chapter_excerpt","source","tags_joined","chapterIndex","storyId","interpretations"] }
+        }
+      ]
+    },
+    {
+      "intent": "JumpToTheme",
+      "examples": [
+        {
+          "id": "JT-01",
+          "role": "user",
+          "type": "question",
+          "text": "In this story, show a part about responsibility.",
+          "context": "story",
+          "intent": "JumpToTheme",
+          "slots": { "tag": "responsibility" }
+        },
+        {
+          "id": "JT-02",
+          "role": "bot",
+          "type": "response",
+          "context": "story",
+          "intent": "JumpToTheme",
+          "dynamic": true,
+          "resolve": "story.chapter.byTag",
+          "render_template": "Here’s a related passage:\n“{{chapter_excerpt}}”\n— {{source}}\n🌿 {{tags_joined}}",
+          "payload_contract": { "expects": ["chapter_excerpt","source","tags_joined","storyId","chapterIndex","interpretations"] }
+        },
+        {
+          "id": "JT-03",
+          "role": "user",
+          "type": "question",
+          "text": "Find a part on gratitude.",
+          "context": "story",
+          "intent": "JumpToTheme",
+          "slots": { "tag": "gratitude" }
+        },
+        {
+          "id": "JT-04",
+          "role": "bot",
+          "type": "response",
+          "context": "story",
+          "intent": "JumpToTheme",
+          "dynamic": true,
+          "resolve": "story.chapter.byTag",
+          "render_template": "Here’s a related passage:\n“{{chapter_excerpt}}”\n— {{source}}\n🌿 {{tags_joined}}",
+          "payload_contract": { "expects": ["chapter_excerpt","source","tags_joined","storyId","chapterIndex","interpretations"] }
+        }
+      ]
+    },
+    {
+      "intent": "CompareVoices",
+      "examples": [
+        {
+          "id": "CV-01",
+          "role": "user",
+          "type": "question",
+          "text": "Compare Violet and Itachi on this.",
+          "context": "ai-interpret",
+          "intent": "CompareVoices",
+          "slots": { "voice": "Violet|Itachi" }
+        },
+        {
+          "id": "CV-02",
+          "role": "bot",
+          "type": "response",
+          "context": "ai-interpret",
+          "intent": "CompareVoices",
+          "dynamic": true,
+          "resolve": "ai.compareVoices",
+          "render_template": "Violet: “{{interpretation_a}}”\nItachi: “{{interpretation_b}}”",
+          "payload_contract": { "expects": ["quoteId","voices","interpretation_a","interpretation_b"] }
+        },
+        {
+          "id": "CV-03",
+          "role": "user",
+          "type": "question",
+          "text": "Lucifer versus Marcus on ambition?",
+          "context": "ai-interpret",
+          "intent": "CompareVoices",
+          "slots": { "voice": "Lucifer|Marcus Aurelius" }
+        },
+        {
+          "id": "CV-04",
+          "role": "bot",
+          "type": "response",
+          "context": "ai-interpret",
+          "intent": "CompareVoices",
+          "dynamic": true,
+          "resolve": "ai.compareVoices",
+          "render_template": "Lucifer: “{{interpretation_a}}”\nMarcus: “{{interpretation_b}}”",
+          "payload_contract": { "expects": ["quoteId","voices","interpretation_a","interpretation_b"] }
+        }
+      ]
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "id": "HP-01",
+          "role": "user",
+          "type": "question",
+          "text": "What can I ask you?",
+          "context": "system",
+          "intent": "Help"
+        },
+        {
+          "id": "HP-02",
+          "role": "bot",
+          "type": "response",
+          "context": "system",
+          "intent": "Help",
+          "text": "Try: a tag (“courage”), a category (“Motherhood”), ‘more like this’, or ‘explain in Violet/Marcus/Itachi’."
+        },
+        {
+          "id": "HP-03",
+          "role": "bot",
+          "type": "response",
+          "context": "system",
+          "intent": "Help",
+          "text": "You can also start Story Mode: “I feel unseen; be blunt” or “I’m bereaved; be gentle.”"
+        }
+      ]
+    },
+    {
+      "intent": "System",
+      "examples": [
+        {
+          "id": "SY-01",
+          "role": "bot",
+          "type": "response",
+          "context": "system",
+          "intent": "System",
+          "text": "Hi! Tell me a feeling or tag (e.g., “courage”, “forgiveness”, “motherhood”)."
+        },
+        {
+          "id": "SY-02",
+          "role": "bot",
+          "type": "response",
+          "context": "system",
+          "intent": "System",
+          "text": "Name a vibe and I’ll bring the quote + a perspective."
+        },
+        {
+          "id": "SY-03",
+          "role": "user",
+          "type": "comment",
+          "text": "You sound poetic.",
+          "context": "chat",
+          "intent": "System"
+        },
+        {
+          "id": "SY-04",
+          "role": "bot",
+          "type": "response",
+          "context": "system",
+          "intent": "System",
+          "text": "It’s the Wisdom du Jour way — everything speaks in reflections."
+        },
+        {
+          "id": "SY-05",
+          "role": "bot",
+          "type": "response",
+          "context": "system",
+          "intent": "System",
+          "text": "Ask for a voice (Violet, Itachi, Marcus, Rumi) or say “More like this”."
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "FindByTag": 8,
+    "FindByCategory": 4,
+    "FindBySource": 4,
+    "ExplainInVoice": 8,
+    "MoreLikeThis": 4,
+    "StartStory": 6,
+    "ContinueStory": 2,
+    "JumpToTheme": 4,
+    "CompareVoices": 4,
+    "Help": 3,
+    "System": 5,
+    "total_examples": 52
+  }
+}
+

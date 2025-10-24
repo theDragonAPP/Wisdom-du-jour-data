@@ -1,0 +1,105 @@
+[
+  {
+    "id": "story.ash-in-the-veins.lucifer.v1",
+    "file": "wdj.story.ash-in-the-veins.lucifer.en.v1.json",
+    "title": "Ash in the Veins",
+    "character": "Mara Kepler",
+    "narrator": "Lucifer (Defiant)",
+    "language": "en",
+    "version": "v1",
+    "length_words": 900,
+    "shelves": ["Mirror/Confrontation", "Ambition Detox"],
+    "themes": ["significance-vs-scale", "duty-over-applause", "quiet-innovation", "memento-mori"],
+    "core_fear": ["being-forgettable"],
+    "recommended_feelings": ["restless", "unseen", "ambitious", "burnout-adjacent"],
+    "triggers": ["metrics-obsession", "silence-after-effort", "peer-virality", "golden-handcuffs"],
+    "tone": "defiant",
+    "score_weights": {
+      "unseen": 2,
+      "ambitious": 2,
+      "burnout-adjacent": 1,
+      "comfort-temptation": 1,
+      "spectacle-temptation": 1,
+      "wants-blunt-truth": 2,
+      "wants-one-small-improvement": 1
+    },
+    "sample_questions": [
+      {
+        "id": "q1_feeling",
+        "question": "What feels truest right now?",
+        "options": ["unseen/ordinary", "overwhelmed/burnout", "indecisive/adrift", "disillusioned/cynical"]
+      },
+      {
+        "id": "q2_tone",
+        "question": "What tone do you want from the narrator?",
+        "options": ["defiant/blunt", "calm/stoic", "dark/humorous"]
+      },
+      {
+        "id": "q3_temptation",
+        "question": "Which temptation is loudest?",
+        "options": ["comfort/golden-handcuffs", "spectacle/scale-chasing", "avoidance/procrastination"]
+      },
+      {
+        "id": "q4_outcome",
+        "question": "What outcome do you actually want tonight?",
+        "options": ["one small improvement", "permission to rest", "a big bold move"]
+      }
+    ],
+    "routes": [
+      { "if_all": ["tone:defiant", "feeling:unseen/ordinary"], "boost": 3 },
+      { "if_any": ["temptation:comfort/golden-handcuffs", "temptation:spectacle/scale-chasing"], "boost": 1 },
+      { "if_all": ["outcome:one small improvement"], "boost": 1 }
+    ]
+  },
+  {
+    "id": "story.paper-lanterns.violet-evergarden.v1",
+    "file": "wdj.story.paper-lanterns.violet-evergarden.en.v1.json",
+    "title": "Paper Lanterns",
+    "character": "Ren Kimura",
+    "narrator": "Violet Evergarden (Earnest)",
+    "language": "en",
+    "version": "v1",
+    "length_words": 900,
+    "shelves": ["Healing/Acceptance", "Purpose & Responsibility"],
+    "themes": ["grief-to-growth", "discipline-over-numbness", "service-over-spectacle", "time-and-truth"],
+    "core_fear": ["self-blame", "forgetting"],
+    "recommended_feelings": ["bereaved", "numb", "guilty", "quietly-hopeful"],
+    "triggers": ["anniversary-dates", "survivor-guilt", "public-spectacle-offers"],
+    "tone": "earnest",
+    "score_weights": {
+      "bereaved": 3,
+      "guilty": 2,
+      "numb": 2,
+      "wants-gentle-truth": 2,
+      "wants-one-small-improvement": 1,
+      "service-over-spectacle": 1
+    },
+    "sample_questions": [
+      {
+        "id": "q1_feeling",
+        "question": "What feels truest right now?",
+        "options": ["bereaved", "numb", "guilty", "restless"]
+      },
+      {
+        "id": "q2_tone",
+        "question": "What tone do you want from the narrator?",
+        "options": ["earnest/gentle", "calm/stoic", "defiant/blunt"]
+      },
+      {
+        "id": "q3_temptation",
+        "question": "What are you most tempted by right now?",
+        "options": ["numbness/avoidance", "spectacle/scale-chasing", "comfort/golden-handcuffs"]
+      },
+      {
+        "id": "q4_outcome",
+        "question": "What outcome do you actually want tonight?",
+        "options": ["one small improvement", "permission to rest", "a big bold move"]
+      }
+    ],
+    "routes": [
+      { "if_all": ["tone:earnest/gentle", "feeling:bereaved"], "boost": 3 },
+      { "if_any": ["temptation:numbness/avoidance", "temptation:spectacle/scale-chasing"], "boost": 1 },
+      { "if_all": ["outcome:one small improvement"], "boost": 1 }
+    ]
+  }
+]
