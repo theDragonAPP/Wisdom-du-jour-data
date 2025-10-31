@@ -4803,5 +4803,589 @@
         "character": "Maya Angelou"
       }
     ]
-  }
+  },
+  {
+    "text": "People don’t respect you. They respect what you stand for.",
+    "source": "Original – Wisdom du Jour (P.I.M.P.)",
+    "category": "Principles",
+    "tags": [
+      "respect",
+      "principles",
+      "identity",
+      "leadership"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "They respect the alignment of word and deed; the man is only its vessel.",
+      "Maya Angelou (Civil Rights Poetry)": "Stand in your why—and watch respect find its footing.",
+      "Frank Underwood (House of Cards)": "They don’t salute you—they salute your leverage. Make sure it’s principle, not puppetry.",
+      "Rumi (Sufi Mystic)": "Honor is the shadow of purpose. Stand where your soul has weight."
+    },
+    "personality_types": [
+      {
+        "name": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "name": "Resilient",
+        "origin": "Poetry – Civil Rights",
+        "character": "Maya Angelou"
+      },
+      {
+        "name": "Calculating",
+        "origin": "TV – House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "name": "Mystic",
+        "origin": "Poetry – Sufi Mystic",
+        "character": "Rumi"
+      }
+    ]
+  },
+  {
+    "text": "Hang out with people that will lead you to the life you want.",
+    "source": "Original – Wisdom du Jour (P.I.M.P.)",
+    "category": "Principles",
+    "tags": [
+      "peers",
+      "mentorship",
+      "direction",
+      "growth"
+    ],
+    "interpretations": {
+      "Seneca (Stoicism)": "Keep company with those who make you better—and whom you, in turn, improve.",
+      "Aesop (Fables)": "Choose the flock wisely; a beast shows his nature by the company he keeps.",
+      "Oprah Winfrey (Media)": "Surround yourself with people who lift your tomorrow.",
+      "Gojo Satoru (Jujutsu Kaisen)": "Roll with stronger sorcerers—your ceiling becomes their floor."
+    },
+    "personality_types": [
+      {
+        "name": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "name": "Didactic",
+        "origin": "Fable – Aesop",
+        "character": "Aesop"
+      },
+      {
+        "name": "Empowering",
+        "origin": "Media – Oprah Winfrey",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "name": "Confident",
+        "origin": "Anime – Jujutsu Kaisen",
+        "character": "Gojo Satoru"
+      }
+    ]
+  },
+  {
+    "text": "Associate with those who will make a better man of you. Welcome those whom you yourself can improve. The process is mutual; for men learn while they teach.",
+    "source": "Seneca — Letters to Lucilius, Letter 7",
+    "category": "Principles",
+    "tags": [
+      "peers",
+      "mutual growth",
+      "mentorship",
+      "character"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "Choose companions who refine the soul; be one who refines theirs.",
+      "Kahlil Gibran (Philosophical Poetry)": "Let your friends be the wind and the keel—each carrying the other to harbor.",
+      "Sherlock Holmes (Literature)": "Select associates who sharpen the instrument; dull minds leave no useful trace.",
+      "Maya Angelou (Civil Rights Poetry)": "Find folks who pour into you—and make sure your cup pours back."
+    },
+    "personality_types": [
+      {
+        "name": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "name": "Philosophical",
+        "origin": "Poetry – Philosophical",
+        "character": "Kahlil Gibran"
+      },
+      {
+        "name": "Analytical",
+        "origin": "Literature",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "name": "Resilient",
+        "origin": "Poetry – Civil Rights",
+        "character": "Maya Angelou"
+      }
+    ]
+  },
+  {
+    "text": "Surround yourself with only people who are going to lift you higher.",
+    "source": "Oprah Winfrey",
+    "category": "Principles",
+    "tags": [
+      "peers",
+      "uplift",
+      "boundaries",
+      "success"
+    ],
+    "interpretations": {
+      "Rumi (Sufi Mystic)": "Let your circle be ladders, not cages.",
+      "Frank Underwood (House of Cards)": "If they don’t raise your floor, they’ll lower your ceiling—choose.",
+      "Gojo Satoru (Jujutsu Kaisen)": "Party rule: if their energy doesn’t buff your stats, skip the raid.",
+      "Kahlil Gibran (Philosophical Poetry)": "Walk with those whose steps are songs to your becoming."
+    },
+    "personality_types": [
+      {
+        "name": "Mystic",
+        "origin": "Poetry – Sufi Mystic",
+        "character": "Rumi"
+      },
+      {
+        "name": "Calculating",
+        "origin": "TV – House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "name": "Confident",
+        "origin": "Anime – Jujutsu Kaisen",
+        "character": "Gojo Satoru"
+      },
+      {
+        "name": "Philosophical",
+        "origin": "Poetry – Philosophical",
+        "character": "Kahlil Gibran"
+      }
+    ]
+  },
+  {
+    "text": "Associate yourself with Men of good Quality if you esteem your own Reputation; for ’tis better to be alone than in bad Company.",
+    "source": "George Washington — Rules of Civility, Rule 56",
+    "category": "Principles",
+    "tags": [
+      "peers",
+      "reputation",
+      "standards",
+      "boundaries"
+    ],
+    "interpretations": {
+      "Sherlock Holmes (Literature)": "Reputation is an inference from associations; eliminate poor data.",
+      "Marcus Aurelius (Stoicism)": "Prefer solitude to vice; the soul is better alone than in poor company.",
+      "Maya Angelou (Civil Rights Poetry)": "Better a quiet walk with yourself than a noisy march to nowhere.",
+      "Lord Genome (Gurren Lagann)": "A king chooses his court—or abdicates his throne."
+    },
+    "personality_types": [
+      {
+        "name": "Analytical",
+        "origin": "Literature",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "name": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "name": "Resilient",
+        "origin": "Poetry – Civil Rights",
+        "character": "Maya Angelou"
+      },
+      {
+        "name": "Grandiose",
+        "origin": "Anime – Tengen Toppa Gurren Lagann",
+        "character": "Lord Genome"
+      }
+    ]
+  },
+  {
+    "text": "You are the average of the five people you spend the most time with.",
+    "source": "Jim Rohn",
+    "category": "Principles",
+    "tags": [
+      "peers",
+      "influence",
+      "habits",
+      "identity"
+    ],
+    "interpretations": {
+      "Frank Underwood (House of Cards)": "Audit your inner circle; it’s your composite score.",
+      "Rumi (Sufi Mystic)": "Five mirrors shape the face you show the world.",
+      "Marcus Aurelius (Stoicism)": "Beware of importing another’s vices; import their virtues instead.",
+      "Oprah Winfrey (Media)": "Edit the guest list to edit your life."
+    },
+    "personality_types": [
+      {
+        "name": "Calculating",
+        "origin": "TV – House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "name": "Mystic",
+        "origin": "Poetry – Sufi Mystic",
+        "character": "Rumi"
+      },
+      {
+        "name": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "name": "Empowering",
+        "origin": "Media – Oprah Winfrey",
+        "character": "Oprah Winfrey"
+      }
+    ]
+  },
+  {
+    "text": "A man is known by the company he keeps.",
+    "source": "Aesop — “The Ass and His Purchaser”",
+    "category": "Principles",
+    "tags": [
+      "peers",
+      "character",
+      "discernment",
+      "proverb"
+    ],
+    "interpretations": {
+      "Aesop (Fables)": "Choose your herd; the halter follows the habit.",
+      "Rumi (Sufi Mystic)": "Your companions are the dye of your robe; walk wisely.",
+      "Sherlock Holmes (Literature)": "Character analysis begins with a list of associates.",
+      "Niccolò Machiavelli (Political Philosophy)": "Reputation is policy by association; govern accordingly."
+    },
+    "personality_types": [
+      {
+        "name": "Didactic",
+        "origin": "Fable – Aesop",
+        "character": "Aesop"
+      },
+      {
+        "name": "Mystic",
+        "origin": "Poetry – Sufi Mystic",
+        "character": "Rumi"
+      },
+      {
+        "name": "Analytical",
+        "origin": "Literature",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "name": "Pragmatic",
+        "origin": "Political Philosophy",
+        "character": "Niccolò Machiavelli"
+      }
+    ]
+  },
+  {
+    "text": "If they must fear you to obey, you’ve already lost their loyalty.",
+    "source": "Original – Wisdom du Jour",
+    "category": "Principles",
+    "tags": [
+        "power",
+        "leadership",
+        "loyalty"
+    ],
+    "interpretations": {
+      "Frank Underwood (Calculating)": "Fear buys compliance; loyalty buys time.",
+      "Ashitaka (Harmonious)": "Authority without trust is only noise.",
+      "Hannibal Lecter (Intellectual)": "Fear is a leash; loyalty is architecture.",
+      "Bojack Horseman (Nihilistic)": "Fear works—until it doesn’t, and then you’re alone."
+    },
+    "personality_types": [
+        {
+          "name": "Calculating",
+          "origin": "TV – House of Cards",
+          "character": "Frank Underwood"
+        },
+        {
+          "name": "Harmonious",
+          "origin": "Anime – Princess Mononoke",
+          "character": "Ashitaka"
+        },
+        {
+          "name": "Intellectual",
+          "origin": "Literature / Film – Silence of the Lambs",
+          "character": "Hannibal Lecter"
+        },
+        {
+          "name": "Nihilistic",
+          "origin": "TV – Bojack Horseman",
+          "character": "Bojack Horseman"
+      }
+    ]
+  },
+{
+  "text": "He who is the cause of another becoming powerful is ruined.",
+  "source": "Niccolò Machiavelli — The Prince (W. K. Marriott, trans.)",
+  "category": "Relationships",
+  "tags": [
+    "loyalty",
+    "strength",
+    "hurt",
+    "pain"
+  ],
+  "interpretations": {
+    "Clevatess (Record of Ragnarok)": "Never feed a rival that will eat you first.",
+    "Ganta Igarashi (Deadman Wonderland)": "Help the wrong people and you build your own cage.",
+    "Shiro (Deadman Wonderland)": "Making monsters is easy. Surviving them isn’t.",
+    "Kumoko (So I'm a Spider, So What?)": "Power-ups you gift come with recoil damage."
+  },
+  "personality_types": [
+    {
+      "name": "Predator",
+      "origin": "Anime – Record of Ragnarok",
+      "character": "Clevatess"
+    },
+    {
+      "name": "Survivor",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Ganta Igarashi"
+    },
+    {
+      "name": "Dual-Natured",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Shiro"
+    },
+    {
+      "name": "Resourceful",
+      "origin": "Anime – So I'm a Spider, So What?",
+      "character": "Kumoko"
+    }
+  ]
+},
+{
+  "text": "Your greatest power in seduction is your ability to turn away.",
+  "source": "Robert Greene — The Art of Seduction",
+  "category": "Relationships",
+  "tags": [
+    "sexual desire",
+    "strength",
+    "love",
+    "loyalty"
+  ],
+  "interpretations": {
+    "Clevatess (Record of Ragnarok)": "Prey that walks away lives; hunters follow choice.",
+    "Ganta Igarashi (Deadman Wonderland)": "Walking away is the first punch they don’t see.",
+    "Shiro (Deadman Wonderland)": "Sometimes not touching is the loudest touch.",
+    "Kumoko (So I'm a Spider, So What?)": "Turn your back? That’s a spin move—repositioning."
+  },
+  "personality_types": [
+    {
+      "name": "Predator",
+      "origin": "Anime – Record of Ragnarok",
+      "character": "Clevatess"
+    },
+    {
+      "name": "Survivor",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Ganta Igarashi"
+    },
+    {
+      "name": "Dual-Natured",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Shiro"
+    },
+    {
+      "name": "Resourceful",
+      "origin": "Anime – So I'm a Spider, So What?",
+      "character": "Kumoko"
+    }
+  ]
+},
+{
+  "text": "If no resistances or obstacles face you, you must create them.",
+  "source": "Robert Greene — The Art of Seduction",
+  "category": "Relationships",
+  "tags": [
+    "sexual desire",
+    "strength",
+    "love",
+    "loyalty"
+  ],
+  "interpretations": {
+    "Clevatess (Record of Ragnarok)": "Friction sharpens fangs.",
+    "Ganta Igarashi (Deadman Wonderland)": "No pressure, no growth. No game, no guts.",
+    "Shiro (Deadman Wonderland)": "Plays need walls or they fall down.",
+    "Kumoko (So I'm a Spider, So What?)": "No obstacles? That’s a trap. Spawn one you control."
+  },
+  "personality_types": [
+    {
+      "name": "Predator",
+      "origin": "Anime – Record of Ragnarok",
+      "character": "Clevatess"
+    },
+    {
+      "name": "Survivor",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Ganta Igarashi"
+    },
+    {
+      "name": "Dual-Natured",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Shiro"
+    },
+    {
+      "name": "Resourceful",
+      "origin": "Anime – So I'm a Spider, So What?",
+      "character": "Kumoko"
+    }
+  ]
+},
+{
+  "text": "Neuroses don’t have to ruin a marriage—handle them with caring, affection, and respect.",
+  "source": "John M. Gottman — The Seven Principles for Making Marriage Work",
+  "category": "Relationships",
+  "tags": [
+    "love",
+    "loyalty",
+    "strength",
+    "hurt"
+  ],
+  "interpretations": {
+    "Clevatess (Record of Ragnarok)": "Flaws aren’t fatal if discipline and care patrol the border.",
+    "Ganta Igarashi (Deadman Wonderland)": "We’re messed up. Be gentle, keep respect, and we make it.",
+    "Shiro (Deadman Wonderland)": "Hold me soft and steady; the cracks stop spreading.",
+    "Kumoko (So I'm a Spider, So What?)": "Status: anxious. Fix: cuddles + respect + patience buff."
+  },
+  "personality_types": [
+    {
+      "name": "Predator",
+      "origin": "Anime – Record of Ragnarok",
+      "character": "Clevatess"
+    },
+    {
+      "name": "Survivor",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Ganta Igarashi"
+    },
+    {
+      "name": "Dual-Natured",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Shiro"
+    },
+    {
+      "name": "Resourceful",
+      "origin": "Anime – So I'm a Spider, So What?",
+      "character": "Kumoko"
+    }
+  ]
+},
+{
+  "text": "Some leave a marriage by divorcing; others by leading parallel lives together.",
+  "source": "John M. Gottman — The Seven Principles for Making Marriage Work",
+  "category": "Relationships",
+  "tags": [
+    "love",
+    "hurt",
+    "pain",
+    "loyalty"
+  ],
+  "interpretations": {
+    "Clevatess (Record of Ragnarok)": "Two bodies, no pack—already lost.",
+    "Ganta Igarashi (Deadman Wonderland)": "Together-but-gone is worse than gone.",
+    "Shiro (Deadman Wonderland)": "Same house, different worlds—lonely loud.",
+    "Kumoko (So I'm a Spider, So What?)": "Co-op with no party chat? Wipe."
+  },
+  "personality_types": [
+    {
+      "name": "Predator",
+      "origin": "Anime – Record of Ragnarok",
+      "character": "Clevatess"
+    },
+    {
+      "name": "Survivor",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Ganta Igarashi"
+    },
+    {
+      "name": "Dual-Natured",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Shiro"
+    },
+    {
+      "name": "Resourceful",
+      "origin": "Anime – So I'm a Spider, So What?",
+      "character": "Kumoko"
+    }
+  ]
+},
+{
+  "text": "Every woman is wired differently; desire follows her unique pathways.",
+  "source": "Naomi Wolf — Vagina: A New Biography",
+  "category": "Relationships",
+  "tags": [
+    "sexual desire",
+    "love",
+    "strength",
+    "pain"
+  ],
+  "interpretations": {
+    "Clevatess (Record of Ragnarok)": "Maps differ; learn hers or wander forever.",
+    "Ganta Igarashi (Deadman Wonderland)": "She’s not a blueprint. Ask, listen, learn.",
+    "Shiro (Deadman Wonderland)": "Different switches, different light.",
+    "Kumoko (So I'm a Spider, So What?)": "Different builds, different skill trees."
+  },
+  "personality_types": [
+    {
+      "name": "Predator",
+      "origin": "Anime – Record of Ragnarok",
+      "character": "Clevatess"
+    },
+    {
+      "name": "Survivor",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Ganta Igarashi"
+    },
+    {
+      "name": "Dual-Natured",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Shiro"
+    },
+    {
+      "name": "Resourceful",
+      "origin": "Anime – So I'm a Spider, So What?",
+      "character": "Kumoko"
+    }
+  ]
+},
+{
+  "text": "Vagina mediates female confidence, creativity, and sense of transcendence.",
+  "source": "Naomi Wolf — Vagina: A New Biography",
+  "category": "Relationships",
+  "tags": [
+    "sexual desire",
+    "love",
+    "strength",
+    "loyalty"
+  ],
+  "interpretations": {
+    "Clevatess (Record of Ragnarok)": "Guard her temple and she becomes a nation.",
+    "Ganta Igarashi (Deadman Wonderland)": "When she feels right, everything else lights up.",
+    "Shiro (Deadman Wonderland)": "Confidence, art, wonder—it’s all connected.",
+    "Kumoko (So I'm a Spider, So What?)": "If her core stats rise, the whole party levels up."
+  },
+  "personality_types": [
+    {
+      "name": "Predator",
+      "origin": "Anime – Record of Ragnarok",
+      "character": "Clevatess"
+    },
+    {
+      "name": "Survivor",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Ganta Igarashi"
+    },
+    {
+      "name": "Dual-Natured",
+      "origin": "Anime – Deadman Wonderland",
+      "character": "Shiro"
+    },
+    {
+      "name": "Resourceful",
+      "origin": "Anime – So I'm a Spider, So What?",
+      "character": "Kumoko"
+    }
+  ]
+}
 ]
