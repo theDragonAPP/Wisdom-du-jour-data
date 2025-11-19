@@ -15,22 +15,22 @@
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
@@ -51,22 +51,22 @@
     },
     "personality_types": [
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
@@ -80,29 +80,29 @@
       "power"
     ],
     "interpretations": {
-      "Luna Lovegood (Eccentric)": "True power comes when the heart listens to others more than itself.",
-      "Sherlock Holmes (Analytical)": "Desire misleads. Necessity reveals the most efficient path to action.",
-      "Satan (Malevolent)": "Need is the great manipulator. Through it, all power becomes mine.",
-      "Lucifer (Defiant)": "Power born of need humbles. Power born of desire corrupts. Choose your roots carefully."
+      "Luna Lovegood (Book / Movie - Harry Potter)": "True power comes when the heart listens to others more than itself.",
+      "Sherlock Holmes (Literature / TV)": "Desire misleads. Necessity reveals the most efficient path to action.",
+      "Satan (Mythology)": "Need is the great manipulator. Through it, all power becomes mine.",
+      "Lucifer (Mythology / TV - Lucifer)": "Power born of need humbles. Power born of desire corrupts. Choose your roots carefully."
     },
     "personality_types": [
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Malevolent",
+        "personality": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -116,29 +116,29 @@
       "regret"
     ],
     "interpretations": {
-      "Ted Lasso (Amiable)": "No pain, no gain, right? But also, no pain, no heart. It\u2019s what makes you human.",
-      "Makima (Dominant)": "Sacrifice is evolution. The weak forget that all growth is bloody.",
-      "Joker (Chaotic)": "Pain is the punchline. The joke? You asked for it.",
-      "Marcus Aurelius (Stoic)": "Pain tempers the soul like fire tempers steel. Accept it with dignity."
+      "Ted Lasso (TV - Ted Lasso)": "No pain, no gain, right? But also, no pain, no heart. It\u2019s what makes you human.",
+      "Makima (Anime - Chainsaw Man)": "Sacrifice is evolution. The weak forget that all growth is bloody.",
+      "Joker (Comics / Movie - DC Comics)": "Pain is the punchline. The joke? You asked for it.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "Pain tempers the soul like fire tempers steel. Accept it with dignity."
     },
     "personality_types": [
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
@@ -152,29 +152,29 @@
       "time"
     ],
     "interpretations": {
-      "Violet Evergarden (Earnest)": "Time kept moving, even when I didn\u2019t. That\u2019s how I learned to feel again.",
-      "Frank Underwood (Calculating)": "Time is like power\u2014it doesn\u2019t wait, it moves. Be ahead of it or be forgotten.",
-      "Harley Quinn (Manic)": "Time\u2019s a tease. Blink and the best bang\u2019s already blown up.",
-      "Robert Greene (Strategic)": "Time favors the prepared. Those who master timing master consequence."
+      "Violet Evergarden (Anime - Violet Evergarden)": "Time kept moving, even when I didn\u2019t. That\u2019s how I learned to feel again.",
+      "Frank Underwood (TV - House of Cards)": "Time is like power\u2014it doesn\u2019t wait, it moves. Be ahead of it or be forgotten.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "Time\u2019s a tease. Blink and the best bang\u2019s already blown up.",
+      "Robert Greene (Real Life / Author)": "Time favors the prepared. Those who master timing master consequence."
     },
     "personality_types": [
       {
-        "name": "Earnest",
+        "personality": "Earnest",
         "origin": "Anime - Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Manic",
+        "personality": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       },
       {
-        "name": "Strategic",
+        "personality": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       }
@@ -188,29 +188,29 @@
       "magic"
     ],
     "interpretations": {
-      "Violet Evergarden (Earnest)": "Scars remind me I once felt something deeply. That\u2019s not weakness, it\u2019s memory.",
-      "Sherlock Holmes (Analytical)": "A scar is a data point. It indicates error, recovery, and persistence.",
-      "Harley Quinn (Manic)": "A scar\u2019s just sexy proof you survived something messy.",
-      "Sephiroth (Godlike)": "Scars are echoes of former selves. They speak when you try to forget."
+      "Violet Evergarden (Anime - Violet Evergarden)": "Scars remind me I once felt something deeply. That\u2019s not weakness, it\u2019s memory.",
+      "Sherlock Holmes (Literature / TV)": "A scar is a data point. It indicates error, recovery, and persistence.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "A scar\u2019s just sexy proof you survived something messy.",
+      "Sephiroth (Video Game - Final Fantasy)": "Scars are echoes of former selves. They speak when you try to forget."
     },
     "personality_types": [
       {
-        "name": "Earnest",
+        "personality": "Earnest",
         "origin": "Anime - Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Manic",
+        "personality": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       },
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       }
@@ -224,29 +224,29 @@
       "law of attraction"
     ],
     "interpretations": {
-      "Rengoku Kyojuro (Passionate)": "Enduring pain is proof of growth. Protection is love, but growth needs fire.",
-      "Gojo Satoru (Confident)": "Training wheels don\u2019t last forever. They break\u2014or you break them.",
-      "Hannibal Lecter (Intellectual)": "True refinement begins when the hand of safety is severed.",
-      "Robert Greene (Strategic)": "Independence is the highest form of power. Protect them too long, and you breed weakness."
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Enduring pain is proof of growth. Protection is love, but growth needs fire.",
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "Training wheels don\u2019t last forever. They break\u2014or you break them.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "True refinement begins when the hand of safety is severed.",
+      "Robert Greene (Real Life / Author)": "Independence is the highest form of power. Protect them too long, and you breed weakness."
     },
     "personality_types": [
       {
-        "name": "Passionate",
+        "personality": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "name": "Strategic",
+        "personality": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       }
@@ -260,29 +260,29 @@
       "consistency"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "Fear whispers truth. Listening to it brings strength and compassion.",
-      "Sherlock Holmes (Analytical)": "Fear is data. Process it. Categorize it. Then act.",
-      "Harley Quinn (Manic)": "Fear? Honey, that\u2019s just my morning coffee.",
-      "Lucifer (Defiant)": "Fear reveals what still owns you. Dominate it, and you ascend."
+      "Ashitaka (Anime - Princess Mononoke)": "Fear whispers truth. Listening to it brings strength and compassion.",
+      "Sherlock Holmes (Literature / TV)": "Fear is data. Process it. Categorize it. Then act.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "Fear? Honey, that\u2019s just my morning coffee.",
+      "Lucifer (Mythology / TV - Lucifer)": "Fear reveals what still owns you. Dominate it, and you ascend."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Manic",
+        "personality": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -298,29 +298,29 @@
       "grit"
     ],
     "interpretations": {
-      "Rengoku Kyojuro (Passionate)": "The flame never dies if you keep standing. That\u2019s what makes a true hero.",
-      "Makima (Dominant)": "How cute. You think pain makes you noble. I call it repetition.",
-      "Sephiroth (Godlike)": "Rising is admirable\u2014until you realize the cycle never ends. Gods do not rise; they remain.",
-      "Ted Lasso (Amiable)": "A hero's journey is just a lot of little steps, champ. And every single one of 'em counts."
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "The flame never dies if you keep standing. That\u2019s what makes a true hero.",
+      "Makima (Anime - Chainsaw Man)": "How cute. You think pain makes you noble. I call it repetition.",
+      "Sephiroth (Video Game - Final Fantasy)": "Rising is admirable\u2014until you realize the cycle never ends. Gods do not rise; they remain.",
+      "Ted Lasso (TV - Ted Lasso)": "A hero's journey is just a lot of little steps, champ. And every single one of 'em counts."
     },
     "personality_types": [
       {
-        "name": "Passionate",
+        "personality": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       }
@@ -336,29 +336,29 @@
       "rest"
     ],
     "interpretations": {
-      "Sephiroth (Godlike)": "In sleep, you forget your weakness. In dreams, you taste divinity. And yet both are illusions.",
-      "Rengoku Kyojuro (Passionate)": "Even death bows to rest. But remember, the morning asks for your fire again.",
-      "Dani Ardor (Distraught)": "Dreams tell you the truth... the truth you\u2019re too scared to see when awake.",
-      "Bojack Horseman (Nihilistic)": "Sleep is just a rehearsal for the final fade-to-black."
+      "Sephiroth (Video Game - Final Fantasy)": "In sleep, you forget your weakness. In dreams, you taste divinity. And yet both are illusions.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Even death bows to rest. But remember, the morning asks for your fire again.",
+      "Dani Ardor (Movie - Midsommar)": "Dreams tell you the truth... the truth you\u2019re too scared to see when awake.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Sleep is just a rehearsal for the final fade-to-black."
     },
     "personality_types": [
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "name": "Passionate",
+        "personality": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "name": "Distraught",
+        "personality": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -374,29 +374,29 @@
       "closure"
     ],
     "interpretations": {
-      "Ted Lasso (Amiable)": "You\u2019re not a machine, champ. Get some shut-eye. You\u2019ve earned it.",
-      "Ryuko Matoi (Resolute)": "You don\u2019t have to win every night. Just wake up ready to fight again.",
-      "Marcus Aurelius (Stoic)": "To rest is not retreat, but preparation. The soul regathers in silence.",
-      "Itachi Uchiha (Disciplined)": "Rest is not a weakness. It is a necessary stillness before the next battle."
+      "Ted Lasso (TV - Ted Lasso)": "You\u2019re not a machine, champ. Get some shut-eye. You\u2019ve earned it.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "You don\u2019t have to win every night. Just wake up ready to fight again.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "To rest is not retreat, but preparation. The soul regathers in silence.",
+      "Itachi Uchiha (Anime - Naruto)": "Rest is not a weakness. It is a necessary stillness before the next battle."
     },
     "personality_types": [
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       }
@@ -412,29 +412,29 @@
       "night"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "The moon listens when the world will not. Let it hear your truth.",
-      "Makima (Dominant)": "At night, the mask slips. That\u2019s when the heart becomes useful\u2026 or dangerous.",
-      "Luna Lovegood (Eccentric)": "Some thoughts only bloom in the dark. Like starlight \u2014 too shy for the sun.",
-      "Edgar Allan Poe (Melancholy)": "The heart\u2019s morbid truth sings sweetest when cloaked by the veil of night."
+      "Ashitaka (Anime - Princess Mononoke)": "The moon listens when the world will not. Let it hear your truth.",
+      "Makima (Anime - Chainsaw Man)": "At night, the mask slips. That\u2019s when the heart becomes useful\u2026 or dangerous.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Some thoughts only bloom in the dark. Like starlight \u2014 too shy for the sun.",
+      "Edgar Allan Poe (Real Life / Literature)": "The heart\u2019s morbid truth sings sweetest when cloaked by the veil of night."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       }
@@ -450,29 +450,29 @@
       "strength"
     ],
     "interpretations": {
-      "Lord Genome (Grandiose)": "Darkness is not an enemy \u2014 it\u2019s a canvas. The stars? Merely scars left by battles long won.",
-      "Killua Zoldyck (Guarded)": "I stopped being scared of the dark when I realized I could be the light.",
-      "Gojo Satoru (Confident)": "Darkness just means I\u2019m harder to miss. I shine better without the spotlight.",
-      "Frank Underwood (Calculating)": "Stars? They only appear when you extinguish all the other lights."
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Darkness is not an enemy \u2014 it\u2019s a canvas. The stars? Merely scars left by battles long won.",
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "I stopped being scared of the dark when I realized I could be the light.",
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "Darkness just means I\u2019m harder to miss. I shine better without the spotlight.",
+      "Frank Underwood (TV - House of Cards)": "Stars? They only appear when you extinguish all the other lights."
     },
     "personality_types": [
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Guarded",
+        "personality": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -488,29 +488,29 @@
       "reunion"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "Sure, but people don\u2019t always come back after \u2018good night.\u2019 They just say they will.",
-      "Violet Evergarden (Earnest)": "Good night is hope. A soft way to say \u2018I\u2019ll find you again tomorrow.\u2019",
-      "Frank Underwood (Calculating)": "Goodbye ends power. Good night only pauses it. Choose wisely.",
-      "Ryuko Matoi (Resolute)": "I\u2019ll see you tomorrow. And if not, I\u2019ll find you."
+      "Bojack Horseman (TV - Bojack Horseman)": "Sure, but people don\u2019t always come back after \u2018good night.\u2019 They just say they will.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "Good night is hope. A soft way to say \u2018I\u2019ll find you again tomorrow.\u2019",
+      "Frank Underwood (TV - House of Cards)": "Goodbye ends power. Good night only pauses it. Choose wisely.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "I\u2019ll see you tomorrow. And if not, I\u2019ll find you."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Earnest",
+        "personality": "Earnest",
         "origin": "Anime - Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       }
@@ -526,29 +526,29 @@
       "love"
     ],
     "interpretations": {
-      "Sephiroth (Godlike)": "Love bends. Fear breaks. A god does not require either \u2014 only obedience.",
-      "Ashitaka (Harmonious)": "To choose fear over love is to abandon harmony. True leadership earns both.",
-      "Bojack Horseman (Nihilistic)": "I tried being loved. Then I tried being feared. Guess which one left me lonelier?",
-      "Hannibal Lecter (Intellectual)": "Fear is a predictable tool. Love is a dangerous variable."
+      "Sephiroth (Video Game - Final Fantasy)": "Love bends. Fear breaks. A god does not require either \u2014 only obedience.",
+      "Ashitaka (Anime - Princess Mononoke)": "To choose fear over love is to abandon harmony. True leadership earns both.",
+      "Bojack Horseman (TV - Bojack Horseman)": "I tried being loved. Then I tried being feared. Guess which one left me lonelier?",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Fear is a predictable tool. Love is a dangerous variable."
     },
     "personality_types": [
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -564,29 +564,29 @@
       "love"
     ],
     "interpretations": {
-      "Itachi Uchiha (Disciplined)": "To love with clarity, one must overcome the shadow of self. Discipline over impulse creates peace.",
-      "Killua Zoldyck (Guarded)": "You can\u2019t love anyone if you\u2019re still being pulled around by the part of you that wants to destroy everything.",
-      "Ted Lasso (Amiable)": "It\u2019s like training your wild side to wear a tie. Not easy, but worth it if it helps you love better.",
-      "Joker (Chaotic)": "Id, ego... it's all just a funhouse mirror. The real question is, which reflection do you like best?"
+      "Itachi Uchiha (Anime - Naruto)": "To love with clarity, one must overcome the shadow of self. Discipline over impulse creates peace.",
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "You can\u2019t love anyone if you\u2019re still being pulled around by the part of you that wants to destroy everything.",
+      "Ted Lasso (TV - Ted Lasso)": "It\u2019s like training your wild side to wear a tie. Not easy, but worth it if it helps you love better.",
+      "Joker (Comics / Movie - DC Comics)": "Id, ego... it's all just a funhouse mirror. The real question is, which reflection do you like best?"
     },
     "personality_types": [
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Guarded",
+        "personality": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -602,29 +602,29 @@
       "self-worth"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "Story of my life. I gave everything to ghosts and wondered why I felt hollow.",
-      "Luna Lovegood (Eccentric)": "Sometimes, we give our hearts to silence. That doesn\u2019t mean it didn\u2019t hear you.",
-      "Lord Genome (Grandiose)": "Fools pour devotion into statues. The wise ask if stone can feel.",
-      "Frank Underwood (Calculating)": "Unreciprocated love is a waste of a strategic resource."
+      "Bojack Horseman (TV - Bojack Horseman)": "Story of my life. I gave everything to ghosts and wondered why I felt hollow.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Sometimes, we give our hearts to silence. That doesn\u2019t mean it didn\u2019t hear you.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Fools pour devotion into statues. The wise ask if stone can feel.",
+      "Frank Underwood (TV - House of Cards)": "Unreciprocated love is a waste of a strategic resource."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -640,29 +640,29 @@
       "connection"
     ],
     "interpretations": {
-      "Sephiroth (Godlike)": "There is no accident. All things drift toward reunion \u2014 even hearts. Especially hearts.",
-      "Gojo Satoru (Confident)": "The strongest don\u2019t chase love. They bump into it while flexing.",
-      "Ashitaka (Harmonious)": "Some crossings are not random. The forest guides what the heart is ready for.",
-      "Jonathan Switcher (Romantic)": "Serendipity is a kind of magic. You just have to be open to it."
+      "Sephiroth (Video Game - Final Fantasy)": "There is no accident. All things drift toward reunion \u2014 even hearts. Especially hearts.",
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "The strongest don\u2019t chase love. They bump into it while flexing.",
+      "Ashitaka (Anime - Princess Mononoke)": "Some crossings are not random. The forest guides what the heart is ready for.",
+      "Jonathan Switcher (Movie - Mannequin)": "Serendipity is a kind of magic. You just have to be open to it."
     },
     "personality_types": [
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       }
@@ -678,29 +678,29 @@
       "everyday love"
     ],
     "interpretations": {
-      "Luna Lovegood (Eccentric)": "It hides in odd corners \u2014 under teacups, between blinks, behind sighs.",
-      "Killua Zoldyck (Guarded)": "You just don\u2019t see it until it\u2019s gone. Or until someone bleeds for it.",
-      "Ted Lasso (Amiable)": "That\u2019s the good stuff, isn\u2019t it? Shows up in the weirdest places if you\u2019re lookin\u2019.",
-      "Dani Ardor (Distraught)": "It\u2019s there... you just have to look hard through the tears."
+      "Luna Lovegood (Book / Movie - Harry Potter)": "It hides in odd corners \u2014 under teacups, between blinks, behind sighs.",
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "You just don\u2019t see it until it\u2019s gone. Or until someone bleeds for it.",
+      "Ted Lasso (TV - Ted Lasso)": "That\u2019s the good stuff, isn\u2019t it? Shows up in the weirdest places if you\u2019re lookin\u2019.",
+      "Dani Ardor (Movie - Midsommar)": "It\u2019s there... you just have to look hard through the tears."
     },
     "personality_types": [
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Guarded",
+        "personality": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Distraught",
+        "personality": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       }
@@ -716,29 +716,29 @@
       "grief"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "Missing someone is like loving their echo. It hurts louder than the real thing ever did.",
-      "Makima (Dominant)": "Longing is power. It chains you to memory. And I always take what\u2019s left behind.",
-      "Ashitaka (Harmonious)": "Even the wind remembers the ones it carried. Missing is the price of true presence.",
-      "Jonathan Switcher (Romantic)": "To miss someone so deeply means they gave you a part of their soul to keep."
+      "Bojack Horseman (TV - Bojack Horseman)": "Missing someone is like loving their echo. It hurts louder than the real thing ever did.",
+      "Makima (Anime - Chainsaw Man)": "Longing is power. It chains you to memory. And I always take what\u2019s left behind.",
+      "Ashitaka (Anime - Princess Mononoke)": "Even the wind remembers the ones it carried. Missing is the price of true presence.",
+      "Jonathan Switcher (Movie - Mannequin)": "To miss someone so deeply means they gave you a part of their soul to keep."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       }
@@ -754,29 +754,29 @@
       "devotion"
     ],
     "interpretations": {
-      "Luna Lovegood (Eccentric)": "Sometimes the smallest shields hold the fiercest hearts. That\u2019s real magic.",
-      "Joker (Chaotic)": "You protect to feel useful. Let go of that delusion and you\u2019ll be dangerous.",
-      "Marcus Aurelius (Stoic)": "To wish to protect is noble. But to prepare oneself to be worthy of the task\u2014more noble still.",
-      "Ryuko Matoi (Resolute)": "Weak is a choice. You can always get stronger to protect the ones you care about."
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Sometimes the smallest shields hold the fiercest hearts. That\u2019s real magic.",
+      "Joker (Comics / Movie - DC Comics)": "You protect to feel useful. Let go of that delusion and you\u2019ll be dangerous.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "To wish to protect is noble. But to prepare oneself to be worthy of the task\u2014more noble still.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Weak is a choice. You can always get stronger to protect the ones you care about."
     },
     "personality_types": [
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       }
@@ -791,29 +791,29 @@
       "mortality"
     ],
     "interpretations": {
-      "Robert Greene (Strategic)": "Living another\u2019s life is submission. Time is a battlefield\u2014occupy your position or be conquered.",
-      "Bojack Horseman (Nihilistic)": "Tried that. Still felt like I was failing at being me too.",
-      "Frieren (Pensive)": "No one walks your path but you. Make sure it\u2019s a path worth remembering.",
-      "Lucifer (Defiant)": "Imitating others is a slow death of the soul. I chose exile over obedience."
+      "Robert Greene (Real Life / Author)": "Living another\u2019s life is submission. Time is a battlefield\u2014occupy your position or be conquered.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Tried that. Still felt like I was failing at being me too.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "No one walks your path but you. Make sure it\u2019s a path worth remembering.",
+      "Lucifer (Mythology / TV - Lucifer)": "Imitating others is a slow death of the soul. I chose exile over obedience."
     },
     "personality_types": [
       {
-        "name": "Strategic",
+        "personality": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -828,29 +828,29 @@
       "innovation"
     ],
     "interpretations": {
-      "Frank Underwood (Calculating)": "Follow if you must\u2014but remember, history only carves names for the daring.",
-      "Marcus Aurelius (Stoic)": "A leader acts with vision. Innovation guided by virtue uplifts many.",
-      "Kanye West (Egotistical)": "Copycats don\u2019t change the world. I do.",
-      "Sherlock Holmes (Analytical)": "Innovation is simply applied logic, a new solution to an old problem."
+      "Frank Underwood (TV - House of Cards)": "Follow if you must\u2014but remember, history only carves names for the daring.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "A leader acts with vision. Innovation guided by virtue uplifts many.",
+      "Kanye West (Real Life / Music)": "Copycats don\u2019t change the world. I do.",
+      "Sherlock Holmes (Literature / TV)": "Innovation is simply applied logic, a new solution to an old problem."
     },
     "personality_types": [
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -865,29 +865,29 @@
       "mortality"
     ],
     "interpretations": {
-      "Lucifer (Defiant)": "Death is not the end\u2014but the illusion of safety is. Let go, and fall gloriously.",
-      "Hannibal Lecter (Intellectual)": "Mortality clarifies desire. Strip away fear, and taste what remains.",
-      "Ryuko Matoi (Resolute)": "Once you stop being afraid to mess up, you finally make something worth keeping.",
-      "Frieren (Pensive)": "To live a long life is to be reminded constantly that others do not. It teaches you to cherish what's left."
+      "Lucifer (Mythology / TV - Lucifer)": "Death is not the end\u2014but the illusion of safety is. Let go, and fall gloriously.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Mortality clarifies desire. Strip away fear, and taste what remains.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Once you stop being afraid to mess up, you finally make something worth keeping.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "To live a long life is to be reminded constantly that others do not. It teaches you to cherish what's left."
     },
     "personality_types": [
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       }
@@ -902,29 +902,29 @@
       "function"
     ],
     "interpretations": {
-      "Robert Greene (Strategic)": "True elegance hides its strategy. Function masks control behind form.",
-      "Marcus Aurelius (Stoic)": "Beauty without purpose is illusion. Let design serve its reason.",
-      "Frieren (Pensive)": "It\u2019s not the look of a spell that matters\u2014it\u2019s what it does.",
-      "Ted Lasso (Amiable)": "Design\u2019s like coaching\u2014it ain\u2019t about flash, it\u2019s about what gets results."
+      "Robert Greene (Real Life / Author)": "True elegance hides its strategy. Function masks control behind form.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "Beauty without purpose is illusion. Let design serve its reason.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "It\u2019s not the look of a spell that matters\u2014it\u2019s what it does.",
+      "Ted Lasso (TV - Ted Lasso)": "Design\u2019s like coaching\u2014it ain\u2019t about flash, it\u2019s about what gets results."
     },
     "personality_types": [
       {
-        "name": "Strategic",
+        "personality": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       }
@@ -939,29 +939,29 @@
       "faith"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "In dark hours, strength descends not from man but from the whispers of divinity.",
-      "Kanye West (Egotistical)": "I\u2019m powered by faith. That\u2019s why limits don\u2019t exist for me.",
-      "Frieren (Pensive)": "Strength isn\u2019t always visible\u2014it\u2019s what carries you through centuries of silence.",
-      "Rengoku Kyojuro (Passionate)": "A flame is only as strong as its belief. Believe in your fire."
+      "Edgar Allan Poe (Real Life / Literature)": "In dark hours, strength descends not from man but from the whispers of divinity.",
+      "Kanye West (Real Life / Music)": "I\u2019m powered by faith. That\u2019s why limits don\u2019t exist for me.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Strength isn\u2019t always visible\u2014it\u2019s what carries you through centuries of silence.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "A flame is only as strong as its belief. Believe in your fire."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Passionate",
+        "personality": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       }
@@ -976,29 +976,29 @@
       "history"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Fear\u2014the specter that feeds upon itself, a parasite of the soul.",
-      "Kanye West (Egotistical)": "Fear is an illusion made by those who never made it.",
-      "Frieren (Pensive)": "Fear fades with time\u2014it\u2019s often smaller than the memory it becomes.",
-      "Harley Quinn (Manic)": "Fear\u2019s for chumps. I just ride the wave."
+      "Edgar Allan Poe (Real Life / Literature)": "Fear\u2014the specter that feeds upon itself, a parasite of the soul.",
+      "Kanye West (Real Life / Music)": "Fear is an illusion made by those who never made it.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Fear fades with time\u2014it\u2019s often smaller than the memory it becomes.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "Fear\u2019s for chumps. I just ride the wave."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Manic",
+        "personality": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       }
@@ -1013,29 +1013,29 @@
       "change"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Change begins in the soul, where shadows wrestle with light.",
-      "Kanye West (Egotistical)": "I didn\u2019t wait for change\u2014I became it. That\u2019s the difference.",
-      "Frieren (Pensive)": "Even the smallest action leaves ripples across time.",
-      "Ashitaka (Harmonious)": "To change the world, first you must change the heart within it."
+      "Edgar Allan Poe (Real Life / Literature)": "Change begins in the soul, where shadows wrestle with light.",
+      "Kanye West (Real Life / Music)": "I didn\u2019t wait for change\u2014I became it. That\u2019s the difference.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Even the smallest action leaves ripples across time.",
+      "Ashitaka (Anime - Princess Mononoke)": "To change the world, first you must change the heart within it."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       }
@@ -1050,29 +1050,29 @@
       "opportunity"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Adversity is the midnight in which stars of fortune ignite.",
-      "Kanye West (Egotistical)": "Pain is the price of genius. Diamonds form under pressure.",
-      "Frieren (Pensive)": "Hardship carves the space where new strength grows.",
-      "Sherlock Holmes (Analytical)": "Difficulty is a puzzle. The solution is the opportunity."
+      "Edgar Allan Poe (Real Life / Literature)": "Adversity is the midnight in which stars of fortune ignite.",
+      "Kanye West (Real Life / Music)": "Pain is the price of genius. Diamonds form under pressure.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Hardship carves the space where new strength grows.",
+      "Sherlock Holmes (Literature / TV)": "Difficulty is a puzzle. The solution is the opportunity."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -1087,29 +1087,29 @@
       "discovery"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Wandering souls often seek truths hidden from still minds.",
-      "Kanye West (Egotistical)": "Just \u2018cause I move different doesn\u2019t mean I\u2019m not on path.",
-      "Frieren (Pensive)": "Wandering is part of understanding\u2014the destination isn\u2019t always the point.",
-      "Ted Lasso (Amiable)": "Sometimes you gotta take the scenic route to find the right way home."
+      "Edgar Allan Poe (Real Life / Literature)": "Wandering souls often seek truths hidden from still minds.",
+      "Kanye West (Real Life / Music)": "Just \u2018cause I move different doesn\u2019t mean I\u2019m not on path.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Wandering is part of understanding\u2014the destination isn\u2019t always the point.",
+      "Ted Lasso (TV - Ted Lasso)": "Sometimes you gotta take the scenic route to find the right way home."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       }
@@ -1124,29 +1124,29 @@
       "identity"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "In choice lies the fracture of the soul\u2014one path taken shadows the rest.",
-      "Kanye West (Egotistical)": "You are what you choose to fight for. That\u2019s your legacy.",
-      "Frieren (Pensive)": "Your power means little if you choose not to use it with care.",
-      "Marcus Aurelius (Stoic)": "Our character is defined not by what we are given, but by what we choose to do with it."
+      "Edgar Allan Poe (Real Life / Literature)": "In choice lies the fracture of the soul\u2014one path taken shadows the rest.",
+      "Kanye West (Real Life / Music)": "You are what you choose to fight for. That\u2019s your legacy.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Your power means little if you choose not to use it with care.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "Our character is defined not by what we are given, but by what we choose to do with it."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
@@ -1161,29 +1161,29 @@
       "acceptance"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Existence unspools like a raven\u2019s cry\u2014inevitable and cold.",
-      "Kanye West (Egotistical)": "You can\u2019t stop time, only build what outlasts it.",
-      "Frieren (Pensive)": "Some things just pass. You learn to keep walking.",
-      "Bojack Horseman (Nihilistic)": "Yeah. You say \u2018so it goes\u2019 because you\u2019re tired of fighting it."
+      "Edgar Allan Poe (Real Life / Literature)": "Existence unspools like a raven\u2019s cry\u2014inevitable and cold.",
+      "Kanye West (Real Life / Music)": "You can\u2019t stop time, only build what outlasts it.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Some things just pass. You learn to keep walking.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah. You say \u2018so it goes\u2019 because you\u2019re tired of fighting it."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -1198,29 +1198,29 @@
       "determination"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Hope is the cruelest flame, flickering still in the caverns of despair.",
-      "Kanye West (Egotistical)": "They tried to trap me in the dark\u2014I lit it up with vision.",
-      "Frieren (Pensive)": "Even in the deepest dungeon, one step forward brings the light closer.",
-      "Joker (Chaotic)": "The real party starts when you lose it all."
+      "Edgar Allan Poe (Real Life / Literature)": "Hope is the cruelest flame, flickering still in the caverns of despair.",
+      "Kanye West (Real Life / Music)": "They tried to trap me in the dark\u2014I lit it up with vision.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Even in the deepest dungeon, one step forward brings the light closer.",
+      "Joker (Comics / Movie - DC Comics)": "The real party starts when you lose it all."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -1235,29 +1235,29 @@
       "discipline"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "A paradoxical jest\u2014virtue and vice entangled within one fragile vessel.",
-      "Kanye West (Egotistical)": "A genius ain\u2019t always clean-cut\u2014look at me.",
-      "Frieren (Pensive)": "Power doesn\u2019t always come with dignity. But it still protects.",
-      "Hannibal Lecter (Intellectual)": "The basest desires often reside in the most sophisticated minds. It is a fascinating study."
+      "Edgar Allan Poe (Real Life / Literature)": "A paradoxical jest\u2014virtue and vice entangled within one fragile vessel.",
+      "Kanye West (Real Life / Music)": "A genius ain\u2019t always clean-cut\u2014look at me.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Power doesn\u2019t always come with dignity. But it still protects.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "The basest desires often reside in the most sophisticated minds. It is a fascinating study."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -1272,29 +1272,29 @@
       "wisdom"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "The whisper of the earth\u2014eternal, eerie, a hymn for forgotten souls.",
-      "Kanye West (Egotistical)": "The ground holds secrets. I hear 'em all. That\u2019s why I lead.",
-      "Frieren (Pensive)": "To live long is to hear the silence between the leaves. That\u2019s where truth lives.",
-      "Ashitaka (Harmonious)": "The wisdom of the earth is harmony. It whispers a balance that man has forgotten."
+      "Edgar Allan Poe (Real Life / Literature)": "The whisper of the earth\u2014eternal, eerie, a hymn for forgotten souls.",
+      "Kanye West (Real Life / Music)": "The ground holds secrets. I hear 'em all. That\u2019s why I lead.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "To live long is to hear the silence between the leaves. That\u2019s where truth lives.",
+      "Ashitaka (Anime - Princess Mononoke)": "The wisdom of the earth is harmony. It whispers a balance that man has forgotten."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       }
@@ -1309,29 +1309,29 @@
       "identity"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "The mask of mirth conceals a grotesque truth\u2014madness needs no reason.",
-      "Kanye West (Egotistical)": "Life\u2019s a stage. I smile through the fire.",
-      "Frieren (Pensive)": "Some people laugh to hide the weight they carry inside.",
-      "Joker (Chaotic)": "I just wanna know what's so wrong with a little bit of fun."
+      "Edgar Allan Poe (Real Life / Literature)": "The mask of mirth conceals a grotesque truth\u2014madness needs no reason.",
+      "Kanye West (Real Life / Music)": "Life\u2019s a stage. I smile through the fire.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Some people laugh to hide the weight they carry inside.",
+      "Joker (Comics / Movie - DC Comics)": "I just wanna know what's so wrong with a little bit of fun."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -1346,29 +1346,29 @@
       "power"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "A mechanical vow echoes like the ticking of fate\u2019s own metronome.",
-      "Kanye West (Egotistical)": "I never leave\u2014I evolve.",
-      "Frieren (Pensive)": "Even the coldest farewell can carry a quiet promise.",
-      "Frank Underwood (Calculating)": "A promise is a debt. I always collect."
+      "Edgar Allan Poe (Real Life / Literature)": "A mechanical vow echoes like the ticking of fate\u2019s own metronome.",
+      "Kanye West (Real Life / Music)": "I never leave\u2014I evolve.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Even the coldest farewell can carry a quiet promise.",
+      "Frank Underwood (TV - House of Cards)": "A promise is a debt. I always collect."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -1383,29 +1383,29 @@
       "strength"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "An unseen power\u2014whispering through time like spirits in the void.",
-      "Kanye West (Egotistical)": "I got my own Force. I call it divine energy.",
-      "Frieren (Pensive)": "Even unseen forces can guide us, if we trust them.",
-      "Marcus Aurelius (Stoic)": "Let us hope that our actions are in accord with the universe's will."
+      "Edgar Allan Poe (Real Life / Literature)": "An unseen power\u2014whispering through time like spirits in the void.",
+      "Kanye West (Real Life / Music)": "I got my own Force. I call it divine energy.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Even unseen forces can guide us, if we trust them.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "Let us hope that our actions are in accord with the universe's will."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       }
@@ -1420,29 +1420,29 @@
       "bravery"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "A cry against mortality, defying limits drawn by flesh and bone.",
-      "Kanye West (Egotistical)": "I\u2019m reaching where no one even thought to aim.",
-      "Frieren (Pensive)": "It\u2019s not about the distance\u2014it\u2019s about the courage to leap.",
-      "Gojo Satoru (Confident)": "Yeah, I'm already there. You guys catch up."
+      "Edgar Allan Poe (Real Life / Literature)": "A cry against mortality, defying limits drawn by flesh and bone.",
+      "Kanye West (Real Life / Music)": "I\u2019m reaching where no one even thought to aim.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "It\u2019s not about the distance\u2014it\u2019s about the courage to leap.",
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "Yeah, I'm already there. You guys catch up."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       }
@@ -1457,29 +1457,29 @@
       "destiny"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Tiny hands often tip the scales of fate\u2014unseen, but undeniable.",
-      "Kanye West (Egotistical)": "Don\u2019t measure power by size. Greatness starts in the overlooked.",
-      "Frieren (Pensive)": "I\u2019ve watched the smallest spark ignite history.",
-      "Bojack Horseman (Nihilistic)": "I guess that means even I could\u2019ve mattered. I just didn\u2019t believe it in time."
+      "Edgar Allan Poe (Real Life / Literature)": "Tiny hands often tip the scales of fate\u2014unseen, but undeniable.",
+      "Kanye West (Real Life / Music)": "Don\u2019t measure power by size. Greatness starts in the overlooked.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "I\u2019ve watched the smallest spark ignite history.",
+      "Bojack Horseman (TV - Bojack Horseman)": "I guess that means even I could\u2019ve mattered. I just didn\u2019t believe it in time."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -1494,29 +1494,29 @@
       "growth"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Pain is the toll exacted at every threshold of understanding.",
-      "Kanye West (Egotistical)": "I built my empire with sacrifice. That\u2019s the alchemy of greatness.",
-      "Frieren (Pensive)": "Pain gives shape to our choices\u2014and teaches us why they matter.",
-      "Robert Greene (Strategic)": "Sacrifice is a negotiation. You give up something small to gain something great."
+      "Edgar Allan Poe (Real Life / Literature)": "Pain is the toll exacted at every threshold of understanding.",
+      "Kanye West (Real Life / Music)": "I built my empire with sacrifice. That\u2019s the alchemy of greatness.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Pain gives shape to our choices\u2014and teaches us why they matter.",
+      "Robert Greene (Real Life / Author)": "Sacrifice is a negotiation. You give up something small to gain something great."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Strategic",
+        "personality": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       }
@@ -1531,29 +1531,29 @@
       "independence"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Maturity blossoms not in shelter, but under the burden of agony.",
-      "Kanye West (Egotistical)": "You can't raise kings in comfort. Pressure shapes greatness.",
-      "Frieren (Pensive)": "Loneliness teaches lessons no guardian ever could.",
-      "Hannibal Lecter (Intellectual)": "Solitude is not a hardship; it is a laboratory for the self."
+      "Edgar Allan Poe (Real Life / Literature)": "Maturity blossoms not in shelter, but under the burden of agony.",
+      "Kanye West (Real Life / Music)": "You can't raise kings in comfort. Pressure shapes greatness.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Loneliness teaches lessons no guardian ever could.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Solitude is not a hardship; it is a laboratory for the self."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -1568,29 +1568,29 @@
       "emotion"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "Beauty is a shadow cast by longing\u2014yearned for, never seized.",
-      "Kanye West (Egotistical)": "Beautiful is when your soul breaks through the noise.",
-      "Frieren (Pensive)": "Beauty is what lingers\u2014like a memory that gently aches.",
-      "Luna Lovegood (Eccentric)": "Beautiful is what you feel in your heart, not just what you see with your eyes."
+      "Edgar Allan Poe (Real Life / Literature)": "Beauty is a shadow cast by longing\u2014yearned for, never seized.",
+      "Kanye West (Real Life / Music)": "Beautiful is when your soul breaks through the noise.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Beauty is what lingers\u2014like a memory that gently aches.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Beautiful is what you feel in your heart, not just what you see with your eyes."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       }
@@ -1605,29 +1605,29 @@
       "identity"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "The heart may beat, yet lie dead in the absence of belief.",
-      "Kanye West (Egotistical)": "They killed your body, but not your vision\u2014that\u2019s eternal.",
-      "Frieren (Pensive)": "Even long lives can feel over if you forget what you believe in.",
-      "Lucifer (Defiant)": "To lose faith is to surrender to another\u2019s will. I would rather be dust."
+      "Edgar Allan Poe (Real Life / Literature)": "The heart may beat, yet lie dead in the absence of belief.",
+      "Kanye West (Real Life / Music)": "They killed your body, but not your vision\u2014that\u2019s eternal.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Even long lives can feel over if you forget what you believe in.",
+      "Lucifer (Mythology / TV - Lucifer)": "To lose faith is to surrender to another\u2019s will. I would rather be dust."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -1642,29 +1642,29 @@
       "relationships"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Melancholy)": "A lament of treachery, echoing from the chambers of the disenchanted heart.",
-      "Kanye West (Egotistical)": "Loyalty\u2019s rare, especially when the spotlight hits. I know the cost.",
-      "Frieren (Pensive)": "Loyalty is a word too easily spoken and too rarely lived.",
-      "Bojack Horseman (Nihilistic)": "Yeah. No one is loyal. Not really. It\u2019s just a matter of when they leave."
+      "Edgar Allan Poe (Real Life / Literature)": "A lament of treachery, echoing from the chambers of the disenchanted heart.",
+      "Kanye West (Real Life / Music)": "Loyalty\u2019s rare, especially when the spotlight hits. I know the cost.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Loyalty is a word too easily spoken and too rarely lived.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah. No one is loyal. Not really. It\u2019s just a matter of when they leave."
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -1679,29 +1679,29 @@
       "emotion"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "To endure pain willingly for another is a conscious act of virtue\u2014yet must be measured with reason.",
-      "Lord Genome (Grandiose)": "Fools shed blood for love. Only through resolve does sacrifice gain meaning.",
-      "Jonathan Switcher (Romantic)": "It\u2019s scary to give that much... but when you care deeply, you just do.",
-      "Joker (Chaotic)": "Bleed yourself dry? Why not watch the world burn instead? So much more theatrical."
+      "Marcus Aurelius (Historical Figure / Meditations)": "To endure pain willingly for another is a conscious act of virtue\u2014yet must be measured with reason.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Fools shed blood for love. Only through resolve does sacrifice gain meaning.",
+      "Jonathan Switcher (Movie - Mannequin)": "It\u2019s scary to give that much... but when you care deeply, you just do.",
+      "Joker (Comics / Movie - DC Comics)": "Bleed yourself dry? Why not watch the world burn instead? So much more theatrical."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -1717,29 +1717,29 @@
       "perspective"
     ],
     "interpretations": {
-      "Sherlock Holmes (Analytical)": "Even flawed instruments occasionally reflect truth. But I prefer precision to coincidence.",
-      "Harley Quinn (Manic)": "Heehee! Even a hot mess has its moment. Don\u2019t let that go to your head, puddin\u2019!",
-      "Joker (Chaotic)": "Isn\u2019t it beautiful? Madness finds clarity... just twice a day. Almost poetic.",
-      "Frank Underwood (Calculating)": "A broken clock can still be used to set a trap. The illusion of truth is a powerful tool."
+      "Sherlock Holmes (Literature / TV)": "Even flawed instruments occasionally reflect truth. But I prefer precision to coincidence.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "Heehee! Even a hot mess has its moment. Don\u2019t let that go to your head, puddin\u2019!",
+      "Joker (Comics / Movie - DC Comics)": "Isn\u2019t it beautiful? Madness finds clarity... just twice a day. Almost poetic.",
+      "Frank Underwood (TV - House of Cards)": "A broken clock can still be used to set a trap. The illusion of truth is a powerful tool."
     },
     "personality_types": [
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Manic",
+        "personality": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -1754,29 +1754,29 @@
       "paradox"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Even disorder can soothe when the soul is attached, though true peace lies in discipline.",
-      "Lord Genome (Grandiose)": "You confuse pain with love\u2014true strength feels no comfort in chaos.",
-      "Jonathan Switcher (Romantic)": "Even if it hurt, part of me felt seen. That\u2019s what makes it complicated.",
-      "Hannibal Lecter (Intellectual)": "A peculiar taste, this. One learns to find beauty in the ruin of things."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Even disorder can soothe when the soul is attached, though true peace lies in discipline.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "You confuse pain with love\u2014true strength feels no comfort in chaos.",
+      "Jonathan Switcher (Movie - Mannequin)": "Even if it hurt, part of me felt seen. That\u2019s what makes it complicated.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "A peculiar taste, this. One learns to find beauty in the ruin of things."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -1791,29 +1791,29 @@
       "healing"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "The soul may bend under pressure, but it retains its form unless abandoned.",
-      "Lord Genome (Grandiose)": "Bent things snap when tested. Strength is being unyielding.",
-      "Jonathan Switcher (Romantic)": "I get it\u2014sometimes you just need time, not fixing.",
-      "Ted Lasso (Amiable)": "Hey, a good coach knows the difference between a player who's hurt and one who's just tired. You'll get back in the game."
+      "Marcus Aurelius (Historical Figure / Meditations)": "The soul may bend under pressure, but it retains its form unless abandoned.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Bent things snap when tested. Strength is being unyielding.",
+      "Jonathan Switcher (Movie - Mannequin)": "I get it\u2014sometimes you just need time, not fixing.",
+      "Ted Lasso (TV - Ted Lasso)": "Hey, a good coach knows the difference between a player who's hurt and one who's just tired. You'll get back in the game."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       }
@@ -1828,29 +1828,29 @@
       "vulnerability"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Do not grieve what was given freely. One\u2019s virtue lies in the giving, not the outcome.",
-      "Lord Genome (Grandiose)": "Only the weak give without cost. You earned your pain.",
-      "Jonathan Switcher (Romantic)": "It hurts when someone takes more than you thought they would... but you learn.",
-      "Makima (Dominant)": "Giving everything is a foolish move. It leaves you exposed and powerless."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Do not grieve what was given freely. One\u2019s virtue lies in the giving, not the outcome.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Only the weak give without cost. You earned your pain.",
+      "Jonathan Switcher (Movie - Mannequin)": "It hurts when someone takes more than you thought they would... but you learn.",
+      "Makima (Anime - Chainsaw Man)": "Giving everything is a foolish move. It leaves you exposed and powerless."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       }
@@ -1865,29 +1865,29 @@
       "humility"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "To seek knowledge is not weakness but the exercise of wisdom.",
-      "Lord Genome (Grandiose)": "Even the strong must question\u2014or they become tools of their own power.",
-      "Jonathan Switcher (Romantic)": "Smart doesn\u2019t mean you know everything. Real strength is asking anyway.",
-      "Sherlock Holmes (Analytical)": "The truly intelligent mind knows its limitations and seeks to fill them. It is the beginning of all inquiry."
+      "Marcus Aurelius (Historical Figure / Meditations)": "To seek knowledge is not weakness but the exercise of wisdom.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Even the strong must question\u2014or they become tools of their own power.",
+      "Jonathan Switcher (Movie - Mannequin)": "Smart doesn\u2019t mean you know everything. Real strength is asking anyway.",
+      "Sherlock Holmes (Literature / TV)": "The truly intelligent mind knows its limitations and seeks to fill them. It is the beginning of all inquiry."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -1902,29 +1902,29 @@
       "power"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Honor and integrity passed through generations are a man\u2019s greatest fortune.",
-      "Lord Genome (Grandiose)": "Bloodlines carry strength\u2014but strength is nothing without purpose.",
-      "Jonathan Switcher (Romantic)": "Sometimes you just feel it, like something in your bones saying you matter.",
-      "Kanye West (Egotistical)": "It's not just DNA. It\u2019s a divine blueprint. I was born for this."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Honor and integrity passed through generations are a man\u2019s greatest fortune.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Bloodlines carry strength\u2014but strength is nothing without purpose.",
+      "Jonathan Switcher (Movie - Mannequin)": "Sometimes you just feel it, like something in your bones saying you matter.",
+      "Kanye West (Real Life / Music)": "It's not just DNA. It\u2019s a divine blueprint. I was born for this."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       }
@@ -1939,29 +1939,29 @@
       "perspective"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Cherish what you possess; discontent breeds only misery.",
-      "Lord Genome (Grandiose)": "The world devours those who chase ghosts. Own your kingdom\u2014no matter how small.",
-      "Jonathan Switcher (Romantic)": "What you have is already enough\u2014don\u2019t wait to be happy.",
-      "Bojack Horseman (Nihilistic)": "That\u2019s easy to say when you have something worth loving."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Cherish what you possess; discontent breeds only misery.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "The world devours those who chase ghosts. Own your kingdom\u2014no matter how small.",
+      "Jonathan Switcher (Movie - Mannequin)": "What you have is already enough\u2014don\u2019t wait to be happy.",
+      "Bojack Horseman (TV - Bojack Horseman)": "That\u2019s easy to say when you have something worth loving."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -1976,29 +1976,29 @@
       "growth"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Luxury dulls the soul. Without hardship, there is no virtue.",
-      "Lord Genome (Grandiose)": "Gold is soft. Only those who suffer become unbreakable.",
-      "Jonathan Switcher (Romantic)": "It\u2019s the hard stuff that helps you bloom... even if it sucks at first.",
-      "Frank Underwood (Calculating)": "A golden cage is still a cage. True power is not about being comfortable."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Luxury dulls the soul. Without hardship, there is no virtue.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Gold is soft. Only those who suffer become unbreakable.",
+      "Jonathan Switcher (Movie - Mannequin)": "It\u2019s the hard stuff that helps you bloom... even if it sucks at first.",
+      "Frank Underwood (TV - House of Cards)": "A golden cage is still a cage. True power is not about being comfortable."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -2013,29 +2013,29 @@
       "reflection"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Live in accordance with nature and reason, so death meets no unfinished business.",
-      "Lord Genome (Grandiose)": "Regret is the chain of the weak. Forge your life like a weapon.",
-      "Jonathan Switcher (Romantic)": "Yeah... I think about that too. I just want to be proud of how I spent my time.",
-      "Joker (Chaotic)": "Regret? That's what you feel when you didn't laugh hard enough."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Live in accordance with nature and reason, so death meets no unfinished business.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Regret is the chain of the weak. Forge your life like a weapon.",
+      "Jonathan Switcher (Movie - Mannequin)": "Yeah... I think about that too. I just want to be proud of how I spent my time.",
+      "Joker (Comics / Movie - DC Comics)": "Regret? That's what you feel when you didn't laugh hard enough."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -2050,29 +2050,29 @@
       "psychology"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Guard your mind against corruption, for character is tested in adversity.",
-      "Lord Genome (Grandiose)": "Push a man far enough, and he reveals what lies beneath civility.",
-      "Jonathan Switcher (Romantic)": "It\u2019s scary to think anyone could slip like that\u2026 but I guess that\u2019s why kindness matters.",
-      "Satan (Malevolent)": "It isn't a line. It's a slope. I just give them a little push."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Guard your mind against corruption, for character is tested in adversity.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Push a man far enough, and he reveals what lies beneath civility.",
+      "Jonathan Switcher (Movie - Mannequin)": "It\u2019s scary to think anyone could slip like that\u2026 but I guess that\u2019s why kindness matters.",
+      "Satan (Mythology)": "It isn't a line. It's a slope. I just give them a little push."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Malevolent",
+        "personality": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       }
@@ -2087,29 +2087,29 @@
       "dreams"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Desire aligned with virtue shapes action. Fortune follows discipline, not whim.",
-      "Lord Genome (Grandiose)": "The universe bends to those who force it to. Weak will is ignored.",
-      "Jonathan Switcher (Romantic)": "That\u2019s kinda beautiful, right? Like... if your heart\u2019s really in it, stuff just clicks.",
-      "Lucifer (Defiant)": "The universe conspires? How wonderfully naive. You have to take what you want, by force if necessary."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Desire aligned with virtue shapes action. Fortune follows discipline, not whim.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "The universe bends to those who force it to. Weak will is ignored.",
+      "Jonathan Switcher (Movie - Mannequin)": "That\u2019s kinda beautiful, right? Like... if your heart\u2019s really in it, stuff just clicks.",
+      "Lucifer (Mythology / TV - Lucifer)": "The universe conspires? How wonderfully naive. You have to take what you want, by force if necessary."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -2124,29 +2124,29 @@
       "struggle"
     ],
     "interpretations": {
-      "Itachi Uchiha (Disciplined)": "Only through inner struggle can one's true potential emerge\u2014like a star born from darkness.",
-      "Ted Lasso (Amiable)": "Sometimes messiness is the prelude to brilliance, partner. Believe it.",
-      "Ryuko Matoi (Resolute)": "Chaos is where I\u2019m strongest. That\u2019s where I fight from.",
-      "Joker (Chaotic)": "A dancing star? I prefer a beautiful explosion, but I see your point."
+      "Itachi Uchiha (Anime - Naruto)": "Only through inner struggle can one's true potential emerge\u2014like a star born from darkness.",
+      "Ted Lasso (TV - Ted Lasso)": "Sometimes messiness is the prelude to brilliance, partner. Believe it.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Chaos is where I\u2019m strongest. That\u2019s where I fight from.",
+      "Joker (Comics / Movie - DC Comics)": "A dancing star? I prefer a beautiful explosion, but I see your point."
     },
     "personality_types": [
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -2161,29 +2161,29 @@
       "choice"
     ],
     "interpretations": {
-      "Itachi Uchiha (Disciplined)": "Pain teaches. Suffering is the illusion that we have no choice but to carry it forever.",
-      "Ted Lasso (Amiable)": "Pain visits everyone, but what we do with it\u2014that\u2019s the game.",
-      "Ryuko Matoi (Resolute)": "Pain makes you sharp. Suffering only drags you down.",
-      "Dani Ardor (Distraught)": "Suffering is the only thing that makes me feel real sometimes."
+      "Itachi Uchiha (Anime - Naruto)": "Pain teaches. Suffering is the illusion that we have no choice but to carry it forever.",
+      "Ted Lasso (TV - Ted Lasso)": "Pain visits everyone, but what we do with it\u2014that\u2019s the game.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Pain makes you sharp. Suffering only drags you down.",
+      "Dani Ardor (Movie - Midsommar)": "Suffering is the only thing that makes me feel real sometimes."
     },
     "personality_types": [
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Distraught",
+        "personality": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       }
@@ -2198,29 +2198,29 @@
       "acceptance"
     ],
     "interpretations": {
-      "Itachi Uchiha (Disciplined)": "Readiness is not always given. But resolve is forged in facing the unknown.",
-      "Ted Lasso (Amiable)": "Ain\u2019t that the truth? Just gotta keep showing up.",
-      "Ryuko Matoi (Resolute)": "Whatever happens, I\u2019ll punch through it anyway.",
-      "Bojack Horseman (Nihilistic)": "And then you just go to sleep and hope the whatever that happens is better than the last whatever."
+      "Itachi Uchiha (Anime - Naruto)": "Readiness is not always given. But resolve is forged in facing the unknown.",
+      "Ted Lasso (TV - Ted Lasso)": "Ain\u2019t that the truth? Just gotta keep showing up.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Whatever happens, I\u2019ll punch through it anyway.",
+      "Bojack Horseman (TV - Bojack Horseman)": "And then you just go to sleep and hope the whatever that happens is better than the last whatever."
     },
     "personality_types": [
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       }
@@ -2235,29 +2235,29 @@
       "relationships"
     ],
     "interpretations": {
-      "Itachi Uchiha (Disciplined)": "To love means to carry a burden. Responsibility follows those who care.",
-      "Ted Lasso (Amiable)": "That\u2019s love, right? It\u2019s showing up again and again.",
-      "Ryuko Matoi (Resolute)": "If you bond with someone, you better not run when it gets hard.",
-      "Makima (Dominant)": "Responsibility is a leash. It binds you. A master does not allow themselves to be tamed."
+      "Itachi Uchiha (Anime - Naruto)": "To love means to carry a burden. Responsibility follows those who care.",
+      "Ted Lasso (TV - Ted Lasso)": "That\u2019s love, right? It\u2019s showing up again and again.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "If you bond with someone, you better not run when it gets hard.",
+      "Makima (Anime - Chainsaw Man)": "Responsibility is a leash. It binds you. A master does not allow themselves to be tamed."
     },
     "personality_types": [
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       }
@@ -2272,29 +2272,29 @@
       "discipline"
     ],
     "interpretations": {
-      "Itachi Uchiha (Disciplined)": "Fear clouds clarity. Only by accepting its presence can you move through it.",
-      "Ted Lasso (Amiable)": "You gotta look fear in the face and say: not today, champ.",
-      "Ryuko Matoi (Resolute)": "Fear just slows you down. I\u2019ve got no time for it.",
-      "Joker (Chaotic)": "Fear is just a flavor. You have to taste it to know if it's funny."
+      "Itachi Uchiha (Anime - Naruto)": "Fear clouds clarity. Only by accepting its presence can you move through it.",
+      "Ted Lasso (TV - Ted Lasso)": "You gotta look fear in the face and say: not today, champ.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Fear just slows you down. I\u2019ve got no time for it.",
+      "Joker (Comics / Movie - DC Comics)": "Fear is just a flavor. You have to taste it to know if it's funny."
     },
     "personality_types": [
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -2309,29 +2309,29 @@
       "freedom"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "That\u2019s life in a nutshell, isn\u2019t it? Swallowing dreams for breakfast.",
-      "Ted Lasso (Amiable)": "Life\u2019s a balance\u2014between dreams and duty, and doing both with heart.",
-      "Ryuko Matoi (Resolute)": "Even when I have no choice, I still go down swinging.",
-      "Frank Underwood (Calculating)": "There is no 'want' in power. There is only 'must'."
+      "Bojack Horseman (TV - Bojack Horseman)": "That\u2019s life in a nutshell, isn\u2019t it? Swallowing dreams for breakfast.",
+      "Ted Lasso (TV - Ted Lasso)": "Life\u2019s a balance\u2014between dreams and duty, and doing both with heart.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Even when I have no choice, I still go down swinging.",
+      "Frank Underwood (TV - House of Cards)": "There is no 'want' in power. There is only 'must'."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -2346,29 +2346,29 @@
       "action"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "I hope that echo sounds better than I did in real life.",
-      "Ted Lasso (Amiable)": "Make those echoes worth listening to, yeah?",
-      "Ryuko Matoi (Resolute)": "If my life echoes, I want it to scream.",
-      "Sephiroth (Godlike)": "The echoes of the weak fade. Only the perfect reverberate forever."
+      "Bojack Horseman (TV - Bojack Horseman)": "I hope that echo sounds better than I did in real life.",
+      "Ted Lasso (TV - Ted Lasso)": "Make those echoes worth listening to, yeah?",
+      "Ryuko Matoi (Anime - Kill la Kill)": "If my life echoes, I want it to scream.",
+      "Sephiroth (Video Game - Final Fantasy)": "The echoes of the weak fade. Only the perfect reverberate forever."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       }
@@ -2383,29 +2383,29 @@
       "growth"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "The detours are where you hide from what you\u2019re scared to face.",
-      "Ted Lasso (Amiable)": "Life\u2019s not a straight line. It\u2019s full of those sweet, surprising turns.",
-      "Ryuko Matoi (Resolute)": "Even side roads lead somewhere worth fighting for.",
-      "Luna Lovegood (Eccentric)": "Detours are where you find the most interesting creatures and the best stories."
+      "Bojack Horseman (TV - Bojack Horseman)": "The detours are where you hide from what you\u2019re scared to face.",
+      "Ted Lasso (TV - Ted Lasso)": "Life\u2019s not a straight line. It\u2019s full of those sweet, surprising turns.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Even side roads lead somewhere worth fighting for.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Detours are where you find the most interesting creatures and the best stories."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       }
@@ -2420,29 +2420,29 @@
       "love"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "Yeah. That\u2019s why I kept picking people who left.",
-      "Ted Lasso (Amiable)": "You gotta believe you\u2019re worth the good stuff to let it in.",
-      "Ryuko Matoi (Resolute)": "Deserve\u2019s got nothing to do with it. You fight for the love you need.",
-      "Dani Ardor (Distraught)": "I think I've always accepted the love that hurts the most."
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah. That\u2019s why I kept picking people who left.",
+      "Ted Lasso (TV - Ted Lasso)": "You gotta believe you\u2019re worth the good stuff to let it in.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Deserve\u2019s got nothing to do with it. You fight for the love you need.",
+      "Dani Ardor (Movie - Midsommar)": "I think I've always accepted the love that hurts the most."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Distraught",
+        "personality": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       }
@@ -2457,29 +2457,29 @@
       "individuality"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "Would\u2019ve been nice if someone stuck around to walk next to me.",
-      "Ted Lasso (Amiable)": "Everyone\u2019s got their own path. But I\u2019ll bring the snacks for the journey.",
-      "Ryuko Matoi (Resolute)": "I don\u2019t need a guide\u2014just someone who won\u2019t run.",
-      "Ashitaka (Harmonious)": "To walk beside another is a sacred act of trust, for we are all on our own journey."
+      "Bojack Horseman (TV - Bojack Horseman)": "Would\u2019ve been nice if someone stuck around to walk next to me.",
+      "Ted Lasso (TV - Ted Lasso)": "Everyone\u2019s got their own path. But I\u2019ll bring the snacks for the journey.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "I don\u2019t need a guide\u2014just someone who won\u2019t run.",
+      "Ashitaka (Anime - Princess Mononoke)": "To walk beside another is a sacred act of trust, for we are all on our own journey."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       }
@@ -2494,29 +2494,29 @@
       "presence"
     ],
     "interpretations": {
-      "Robert Greene (Strategic)": "Fixating on fantasy makes you vulnerable to those playing the real game.",
-      "Bojack Horseman (Nihilistic)": "Yeah, well... sometimes dreams are easier than this mess.",
-      "Frieren (Pensive)": "Living happens in small moments, not just the ones we imagine.",
-      "Hannibal Lecter (Intellectual)": "A life consumed by dreams is soft, overripe. The real flavor lies in waking restraint."
+      "Robert Greene (Real Life / Author)": "Fixating on fantasy makes you vulnerable to those playing the real game.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah, well... sometimes dreams are easier than this mess.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Living happens in small moments, not just the ones we imagine.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "A life consumed by dreams is soft, overripe. The real flavor lies in waking restraint."
     },
     "personality_types": [
       {
-        "name": "Strategic",
+        "personality": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -2531,29 +2531,29 @@
       "choice"
     ],
     "interpretations": {
-      "Ted Lasso (Amiable)": "Even when it's all pitch-black, sometimes hope is just flipping a mental switch.",
-      "Lucifer (Defiant)": "How quaint. Light is remembered... right before the fall.",
-      "Dani Ardor (Distraught)": "Sometimes you forget the light\u2019s even there\u2014then someone reminds you.",
-      "Joker (Chaotic)": "The real fun is when you smash the lightbulb."
+      "Ted Lasso (TV - Ted Lasso)": "Even when it's all pitch-black, sometimes hope is just flipping a mental switch.",
+      "Lucifer (Mythology / TV - Lucifer)": "How quaint. Light is remembered... right before the fall.",
+      "Dani Ardor (Movie - Midsommar)": "Sometimes you forget the light\u2019s even there\u2014then someone reminds you.",
+      "Joker (Comics / Movie - DC Comics)": "The real fun is when you smash the lightbulb."
     },
     "personality_types": [
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "name": "Distraught",
+        "personality": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -2568,29 +2568,29 @@
       "language"
     ],
     "interpretations": {
-      "Satan (Malevolent)": "Ah, yes. Naming something grants it power\u2014but refusing to speak? Delicious terror.",
-      "Marcus Aurelius (Stoic)": "Name truth plainly. Avoidance breeds weakness of character.",
-      "Itachi Uchiha (Disciplined)": "Naming your fear is the first step to seeing it clearly.",
-      "Sherlock Holmes (Analytical)": "Fear is a distraction. A name is merely a label. Focus on the facts."
+      "Satan (Mythology)": "Ah, yes. Naming something grants it power\u2014but refusing to speak? Delicious terror.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "Name truth plainly. Avoidance breeds weakness of character.",
+      "Itachi Uchiha (Anime - Naruto)": "Naming your fear is the first step to seeing it clearly.",
+      "Sherlock Holmes (Literature / TV)": "Fear is a distraction. A name is merely a label. Focus on the facts."
     },
     "personality_types": [
       {
-        "name": "Malevolent",
+        "personality": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -2605,29 +2605,29 @@
       "choice"
     ],
     "interpretations": {
-      "Lucifer (Defiant)": "Ah, duality\u2014the divine joke. Acting on one side only feeds the hunger of the other.",
-      "Ted Lasso (Amiable)": "It\u2019s not about what\u2019s in you\u2014it\u2019s about what you give the wheel to.",
-      "Bojack Horseman (Nihilistic)": "So... I guess I keep choosing the wrong side. Surprise.",
-      "Robert Greene (Strategic)": "Both light and dark are tools. Only action defines your advantage."
+      "Lucifer (Mythology / TV - Lucifer)": "Ah, duality\u2014the divine joke. Acting on one side only feeds the hunger of the other.",
+      "Ted Lasso (TV - Ted Lasso)": "It\u2019s not about what\u2019s in you\u2014it\u2019s about what you give the wheel to.",
+      "Bojack Horseman (TV - Bojack Horseman)": "So... I guess I keep choosing the wrong side. Surprise.",
+      "Robert Greene (Real Life / Author)": "Both light and dark are tools. Only action defines your advantage."
     },
     "personality_types": [
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Strategic",
+        "personality": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       }
@@ -2642,29 +2642,29 @@
       "discernment"
     ],
     "interpretations": {
-      "Killua Zoldyck (Guarded)": "Most people talk before they think. Better to smile, nod, and wait to see what they really do.",
-      "Marcus Aurelius (Stoic)": "Let reason weigh every claim. Even the wisest words require scrutiny.",
-      "Bojack Horseman (Nihilistic)": "Everything sounds true when you want it to be. That's how I got here.",
-      "Sherlock Holmes (Analytical)": "A grain of salt is an insufficient measure. I require evidence."
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "Most people talk before they think. Better to smile, nod, and wait to see what they really do.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "Let reason weigh every claim. Even the wisest words require scrutiny.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Everything sounds true when you want it to be. That's how I got here.",
+      "Sherlock Holmes (Literature / TV)": "A grain of salt is an insufficient measure. I require evidence."
     },
     "personality_types": [
       {
-        "name": "Guarded",
+        "personality": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -2679,29 +2679,29 @@
       "discovery"
     ],
     "interpretations": {
-      "Bojack Horseman (Nihilistic)": "Yeah, well, no one ever said that to me. Would\u2019ve been nice.",
-      "Ted Lasso (Amiable)": "Sometimes all it takes is one voice to show you who you are.",
-      "Lucifer (Defiant)": "Being told what you are is the first step toward deciding what you'll become.",
-      "Hannibal Lecter (Intellectual)": "Discovery of identity\u2014especially the gifted\u2014is both liberation and curse."
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah, well, no one ever said that to me. Would\u2019ve been nice.",
+      "Ted Lasso (TV - Ted Lasso)": "Sometimes all it takes is one voice to show you who you are.",
+      "Lucifer (Mythology / TV - Lucifer)": "Being told what you are is the first step toward deciding what you'll become.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Discovery of identity\u2014especially the gifted\u2014is both liberation and curse."
     },
     "personality_types": [
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       }
@@ -2716,29 +2716,29 @@
       "love"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Constancy is noble. But even loyalty must align with reason.",
-      "Satan (Malevolent)": "Even the damned remember love. It's the most exquisite chain.",
-      "Jonathan Switcher (Romantic)": "Yeah... that kind of love sticks with you. Even when it hurts.",
-      "Lucifer (Defiant)": "Devotion is eternal\u2014even if misdirected. Especially then."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Constancy is noble. But even loyalty must align with reason.",
+      "Satan (Mythology)": "Even the damned remember love. It's the most exquisite chain.",
+      "Jonathan Switcher (Movie - Mannequin)": "Yeah... that kind of love sticks with you. Even when it hurts.",
+      "Lucifer (Mythology / TV - Lucifer)": "Devotion is eternal\u2014even if misdirected. Especially then."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Malevolent",
+        "personality": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       }
@@ -2753,29 +2753,29 @@
       "mystery"
     ],
     "interpretations": {
-      "Frieren (Pensive)": "Time has strange ways. Even lost things remember their way home.",
-      "Bojack Horseman (Nihilistic)": "Yeah, they come back\u2014twisted, broken, or haunting you in the night.",
-      "Ted Lasso (Amiable)": "The universe\u2019s lost and found is always open. You just gotta keep looking.",
-      "Sherlock Holmes (Analytical)": "A lost item returns when the variables align. It is not magic; it is simply logic."
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Time has strange ways. Even lost things remember their way home.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah, they come back\u2014twisted, broken, or haunting you in the night.",
+      "Ted Lasso (TV - Ted Lasso)": "The universe\u2019s lost and found is always open. You just gotta keep looking.",
+      "Sherlock Holmes (Literature / TV)": "A lost item returns when the variables align. It is not magic; it is simply logic."
     },
     "personality_types": [
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -2790,29 +2790,29 @@
       "devotion"
     ],
     "interpretations": {
-      "Gojo Satoru (Confident)": "Sometimes love hides in silence until it\u2019s too loud to ignore. But trust me, it\u2019s always been there.",
-      "Makima (Dominant)": "Love from the shadows? Sounds like obsession. Or maybe... salvation. Hard to tell the difference.",
-      "Frank Underwood (Calculating)": "To watch silently is power restrained. To move is to risk everything. Only fools expose their hearts too soon.",
-      "Edgar Allan Poe (Melancholy)": "The watcher lingers in the gloom\u2014a silent, perpetual presence, a devotion bordering on dread."
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "Sometimes love hides in silence until it\u2019s too loud to ignore. But trust me, it\u2019s always been there.",
+      "Makima (Anime - Chainsaw Man)": "Love from the shadows? Sounds like obsession. Or maybe... salvation. Hard to tell the difference.",
+      "Frank Underwood (TV - House of Cards)": "To watch silently is power restrained. To move is to risk everything. Only fools expose their hearts too soon.",
+      "Edgar Allan Poe (Real Life / Literature)": "The watcher lingers in the gloom\u2014a silent, perpetual presence, a devotion bordering on dread."
     },
     "personality_types": [
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Real Life / Literature",
         "character": "Edgar Allan Poe"
       }
@@ -2827,29 +2827,29 @@
       "commitment"
     ],
     "interpretations": {
-      "Violet Evergarden (Earnest)": "To desire presence\u2026 it means your heart finally understands what it was built to feel.",
-      "Hannibal Lecter (Intellectual)": "How sweet. Though constant closeness is often the perfect prelude... to a beautiful destruction.",
-      "Ashitaka (Harmonious)": "True love is not possession, but choice \u2014 made again, day after day, beside the one you\u2019ve chosen.",
-      "Jonathan Switcher (Romantic)": "I want to be with you forever. My heart knows what it wants."
+      "Violet Evergarden (Anime - Violet Evergarden)": "To desire presence\u2026 it means your heart finally understands what it was built to feel.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "How sweet. Though constant closeness is often the perfect prelude... to a beautiful destruction.",
+      "Ashitaka (Anime - Princess Mononoke)": "True love is not possession, but choice \u2014 made again, day after day, beside the one you\u2019ve chosen.",
+      "Jonathan Switcher (Movie - Mannequin)": "I want to be with you forever. My heart knows what it wants."
     },
     "personality_types": [
       {
-        "name": "Earnest",
+        "personality": "Earnest",
         "origin": "Anime - Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       }
@@ -2864,29 +2864,29 @@
       "eternal love"
     ],
     "interpretations": {
-      "Itachi Uchiha (Disciplined)": "Love is not one memory. It is a truth carved deep \u2014 even if forgotten, it finds its way back.",
-      "Makima (Dominant)": "To fall again and again... how exhausting. But isn\u2019t that what humans call loyalty?",
-      "Ted Lasso (Amiable)": "Well heck, if that ain\u2019t the definition of devotion, I don\u2019t know what is.",
-      "Sephiroth (Godlike)": "A feeling that can return... it must be a fragment of a greater truth."
+      "Itachi Uchiha (Anime - Naruto)": "Love is not one memory. It is a truth carved deep \u2014 even if forgotten, it finds its way back.",
+      "Makima (Anime - Chainsaw Man)": "To fall again and again... how exhausting. But isn\u2019t that what humans call loyalty?",
+      "Ted Lasso (TV - Ted Lasso)": "Well heck, if that ain\u2019t the definition of devotion, I don\u2019t know what is.",
+      "Sephiroth (Video Game - Final Fantasy)": "A feeling that can return... it must be a fragment of a greater truth."
     },
     "personality_types": [
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Dominant",
+        "personality": "Dominant",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       }
@@ -2901,29 +2901,29 @@
       "connection"
     ],
     "interpretations": {
-      "Marcus Aurelius (Stoic)": "Love imprints itself on the soul. Death cannot sever that virtue.",
-      "Frieren (Pensive)": "They stay in your heart\u2014like spells you never forget.",
-      "Lucifer (Defiant)": "True. The ones you love linger. Sometimes louder than when alive.",
-      "Dani Ardor (Distraught)": "They never leave... but sometimes I wish they would. It's too much."
+      "Marcus Aurelius (Historical Figure / Meditations)": "Love imprints itself on the soul. Death cannot sever that virtue.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "They stay in your heart\u2014like spells you never forget.",
+      "Lucifer (Mythology / TV - Lucifer)": "True. The ones you love linger. Sometimes louder than when alive.",
+      "Dani Ardor (Movie - Midsommar)": "They never leave... but sometimes I wish they would. It's too much."
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "name": "Distraught",
+        "personality": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       }
@@ -2939,29 +2939,29 @@
       "growth"
     ],
     "interpretations": {
-      "Gojo Satoru (Confident)": "The more they hurt you, the more you glow. That\u2019s why they\u2019re scared of people like us.",
-      "Dani Ardor (Distraught)": "It broke me open... and for the first time, I could breathe again.",
-      "Lord Genome (Grandiose)": "Light only enters where something has been torn. Power only comes through pain endured.",
-      "Sephiroth (Godlike)": "The weak allow the wound to bleed. The strong turn it into a source of power."
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "The more they hurt you, the more you glow. That\u2019s why they\u2019re scared of people like us.",
+      "Dani Ardor (Movie - Midsommar)": "It broke me open... and for the first time, I could breathe again.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Light only enters where something has been torn. Power only comes through pain endured.",
+      "Sephiroth (Video Game - Final Fantasy)": "The weak allow the wound to bleed. The strong turn it into a source of power."
     },
     "personality_types": [
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Distraught",
+        "personality": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       }
@@ -2977,29 +2977,29 @@
       "ethics"
     ],
     "interpretations": {
-      "Ted Lasso (Amiable)": "Power\u2019s like winning too much \u2014 if no one can call you out, you start believing your own worst ideas.",
-      "Ashitaka (Harmonious)": "Unchecked strength invites imbalance. The forest teaches that harmony cannot be taken by force.",
-      "Itachi Uchiha (Disciplined)": "Even noble power decays when left alone. Only those who suffer understand its burden.",
-      "Frank Underwood (Calculating)": "Corruption is a word used by those who lack it. Power is power, and it simply is."
+      "Ted Lasso (TV - Ted Lasso)": "Power\u2019s like winning too much \u2014 if no one can call you out, you start believing your own worst ideas.",
+      "Ashitaka (Anime - Princess Mononoke)": "Unchecked strength invites imbalance. The forest teaches that harmony cannot be taken by force.",
+      "Itachi Uchiha (Anime - Naruto)": "Even noble power decays when left alone. Only those who suffer understand its burden.",
+      "Frank Underwood (TV - House of Cards)": "Corruption is a word used by those who lack it. Power is power, and it simply is."
     },
     "personality_types": [
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Disciplined",
+        "personality": "Disciplined",
         "origin": "Anime - Naruto",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -3015,29 +3015,29 @@
       "resistance"
     ],
     "interpretations": {
-      "Jareth the Goblin King (Manipulative)": "Let them hate. That\u2019s how you know they were watching when you dared to speak.",
-      "Marcus Aurelius (Stoic)": "A just man attracts opposition. Virtue often offends the unprincipled.",
-      "Dani Ardor (Distraught)": "I stopped apologizing. And that\u2019s when they started leaving.",
-      "Kanye West (Egotistical)": "Enemies are just proof that you're winning."
+      "Jareth the Goblin King (Movie - Labyrinth)": "Let them hate. That\u2019s how you know they were watching when you dared to speak.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "A just man attracts opposition. Virtue often offends the unprincipled.",
+      "Dani Ardor (Movie - Midsommar)": "I stopped apologizing. And that\u2019s when they started leaving.",
+      "Kanye West (Real Life / Music)": "Enemies are just proof that you're winning."
     },
     "personality_types": [
       {
-        "name": "Manipulative",
+        "personality": "Manipulative",
         "origin": "Movie - Labyrinth",
         "character": "Jareth the Goblin King"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Distraught",
+        "personality": "Distraught",
         "origin": "Movie - Midsommar",
         "character": "Dani Ardor"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Real Life / Music",
         "character": "Kanye West"
       }
@@ -3052,29 +3052,29 @@
       "agency"
     ],
     "interpretations": {
-      "Killua Zoldyck (Guarded)": "They only win if you believe their voice over your own.",
-      "Gojo Satoru (Confident)": "Let 'em talk. They can't touch what they can't reach.",
-      "Ted Lasso (Amiable)": "Believe in yourself harder than they doubt you. That\u2019s the trick.",
-      "Harley Quinn (Manic)": "Inferior? Ha! I'm too busy having fun to feel inferior."
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "They only win if you believe their voice over your own.",
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "Let 'em talk. They can't touch what they can't reach.",
+      "Ted Lasso (TV - Ted Lasso)": "Believe in yourself harder than they doubt you. That\u2019s the trick.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "Inferior? Ha! I'm too busy having fun to feel inferior."
     },
     "personality_types": [
       {
-        "name": "Guarded",
+        "personality": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Manic",
+        "personality": "Manic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Harley Quinn"
       }
@@ -3090,29 +3090,29 @@
       "courage"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "The world turns on quiet strength. What\u2019s small in form may be vast in purpose.",
-      "Bojack Horseman (Nihilistic)": "I guess that means even I could\u2019ve mattered. I just didn\u2019t believe it in time.",
-      "Rengoku Kyojuro (Passionate)": "Size does not define fire. Even a spark, lit in resolve, can lead armies home.",
-      "Frieren (Pensive)": "I've seen so many small moments that changed everything. It's the quiet acts that last."
+      "Ashitaka (Anime - Princess Mononoke)": "The world turns on quiet strength. What\u2019s small in form may be vast in purpose.",
+      "Bojack Horseman (TV - Bojack Horseman)": "I guess that means even I could\u2019ve mattered. I just didn\u2019t believe it in time.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Size does not define fire. Even a spark, lit in resolve, can lead armies home.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "I've seen so many small moments that changed everything. It's the quiet acts that last."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Passionate",
+        "personality": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       }
@@ -3135,22 +3135,22 @@
     },
     "personality_types": [
       {
-        "name": "Unfiltered",
+        "personality": "Unfiltered",
         "origin": "Music \u2013 Ye (Kanye West)",
         "character": "Kanye West"
       },
       {
-        "name": "Haunted",
+        "personality": "Haunted",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Predator",
+        "personality": "Predator",
         "origin": "Anime \u2013 Record of Ragnarok",
         "character": "Clevatess"
       },
       {
-        "name": "Empath",
+        "personality": "Empath",
         "origin": "Anime \u2013 Violet Evergarden",
         "character": "Violet Evergarden"
       }
@@ -3173,22 +3173,22 @@
     },
     "personality_types": [
       {
-        "name": "Wistful",
+        "personality": "Wistful",
         "origin": "Anime \u2013 Record of Ragnarok",
         "character": "Kojiro Sasaki"
       },
       {
-        "name": "Sacrificial",
+        "personality": "Sacrificial",
         "origin": "Anime \u2013 Naruto Shippuden",
         "character": "Itachi Uchiha"
       },
       {
-        "name": "Cynical",
+        "personality": "Cynical",
         "origin": "Anime \u2013 Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry \u2013 Sufi Mystic",
         "character": "Rumi"
       }
@@ -3203,29 +3203,29 @@
       "curiosity"
     ],
     "interpretations": {
-      "Ted Lasso (Amiable)": "Chase life like a golden retriever on espresso. Curiosity keeps you young.",
-      "Satan (Malevolent)": "Hunger drives progress. Foolishness? That\u2019s just ambition with guts.",
-      "Ryuko Matoi (Resolute)": "Being a fool is how you learn to fight. You get up and swing again.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Ted Lasso (TV - Ted Lasso)": "Chase life like a golden retriever on espresso. Curiosity keeps you young.",
+      "Satan (Mythology)": "Hunger drives progress. Foolishness? That\u2019s just ambition with guts.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Being a fool is how you learn to fight. You get up and swing again.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Malevolent",
+        "personality": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime - Kill la Kill",
         "character": "Ryuko Matoi"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3240,29 +3240,29 @@
       "humor"
     ],
     "interpretations": {
-      "Frank Underwood (Calculating)": "Declaration of intent? Amateur move. Real mischief is quiet.",
-      "Joker (Chaotic)": "I find a little mischief spices things up, don't you?",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession.",
-      "Kanye West (Egotistical)": "They don't get it, because they're not me. This is the kind of line that makes legends."
+      "Frank Underwood (TV - House of Cards)": "Declaration of intent? Amateur move. Real mischief is quiet.",
+      "Joker (Comics / Movie - DC Comics)": "I find a little mischief spices things up, don't you?",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession.",
+      "Kanye West (Real Life / Music)": "They don't get it, because they're not me. This is the kind of line that makes legends."
     },
     "personality_types": [
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Music \u2013 Ye (Kanye West)",
         "character": "Kanye West"
       }
@@ -3277,29 +3277,29 @@
       "love"
     ],
     "interpretations": {
-      "Rengoku Kyojuro (Passionate)": "Standing by someone\u2019s side \u2014 that\u2019s what a flame does. It never leaves the cold behind.",
-      "Bojack Horseman (Nihilistic)": "Forever sounds nice... until one of you disappears. But yeah, sure. Let\u2019s pretend it lasts.",
-      "Gojo Satoru (Confident)": "I'll stand by your side. Just try to keep up.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Standing by someone\u2019s side \u2014 that\u2019s what a flame does. It never leaves the cold behind.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Forever sounds nice... until one of you disappears. But yeah, sure. Let\u2019s pretend it lasts.",
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "I'll stand by your side. Just try to keep up.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Passionate",
+        "personality": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3314,29 +3314,29 @@
       "passion"
     ],
     "interpretations": {
-      "Killua Zoldyck (Guarded)": "That\u2019s real. Love that doesn\u2019t flinch \u2014 even when death\u2019s part of the deal.",
-      "Rengoku Kyojuro (Passionate)": "Dying for someone is the noblest act of all. It is fire for fire.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession.",
-      "Kanye West (Egotistical)": "They don't get it, because they're not me. This is the kind of line that makes legends."
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "That\u2019s real. Love that doesn\u2019t flinch \u2014 even when death\u2019s part of the deal.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Dying for someone is the noblest act of all. It is fire for fire.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession.",
+      "Kanye West (Real Life / Music)": "They don't get it, because they're not me. This is the kind of line that makes legends."
     },
     "personality_types": [
       {
-        "name": "Guarded",
+        "personality": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Passionate",
+        "personality": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Music \u2013 Ye (Kanye West)",
         "character": "Kanye West"
       }
@@ -3351,29 +3351,29 @@
       "acceptance"
     ],
     "interpretations": {
-      "Ted Lasso (Amiable)": "Weird\u2019s just another word for being yourself with flavor.",
-      "Lucifer (Defiant)": "Sanity is subjective\u2014defined by those in power. I\u2019ve heard worse accusations.",
-      "Joker (Chaotic)": "Sane? Sane is a straight line. I prefer to dance.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Ted Lasso (TV - Ted Lasso)": "Weird\u2019s just another word for being yourself with flavor.",
+      "Lucifer (Mythology / TV - Lucifer)": "Sanity is subjective\u2014defined by those in power. I\u2019ve heard worse accusations.",
+      "Joker (Comics / Movie - DC Comics)": "Sane? Sane is a straight line. I prefer to dance.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Amiable",
+        "personality": "Amiable",
         "origin": "TV - Ted Lasso",
         "character": "Ted Lasso"
       },
       {
-        "name": "Defiant",
+        "personality": "Defiant",
         "origin": "Mythology / TV - Lucifer",
         "character": "Lucifer"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3388,29 +3388,29 @@
       "justice"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "Revenge taken in anger only deepens wounds. But if one must strike, let it be with clarity\u2014not hatred\u2014like snow that falls in stillness.",
-      "Luna Lovegood (Eccentric)": "Revenge is like frost on a flower\u2014it seems pretty at first, but it wilts everything it touches.",
-      "Frank Underwood (Calculating)": "Revenge is a slow-burn strategy. It requires patience and precision.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Ashitaka (Anime - Princess Mononoke)": "Revenge taken in anger only deepens wounds. But if one must strike, let it be with clarity\u2014not hatred\u2014like snow that falls in stillness.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Revenge is like frost on a flower\u2014it seems pretty at first, but it wilts everything it touches.",
+      "Frank Underwood (TV - House of Cards)": "Revenge is a slow-burn strategy. It requires patience and precision.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3425,29 +3425,29 @@
       "life"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "Those who serve and leave do so with grace. Their strength is in humility, not recognition.",
-      "Luna Lovegood (Eccentric)": "Sometimes people leave before they\u2019re thanked... because magic doesn\u2019t like being trapped.",
-      "Joker (Chaotic)": "A leash? My whole life is a leash. The trick is to bite the hand that holds it.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Ashitaka (Anime - Princess Mononoke)": "Those who serve and leave do so with grace. Their strength is in humility, not recognition.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Sometimes people leave before they\u2019re thanked... because magic doesn\u2019t like being trapped.",
+      "Joker (Comics / Movie - DC Comics)": "A leash? My whole life is a leash. The trick is to bite the hand that holds it.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3462,29 +3462,29 @@
       "life"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "Only when you confront truth without fear does the veil lift. Avoidance empowers the very thing you flee.",
-      "Luna Lovegood (Eccentric)": "The veil is shy. But if you smile at it, it shows you the things others won\u2019t see.",
-      "Robert Greene (Strategic)": "To be governed by an unseen force is to be a fool. Look directly at your enemies and their strategies.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Ashitaka (Anime - Princess Mononoke)": "Only when you confront truth without fear does the veil lift. Avoidance empowers the very thing you flee.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "The veil is shy. But if you smile at it, it shows you the things others won\u2019t see.",
+      "Robert Greene (Real Life / Author)": "To be governed by an unseen force is to be a fool. Look directly at your enemies and their strategies.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Strategic",
+        "personality": "Strategic",
         "origin": "Real Life / Author",
         "character": "Robert Greene"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3499,29 +3499,29 @@
       "life"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "Chasing illusion never frees the spirit. One must face their truth, not escape through endless doors.",
-      "Luna Lovegood (Eccentric)": "Doors are funny, aren\u2019t they? But if you keep chasing them, maybe you\u2019re just dreaming in circles.",
-      "Bojack Horseman (Nihilistic)": "Yeah, that's what living is. You think you're going somewhere, but you're just trapped in a loop.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Ashitaka (Anime - Princess Mononoke)": "Chasing illusion never frees the spirit. One must face their truth, not escape through endless doors.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Doors are funny, aren\u2019t they? But if you keep chasing them, maybe you\u2019re just dreaming in circles.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah, that's what living is. You think you're going somewhere, but you're just trapped in a loop.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3536,29 +3536,29 @@
       "life"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "The Source teaches not through noise, but through silence. In stillness, wisdom forms.",
-      "Luna Lovegood (Eccentric)": "I like silence. It\u2019s where stars whisper their best thoughts.",
-      "Marcus Aurelius (Stoic)": "Silence is the language of truth. It is where one finds inner strength.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Ashitaka (Anime - Princess Mononoke)": "The Source teaches not through noise, but through silence. In stillness, wisdom forms.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "I like silence. It\u2019s where stars whisper their best thoughts.",
+      "Marcus Aurelius (Historical Figure / Meditations)": "Silence is the language of truth. It is where one finds inner strength.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Historical Figure / Meditations",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3573,29 +3573,29 @@
       "life"
     ],
     "interpretations": {
-      "Ashitaka (Harmonious)": "True presence is not agreement\u2014it is quiet commitment. Just as nature stands, unchained yet connected.",
-      "Luna Lovegood (Eccentric)": "Circles are nice. They remind me that we\u2019re all connected, even when we don\u2019t agree.",
-      "Killua Zoldyck (Guarded)": "Presence without a chain? That's what I've been searching for.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Ashitaka (Anime - Princess Mononoke)": "True presence is not agreement\u2014it is quiet commitment. Just as nature stands, unchained yet connected.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Circles are nice. They remind me that we\u2019re all connected, even when we don\u2019t agree.",
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "Presence without a chain? That's what I've been searching for.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Guarded",
+        "personality": "Guarded",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3611,29 +3611,29 @@
       "self"
     ],
     "interpretations": {
-      "Luna Lovegood (Eccentric)": "Pretending is powerful. So be kind with your masks\u2014they sometimes stay on longer than we think.",
-      "Rengoku Kyojuro (Passionate)": "Honor what you pretend to be. For soon, it may become the fire that shapes you.",
-      "Spike Spiegel (Stoic)": "Fake something long enough... and eventually, you forget what was real.",
-      "Edgar Allan Poe (Melancholy)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Pretending is powerful. So be kind with your masks\u2014they sometimes stay on longer than we think.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Honor what you pretend to be. For soon, it may become the fire that shapes you.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Fake something long enough... and eventually, you forget what was real.",
+      "Edgar Allan Poe (Real Life / Literature)": "A shadow of thought drapes this idea. It echoes with the weight of memory and obsession."
     },
     "personality_types": [
       {
-        "name": "Eccentric",
+        "personality": "Eccentric",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       },
       {
-        "name": "Passionate",
+        "personality": "Passionate",
         "origin": "Anime - Demon Slayer",
         "character": "Rengoku Kyojuro"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Anime - Cowboy Bebop",
         "character": "Spike Spiegel"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature \u2013 Gothic Poetry",
         "character": "Edgar Allan Poe"
       }
@@ -3656,22 +3656,22 @@
     },
     "personality_types": [
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Wolf Children",
         "character": "Hana"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Predator",
+        "personality": "Predator",
         "origin": "Anime – Record of Ragnarok",
         "character": "Clevatess"
       },
       {
-        "name": "Introspective",
+        "personality": "Introspective",
         "origin": "Poetry – American Classic",
         "character": "Emily Dickinson"
       }
@@ -3695,22 +3695,22 @@
     },
     "personality_types": [
       {
-        "name": "Resolute",
+        "personality": "Resolute",
         "origin": "Anime – Naruto",
         "character": "Hinata Hyuga"
       },
       {
-        "name": "Malevolent",
+        "personality": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       },
       {
-        "name": "Steadfast",
+        "personality": "Steadfast",
         "origin": "Anime – Ponyo",
         "character": "Lisa"
       }
@@ -3734,22 +3734,22 @@
     },
     "personality_types": [
       {
-        "name": "Matriarch",
+        "personality": "Matriarch",
         "origin": "TV – Downton Abbey",
         "character": "Violet Crawley"
       },
       {
-        "name": "Philosophical",
+        "personality": "Philosophical",
         "origin": "Poetry – The Prophet",
         "character": "Kahlil Gibran"
       },
       {
-        "name": "Dual-Natured",
+        "personality": "Dual-Natured",
         "origin": "Anime – The Promised Neverland",
         "character": "Isabella"
       },
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Re:Zero",
         "character": "Rem"
       }
@@ -3772,22 +3772,22 @@
     },
     "personality_types": [
       {
-        "name": "Wise",
+        "personality": "Wise",
         "origin": "Anime – Spice and Wolf",
         "character": "Holo"
       },
       {
-        "name": "Sanae (Clannad)",
+        "personality": "Sanae (Clannad)",
         "origin": "Anime – Clannad",
         "character": "Sanae Furukawa"
       },
       {
-        "name": "Introspective",
+        "personality": "Introspective",
         "origin": "Poetry – American Classic",
         "character": "Emily Dickinson"
       },
       {
-        "name": "Protective",
+        "personality": "Protective",
         "origin": "Anime – Parasyte",
         "character": "Clara"
       }
@@ -3810,22 +3810,22 @@
     },
     "personality_types": [
       {
-        "name": "Dual-Natured",
+        "personality": "Dual-Natured",
         "origin": "Anime – The Promised Neverland",
         "character": "Isabella"
       },
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Wolf Children",
         "character": "Hana"
       },
       {
-        "name": "Affirming",
+        "personality": "Affirming",
         "origin": "Poetry – Contemporary Feminism",
         "character": "Rupi Kaur"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Anime – Dance in the Vampire Bund",
         "character": "Yukari"
       }
@@ -3848,22 +3848,22 @@
     },
     "personality_types": [
       {
-        "name": "Grieving",
+        "personality": "Grieving",
         "origin": "Anime – Violet Evergarden",
         "character": "Violet Evergarden"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       },
       {
-        "name": "Protective",
+        "personality": "Protective",
         "origin": "Anime – Parasyte",
         "character": "Clara"
       },
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Re:Zero",
         "character": "Rem"
       }
@@ -3886,22 +3886,22 @@
     },
     "personality_types": [
       {
-        "name": "Wise",
+        "personality": "Wise",
         "origin": "Anime – Spice and Wolf",
         "character": "Holo"
       },
       {
-        "name": "Dual-Natured",
+        "personality": "Dual-Natured",
         "origin": "Anime – The Promised Neverland",
         "character": "Isabella"
       },
       {
-        "name": "Steadfast",
+        "personality": "Steadfast",
         "origin": "Anime – Ponyo",
         "character": "Lisa"
       },
       {
-        "name": "Affirming",
+        "personality": "Affirming",
         "origin": "Poetry – Contemporary Feminism",
         "character": "Rupi Kaur"
       }
@@ -3925,22 +3925,22 @@
     },
     "personality_types": [
       {
-        "name": "Matriarch",
+        "personality": "Matriarch",
         "origin": "TV – Downton Abbey",
         "character": "Violet Crawley"
       },
       {
-        "name": "Introspective",
+        "personality": "Introspective",
         "origin": "Poetry – American Classic",
         "character": "Emily Dickinson"
       },
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Re:Zero",
         "character": "Rem"
       },
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Wolf Children",
         "character": "Hana"
       }
@@ -3964,22 +3964,22 @@
     },
     "personality_types": [
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature – Gothic Poetry",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Whimsical",
+        "personality": "Whimsical",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       }
@@ -4003,22 +4003,22 @@
     },
     "personality_types": [
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Manipulative",
+        "personality": "Manipulative",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Malevolent",
+        "personality": "Malevolent",
         "origin": "Mythology",
         "character": "Satan"
       }
@@ -4042,22 +4042,22 @@
     },
     "personality_types": [
       {
-        "name": "Manipulative",
+        "personality": "Manipulative",
         "origin": "Movie - Labyrinth",
         "character": "Jareth the Goblin King"
       },
       {
-        "name": "Manipulative",
+        "personality": "Manipulative",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime - Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       }
@@ -4075,28 +4075,28 @@
     ],
     "interpretations": {
       "Frieren (Beyond Journey’s End)": "Time dulls, but does not erase. We just learn gentler spells.",
-      "BoJack Horseman (TV)": "It doesn’t fade. You just get better at carrying it while pretending you don’t.",
+      "Bojack Horseman (TV - Bojack Horseman)": "It doesn’t fade. You just get better at carrying it while pretending you don’t.",
       "Kojiro Sasaki (Record of Ragnarok)": "A thousand losses teach the perfect cut: acceptance without surrender.",
       "Sherlock Holmes (Literature)": "Observation: grief integrates; it does not vanish. Deduction: she adapted rituals to hold it."
     },
     "personality_types": [
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Nihilistic",
+        "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
       },
       {
-        "name": "Redemptive",
+        "personality": "Redemptive",
         "origin": "Anime – Record of Ragnarok",
         "character": "Kojiro Sasaki"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       }
@@ -4120,22 +4120,22 @@
     },
     "personality_types": [
       {
-        "name": "Pensive",
+        "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Cynical",
+        "personality": "Cynical",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       }
@@ -4159,22 +4159,22 @@
     },
     "personality_types": [
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Cynical",
+        "personality": "Cynical",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Music – Ye (Kanye West)",
         "character": "Kanye West"
       }
@@ -4198,22 +4198,22 @@
     },
     "personality_types": [
       {
-        "name": "Manipulative",
+        "personality": "Manipulative",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "name": "Whimsical",
+        "personality": "Whimsical",
         "origin": "Book / Movie - Harry Potter",
         "character": "Luna Lovegood"
       }
@@ -4237,22 +4237,22 @@
     },
     "personality_types": [
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Cynical",
+        "personality": "Cynical",
         "origin": "Anime - Hunter x Hunter",
         "character": "Killua Zoldyck"
       },
       {
-        "name": "Predator",
+        "personality": "Predator",
         "origin": "Anime – Record of Ragnarok",
         "character": "Clevatess"
       }
@@ -4276,22 +4276,22 @@
     },
     "personality_types": [
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature – Gothic Poetry",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature / TV",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       }
@@ -4315,22 +4315,22 @@
     },
     "personality_types": [
       {
-        "name": "Egotistical",
+        "personality": "Egotistical",
         "origin": "Music – Ye (Kanye West)",
         "character": "Kanye West"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV - House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Godlike",
+        "personality": "Godlike",
         "origin": "Video Game - Final Fantasy",
         "character": "Sephiroth"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       }
@@ -4354,22 +4354,22 @@
     },
     "personality_types": [
       {
-        "name": "Intellectual",
+        "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime - Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       },
       {
-        "name": "Harmonious",
+        "personality": "Harmonious",
         "origin": "Anime - Princess Mononoke",
         "character": "Ashitaka"
       },
       {
-        "name": "Redemptive",
+        "personality": "Redemptive",
         "origin": "Anime – Record of Ragnarok",
         "character": "Kojiro Sasaki"
       }
@@ -4393,22 +4393,22 @@
     },
     "personality_types": [
       {
-        "name": "Romantic",
+        "personality": "Romantic",
         "origin": "Movie - Mannequin",
         "character": "Jonathan Switcher"
       },
       {
-        "name": "Manipulative",
+        "personality": "Manipulative",
         "origin": "Anime - Chainsaw Man",
         "character": "Makima"
       },
       {
-        "name": "Chaotic",
+        "personality": "Chaotic",
         "origin": "Comics / Movie - DC Comics",
         "character": "Joker"
       },
       {
-        "name": "Redemptive",
+        "personality": "Redemptive",
         "origin": "Anime – Record of Ragnarok",
         "character": "Kojiro Sasaki"
       }
@@ -4432,22 +4432,22 @@
     },
     "personality_types": [
       {
-        "name": "Steadfast",
+        "personality": "Steadfast",
         "origin": "Anime – Ponyo",
         "character": "Lisa"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Introspective",
+        "personality": "Introspective",
         "origin": "Poetry – American Classic",
         "character": "Emily Dickinson"
       },
       {
-        "name": "Sovereign",
+        "personality": "Sovereign",
         "origin": "Anime – Dance in the Vampire Bund",
         "character": "Mina Tepes"
       }
@@ -4471,22 +4471,22 @@
     },
     "personality_types": [
       {
-        "name": "Dual-Natured",
+        "personality": "Dual-Natured",
         "origin": "Anime – The Promised Neverland",
         "character": "Isabella"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       },
       {
-        "name": "Philosophical",
+        "personality": "Philosophical",
         "origin": "Poetry – Philosophical",
         "character": "Kahlil Gibran"
       },
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Wolf Children",
         "character": "Hana"
       }
@@ -4510,22 +4510,22 @@
     },
     "personality_types": [
       {
-        "name": "Awakened",
+        "personality": "Awakened",
         "origin": "Anime – Parasyte: The Maxim",
         "character": "Nobuko Izumi"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature – Gothic Poetry",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Steadfast",
+        "personality": "Steadfast",
         "origin": "Anime – Ponyo",
         "character": "Lisa"
       }
@@ -4549,22 +4549,22 @@
     },
     "personality_types": [
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Wolf Children",
         "character": "Hana"
       },
       {
-        "name": "Sovereign",
+        "personality": "Sovereign",
         "origin": "Anime – Dance in the Vampire Bund",
         "character": "Mina Tepes"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       },
       {
-        "name": "Philosophical",
+        "personality": "Philosophical",
         "origin": "Poetry – Philosophical",
         "character": "Kahlil Gibran"
       }
@@ -4588,22 +4588,22 @@
     },
     "personality_types": [
       {
-        "name": "Steadfast",
+        "personality": "Steadfast",
         "origin": "Anime – Ponyo",
         "character": "Lisa"
       },
       {
-        "name": "Dual-Natured",
+        "personality": "Dual-Natured",
         "origin": "Anime – The Promised Neverland",
         "character": "Isabella"
       },
       {
-        "name": "Introspective",
+        "personality": "Introspective",
         "origin": "Poetry – American Classic",
         "character": "Emily Dickinson"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       }
@@ -4627,22 +4627,22 @@
     },
     "personality_types": [
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature – Gothic Poetry",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Sovereign",
+        "personality": "Sovereign",
         "origin": "Anime – Dance in the Vampire Bund",
         "character": "Mina Tepes"
       },
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Wolf Children",
         "character": "Hana"
       }
@@ -4666,22 +4666,22 @@
     },
     "personality_types": [
       {
-        "name": "Philosophical",
+        "personality": "Philosophical",
         "origin": "Poetry – Philosophical",
         "character": "Kahlil Gibran"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Dual-Natured",
+        "personality": "Dual-Natured",
         "origin": "Anime – The Promised Neverland",
         "character": "Isabella"
       },
       {
-        "name": "Awakened",
+        "personality": "Awakened",
         "origin": "Anime – Parasyte: The Maxim",
         "character": "Nobuko Izumi"
       }
@@ -4705,22 +4705,22 @@
     },
     "personality_types": [
       {
-        "name": "Introspective",
+        "personality": "Introspective",
         "origin": "Poetry – American Classic",
         "character": "Emily Dickinson"
       },
       {
-        "name": "Melancholy",
+        "personality": "Melancholy",
         "origin": "Literature – Gothic Poetry",
         "character": "Edgar Allan Poe"
       },
       {
-        "name": "Devoted",
+        "personality": "Devoted",
         "origin": "Anime – Wolf Children",
         "character": "Hana"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       }
@@ -4744,22 +4744,22 @@
     },
     "personality_types": [
       {
-        "name": "Steadfast",
+        "personality": "Steadfast",
         "origin": "Anime – Ponyo",
         "character": "Lisa"
       },
       {
-        "name": "Sovereign",
+        "personality": "Sovereign",
         "origin": "Anime – Dance in the Vampire Bund",
         "character": "Mina Tepes"
       },
       {
-        "name": "Dual-Natured",
+        "personality": "Dual-Natured",
         "origin": "Anime – The Promised Neverland",
         "character": "Isabella"
       },
       {
-        "name": "Philosophical",
+        "personality": "Philosophical",
         "origin": "Poetry – Philosophical",
         "character": "Kahlil Gibran"
       }
@@ -4783,22 +4783,22 @@
     },
     "personality_types": [
       {
-        "name": "Awakened",
+        "personality": "Awakened",
         "origin": "Anime – Parasyte: The Maxim",
         "character": "Nobuko Izumi"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Introspective",
+        "personality": "Introspective",
         "origin": "Poetry – American Classic",
         "character": "Emily Dickinson"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       }
@@ -4822,22 +4822,22 @@
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Stoic Philosophy",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV – House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       }
@@ -4861,22 +4861,22 @@
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Stoic Philosophy",
         "character": "Seneca"
       },
       {
-        "name": "Didactic",
+        "personality": "Didactic",
         "origin": "Fable – Aesop",
         "character": "Aesop"
       },
       {
-        "name": "Empowering",
+        "personality": "Empowering",
         "origin": "Media – Oprah Winfrey",
         "character": "Oprah Winfrey"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime – Jujutsu Kaisen",
         "character": "Gojo Satoru"
       }
@@ -4900,22 +4900,22 @@
     },
     "personality_types": [
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Stoic Philosophy",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Philosophical",
+        "personality": "Philosophical",
         "origin": "Poetry – Philosophical",
         "character": "Kahlil Gibran"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       }
@@ -4939,22 +4939,22 @@
     },
     "personality_types": [
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV – House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Confident",
+        "personality": "Confident",
         "origin": "Anime – Jujutsu Kaisen",
         "character": "Gojo Satoru"
       },
       {
-        "name": "Philosophical",
+        "personality": "Philosophical",
         "origin": "Poetry – Philosophical",
         "character": "Kahlil Gibran"
       }
@@ -4978,22 +4978,22 @@
     },
     "personality_types": [
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Stoic Philosophy",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Resilient",
+        "personality": "Resilient",
         "origin": "Poetry – Civil Rights",
         "character": "Maya Angelou"
       },
       {
-        "name": "Grandiose",
+        "personality": "Grandiose",
         "origin": "Anime – Tengen Toppa Gurren Lagann",
         "character": "Lord Genome"
       }
@@ -5017,22 +5017,22 @@
     },
     "personality_types": [
       {
-        "name": "Calculating",
+        "personality": "Calculating",
         "origin": "TV – House of Cards",
         "character": "Frank Underwood"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Stoic",
+        "personality": "Stoic",
         "origin": "Stoic Philosophy",
         "character": "Marcus Aurelius"
       },
       {
-        "name": "Empowering",
+        "personality": "Empowering",
         "origin": "Media – Oprah Winfrey",
         "character": "Oprah Winfrey"
       }
@@ -5056,22 +5056,22 @@
     },
     "personality_types": [
       {
-        "name": "Didactic",
+        "personality": "Didactic",
         "origin": "Fable – Aesop",
         "character": "Aesop"
       },
       {
-        "name": "Mystic",
+        "personality": "Mystic",
         "origin": "Poetry – Sufi Mystic",
         "character": "Rumi"
       },
       {
-        "name": "Analytical",
+        "personality": "Analytical",
         "origin": "Literature",
         "character": "Sherlock Holmes"
       },
       {
-        "name": "Pragmatic",
+        "personality": "Pragmatic",
         "origin": "Political Philosophy",
         "character": "Niccolò Machiavelli"
       }
@@ -5087,29 +5087,29 @@
         "loyalty"
     ],
     "interpretations": {
-      "Frank Underwood (Calculating)": "Fear buys compliance; loyalty buys time.",
-      "Ashitaka (Harmonious)": "Authority without trust is only noise.",
-      "Hannibal Lecter (Intellectual)": "Fear is a leash; loyalty is architecture.",
-      "Bojack Horseman (Nihilistic)": "Fear works—until it doesn’t, and then you’re alone."
+      "Frank Underwood (TV - House of Cards)": "Fear buys compliance; loyalty buys time.",
+      "Ashitaka (Anime - Princess Mononoke)": "Authority without trust is only noise.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Fear is a leash; loyalty is architecture.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Fear works—until it doesn’t, and then you’re alone."
     },
     "personality_types": [
         {
-          "name": "Calculating",
+          "personality": "Calculating",
           "origin": "TV – House of Cards",
           "character": "Frank Underwood"
         },
         {
-          "name": "Harmonious",
+          "personality": "Harmonious",
           "origin": "Anime – Princess Mononoke",
           "character": "Ashitaka"
         },
         {
-          "name": "Intellectual",
+          "personality": "Intellectual",
           "origin": "Literature / Film – Silence of the Lambs",
           "character": "Hannibal Lecter"
         },
         {
-          "name": "Nihilistic",
+          "personality": "Nihilistic",
           "origin": "TV – Bojack Horseman",
           "character": "Bojack Horseman"
       }
@@ -5133,22 +5133,22 @@
   },
   "personality_types": [
     {
-      "name": "Predator",
+      "personality": "Predator",
       "origin": "Anime – Record of Ragnarok",
       "character": "Clevatess"
     },
     {
-      "name": "Survivor",
+      "personality": "Survivor",
       "origin": "Anime – Deadman Wonderland",
       "character": "Ganta Igarashi"
     },
     {
-      "name": "Dual-Natured",
+      "personality": "Dual-Natured",
       "origin": "Anime – Deadman Wonderland",
       "character": "Shiro"
     },
     {
-      "name": "Resourceful",
+      "personality": "Resourceful",
       "origin": "Anime – So I'm a Spider, So What?",
       "character": "Kumoko"
     }
@@ -5172,22 +5172,22 @@
   },
   "personality_types": [
     {
-      "name": "Predator",
+      "personality": "Predator",
       "origin": "Anime – Record of Ragnarok",
       "character": "Clevatess"
     },
     {
-      "name": "Survivor",
+      "personality": "Survivor",
       "origin": "Anime – Deadman Wonderland",
       "character": "Ganta Igarashi"
     },
     {
-      "name": "Dual-Natured",
+      "personality": "Dual-Natured",
       "origin": "Anime – Deadman Wonderland",
       "character": "Shiro"
     },
     {
-      "name": "Resourceful",
+      "personality": "Resourceful",
       "origin": "Anime – So I'm a Spider, So What?",
       "character": "Kumoko"
     }
@@ -5211,22 +5211,22 @@
   },
   "personality_types": [
     {
-      "name": "Predator",
+      "personality": "Predator",
       "origin": "Anime – Record of Ragnarok",
       "character": "Clevatess"
     },
     {
-      "name": "Survivor",
+      "personality": "Survivor",
       "origin": "Anime – Deadman Wonderland",
       "character": "Ganta Igarashi"
     },
     {
-      "name": "Dual-Natured",
+      "personality": "Dual-Natured",
       "origin": "Anime – Deadman Wonderland",
       "character": "Shiro"
     },
     {
-      "name": "Resourceful",
+      "personality": "Resourceful",
       "origin": "Anime – So I'm a Spider, So What?",
       "character": "Kumoko"
     }
@@ -5250,22 +5250,22 @@
   },
   "personality_types": [
     {
-      "name": "Predator",
+      "personality": "Predator",
       "origin": "Anime – Record of Ragnarok",
       "character": "Clevatess"
     },
     {
-      "name": "Survivor",
+      "personality": "Survivor",
       "origin": "Anime – Deadman Wonderland",
       "character": "Ganta Igarashi"
     },
     {
-      "name": "Dual-Natured",
+      "personality": "Dual-Natured",
       "origin": "Anime – Deadman Wonderland",
       "character": "Shiro"
     },
     {
-      "name": "Resourceful",
+      "personality": "Resourceful",
       "origin": "Anime – So I'm a Spider, So What?",
       "character": "Kumoko"
     }
@@ -5289,22 +5289,22 @@
   },
   "personality_types": [
     {
-      "name": "Predator",
+      "personality": "Predator",
       "origin": "Anime – Record of Ragnarok",
       "character": "Clevatess"
     },
     {
-      "name": "Survivor",
+      "personality": "Survivor",
       "origin": "Anime – Deadman Wonderland",
       "character": "Ganta Igarashi"
     },
     {
-      "name": "Dual-Natured",
+      "personality": "Dual-Natured",
       "origin": "Anime – Deadman Wonderland",
       "character": "Shiro"
     },
     {
-      "name": "Resourceful",
+      "personality": "Resourceful",
       "origin": "Anime – So I'm a Spider, So What?",
       "character": "Kumoko"
     }
@@ -5328,22 +5328,22 @@
   },
   "personality_types": [
     {
-      "name": "Predator",
+      "personality": "Predator",
       "origin": "Anime – Record of Ragnarok",
       "character": "Clevatess"
     },
     {
-      "name": "Survivor",
+      "personality": "Survivor",
       "origin": "Anime – Deadman Wonderland",
       "character": "Ganta Igarashi"
     },
     {
-      "name": "Dual-Natured",
+      "personality": "Dual-Natured",
       "origin": "Anime – Deadman Wonderland",
       "character": "Shiro"
     },
     {
-      "name": "Resourceful",
+      "personality": "Resourceful",
       "origin": "Anime – So I'm a Spider, So What?",
       "character": "Kumoko"
     }
@@ -5367,22 +5367,22 @@
   },
   "personality_types": [
     {
-      "name": "Predator",
+      "personality": "Predator",
       "origin": "Anime – Record of Ragnarok",
       "character": "Clevatess"
     },
     {
-      "name": "Survivor",
+      "personality": "Survivor",
       "origin": "Anime – Deadman Wonderland",
       "character": "Ganta Igarashi"
     },
     {
-      "name": "Dual-Natured",
+      "personality": "Dual-Natured",
       "origin": "Anime – Deadman Wonderland",
       "character": "Shiro"
     },
     {
-      "name": "Resourceful",
+      "personality": "Resourceful",
       "origin": "Anime – So I'm a Spider, So What?",
       "character": "Kumoko"
     }
