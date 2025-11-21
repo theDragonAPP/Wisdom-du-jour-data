@@ -8,10 +8,10 @@
       "hope"
     ],
     "interpretations": {
-      "Edgar Allan Poe": "A divine will plots paths beyond mortal knowing\u2014a comforting dread in the darkness of fate.",
-      "Kanye West": "God had a blueprint for me. That\u2019s why I\u2019m untouchable.",
-      "Frieren": "Even without knowing the full plan, it\u2019s enough to walk forward.",
-      "Marcus Aurelius": "The plans of a higher power are beyond our understanding, yet our duty remains to act with virtue and accept what comes."
+      "Edgar Allan Poe (Real Life / Literature)": "A divine will plots paths beyond mortal knowing\u2014a comforting dread in the darkness of fate.",
+      "Kanye West (Real Life / Music)": "God had a blueprint for me. That\u2019s why I\u2019m untouchable.",
+      "Frieren (Beyond Journey’s End)": "Even without knowing the full plan, it\u2019s enough to walk forward.",
+      "Marcus Aurelius (Stoicism)": "The plans of a higher power are beyond our understanding, yet our duty remains to act with virtue and accept what comes."
     },
     "personality_types": [
       {
@@ -47,7 +47,7 @@
       "Ted Lasso (Ted Lasso)": "Grief\u2019s just the echo of love, partner. That means you loved someone real good.",
       "Makima (Chainsaw Man)": "Grief is just emotional debt. Let it stack too high and it owns you.",
       "Hannibal Lecter (Silence of the Lambs)": "A curious flavor, grief\u2014rich in regret, laced with memory. A meal best paired with solitude.",
-      "Marcus Aurelius": "Grief is not weakness. It is the soul recognizing impermanence and adjusting its expectations."
+      "Marcus Aurelius (Stoicism)": "Grief is not weakness. It is the soul recognizing impermanence and adjusting its expectations."
     },
     "personality_types": [
       {
@@ -3128,10 +3128,10 @@
       "misunderstanding"
     ],
     "interpretations": {
-      "Kanye West": "That\u2019s \u2018cause people don\u2019t upgrade their perception software. I moved on, but they\u2019re stuck on version 1.0.",
-      "Edgar Allan Poe": "A tragedy lies in the gaze of others\u2014how they chain your evolution to a grave already filled with memory.",
+      "Kanye West (Real Life / Music)": "That\u2019s \u2018cause people don\u2019t upgrade their perception software. I moved on, but they\u2019re stuck on version 1.0.",
+      "Edgar Allan Poe (Real Life / Literature)": "A tragedy lies in the gaze of others\u2014how they chain your evolution to a grave already filled with memory.",
       "Clevatess (Record of Ragnarok)": "Let them cling to the past. It makes crushing their expectations that much sweeter.",
-      "Violet Evergarden": "Even if they cannot see the change in me, I will continue walking toward the person I\u2019ve become."
+      "Violet Evergarden (Anime - Violet Evergarden)": "Even if they cannot see the change in me, I will continue walking toward the person I\u2019ve become."
     },
     "personality_types": [
       {
@@ -3841,7 +3841,7 @@
       "love"
     ],
     "interpretations": {
-      "Violet Evergarden (Melancholy)": "I now understand that some letters never arrive. And still we write them.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "I now understand that some letters never arrive. And still we write them.",
       "Maya Angelou (Poetry)": "Grief bends us low, but it is proof we stood for something sacred.",
       "Clara (Parasyte)": "Even parasites feel something when they lose a host. You learn grief by living.",
       "Rem (Re:Zero)": "When love has no destination, it lingers like a ghost."
@@ -5387,5 +5387,161 @@
       "character": "Kumoko"
     }
   ]
-}
+  },
+  {
+    "text": "I move with calm strength; no rush, no fear—just focus and forward motion.",
+    "source": "Inspired by Ishmael — Daniel Quinn",
+    "category": "Affirmation",
+    "tags": [
+      "focus",
+      "energy",
+      "anger",
+      "affirmation"
+    ],
+    "interpretations": {
+      "Ishmael (Novel - Ishmael)": "Patience is power; the world bends to those who act without panic.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "Steady steps can carry even a heavy heart into the light.",
+      "Marcus Aurelius (Stoic)": "Control opinion; the rest is noise. Aim the mind, steady the will.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "Keep your cool, puddin’. Calm doesn’t mean weak—it’s the wind-up before the swing."
+    },
+    "personality_types": [
+      {
+        "personality": "Observer",
+        "origin": "Novel – Ishmael",
+        "character": "Ishmael"
+      },
+      {
+        "personality": "Empath",
+        "origin": "Anime – Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "History – Rome",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Unpredictable",
+        "origin": "Comics / Movie – DC Comics",
+        "character": "Harley Quinn"
+      }
+    ]
+  },
+  {
+    "text": "I choose disciplined action today so my future wealth can move without fear.",
+    "source": "Inspired by The Intelligent Investor",
+    "category": "Affirmation",
+    "tags": [
+      "investing",
+      "business",
+      "focus",
+      "crypto"
+    ],
+    "interpretations": {
+      "Benjamin Graham (Book - The Intelligent Investor)": "Principles beat prediction. Steady habits are the real alpha.",
+      "Warren Buffett (Investing)": "Let patience compound. Boredom pays better than excitement.",
+      "Satoshi Nakamoto (Crypto)": "Security, scarcity, and conviction—hold what you understand.",
+      "Sonny (Film - A Bronx Tale)": "The working man is the tough guy. Stay sharp, don’t chase the fast hustle."
+    },
+    "personality_types": [
+      {
+        "personality": "Analyst",
+        "origin": "Book – The Intelligent Investor",
+        "character": "Benjamin Graham"
+      },
+      {
+        "personality": "Patient",
+        "origin": "Investing – Berkshire Hathaway",
+        "character": "Warren Buffett"
+      },
+      {
+        "personality": "Builder",
+        "origin": "Crypto – Bitcoin",
+        "character": "Satoshi Nakamoto"
+      },
+      {
+        "personality": "Streetwise",
+        "origin": "Film – A Bronx Tale",
+        "character": "Sonny"
+      }
+    ]
+  },
+  {
+    "text": "My anger is fuel I refine into focus; I fight hard and finish with grace.",
+    "source": "Inspired by G.I. Jane",
+    "category": "Affirmation",
+    "tags": [
+      "anger",
+      "energy",
+      "focus",
+      "strength"
+    ],
+    "interpretations": {
+      "O'Neil (Film - G.I. Jane)": "Pain sharpens; discipline directs. Stay in the fight.",
+      "Ripley (Film - Alien)": "Turn fear into forward motion. Keep moving or be moved.",
+      "Saitama (Anime - One Punch Man)": "Power’s useless without purpose. Pick a purpose and punch through.",
+      "Dale Carnegie (Author)": "Anger is fire—put it to work forging character, not burning bridges."
+    },
+    "personality_types": [
+      {
+        "personality": "Resilient",
+        "origin": "Film – G.I. Jane",
+        "character": "O'Neil"
+      },
+      {
+        "personality": "Survivor",
+        "origin": "Film – Alien",
+        "character": "Ellen Ripley"
+      },
+      {
+        "personality": "Deadpan Strong",
+        "origin": "Anime – One Punch Man",
+        "character": "Saitama"
+      },
+      {
+        "personality": "Coach",
+        "origin": "Author – Dale Carnegie",
+        "character": "Dale Carnegie"
+      }
+    ]
+  },
+  {
+    "text": "I speak boldly, listen fully, and let curiosity turn strangers into allies.",
+    "source": "Inspired by Dale Carnegie",
+    "category": "Affirmation",
+    "tags": [
+      "business",
+      "energy",
+      "focus",
+      "connection"
+    ],
+    "interpretations": {
+      "Dale Carnegie (Author)": "Interest is the real influence. Ask, listen, lift.",
+      "Atticus Finch (Literature - To Kill a Mockingbird)": "Respect first; persuasion follows.",
+      "Coach Beard (TV - Ted Lasso)": "Be curious, not judgmental—especially in business.",
+      "Hermione Granger (Books - Harry Potter)": "Questions unlock doors faster than force."
+    },
+    "personality_types": [
+      {
+        "personality": "Connector",
+        "origin": "Author – Dale Carnegie",
+        "character": "Dale Carnegie"
+      },
+      {
+        "personality": "Principled",
+        "origin": "Literature – To Kill a Mockingbird",
+        "character": "Atticus Finch"
+      },
+      {
+        "personality": "Strategist",
+        "origin": "TV – Ted Lasso",
+        "character": "Coach Beard"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Books – Harry Potter",
+        "character": "Hermione Granger"
+      }
+    ]
+  }
 ]
