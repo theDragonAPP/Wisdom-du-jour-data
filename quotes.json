@@ -38,37 +38,39 @@
   },
   {
     "text": "Grief is just love with nowhere to go.",
-    "source": "Jiraiya – Naruto Shippuden",
+    "source": "Jamie Anderson – Popular internet quote",
     "category": "Grief",
     "tags": [
-      "grief"
+      "loss",
+      "grief",
+      "love"
     ],
     "interpretations": {
-      "Ted Lasso (Ted Lasso)": "Grief’s just the echo of love, partner. That means you loved someone real good.",
-      "Makima (Chainsaw Man)": "Grief is just emotional debt. Let it stack too high and it owns you.",
-      "Hannibal Lecter (Silence of the Lambs)": "A curious flavor, grief—rich in regret, laced with memory. A meal best paired with solitude.",
-      "Marcus Aurelius (Stoicism)": "Grief is not weakness. It is the soul recognizing impermanence and adjusting its expectations."
+      "Violet Evergarden (Anime - Violet Evergarden)": "I now understand that some letters never arrive. And still we write them.",
+      "Maya Angelou (Poetry)": "Grief bends us low, but it is proof we stood for something sacred.",
+      "Clara (Parasyte)": "Even parasites feel something when they lose a host. You learn grief by living.",
+      "Rem (Re:Zero)": "When love has no destination, it lingers like a ghost."
     },
     "personality_types": [
       {
-        "personality": "Amiable",
-        "origin": "TV - Ted Lasso",
-        "character": "Ted Lasso"
+        "personality": "Grieving",
+        "origin": "Anime – Violet Evergarden",
+        "character": "Violet Evergarden"
       },
       {
-        "personality": "Dominant",
-        "origin": "Anime - Chainsaw Man",
-        "character": "Makima"
+        "personality": "Resilient",
+        "origin": "Poetry – Civil Rights",
+        "character": "Maya Angelou"
       },
       {
-        "personality": "Intellectual",
-        "origin": "Literature / Movie - Silence of the Lambs",
-        "character": "Hannibal Lecter"
+        "personality": "Protective",
+        "origin": "Anime – Parasyte",
+        "character": "Clara"
       },
       {
-        "personality": "Stoic",
-        "origin": "Historical Figure / Meditations",
-        "character": "Marcus Aurelius"
+        "personality": "Devoted",
+        "origin": "Anime – Re:Zero",
+        "character": "Rem"
       }
     ]
   },
@@ -110,37 +112,38 @@
   },
   {
     "text": "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else.",
-    "source": "Edward Elric – Fullmetal Alchemist: Brotherhood",
-    "category": "Regret",
+    "source": "Edward Elric - Fullmetal Alchemist: Brotherhood",
+    "category": "Anime",
     "tags": [
-      "regret"
+      "sacrifice",
+      "growth"
     ],
     "interpretations": {
-      "Ted Lasso (TV - Ted Lasso)": "No pain, no gain, right? But also, no pain, no heart. It’s what makes you human.",
-      "Makima (Anime - Chainsaw Man)": "Sacrifice is evolution. The weak forget that all growth is bloody.",
-      "Joker (Comics / Movie - DC Comics)": "Pain is the punchline. The joke? You asked for it.",
-      "Marcus Aurelius (Historical Figure / Meditations)": "Pain tempers the soul like fire tempers steel. Accept it with dignity."
+      "Edgar Allan Poe (Real Life / Literature)": "Pain is the toll exacted at every threshold of understanding.",
+      "Kanye West (Real Life / Music)": "I built my empire with sacrifice. That’s the alchemy of greatness.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Pain gives shape to our choices—and teaches us why they matter.",
+      "Robert Greene (Real Life / Author)": "Sacrifice is a negotiation. You give up something small to gain something great."
     },
     "personality_types": [
       {
-        "personality": "Amiable",
-        "origin": "TV - Ted Lasso",
-        "character": "Ted Lasso"
+        "personality": "Melancholy",
+        "origin": "Real Life / Literature",
+        "character": "Edgar Allan Poe"
       },
       {
-        "personality": "Dominant",
-        "origin": "Anime - Chainsaw Man",
-        "character": "Makima"
+        "personality": "Egotistical",
+        "origin": "Real Life / Music",
+        "character": "Kanye West"
       },
       {
-        "personality": "Chaotic",
-        "origin": "Comics / Movie - DC Comics",
-        "character": "Joker"
+        "personality": "Pensive",
+        "origin": "Anime - Frieren: Beyond Journey's End",
+        "character": "Frieren"
       },
       {
-        "personality": "Stoic",
-        "origin": "Historical Figure / Meditations",
-        "character": "Marcus Aurelius"
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
       }
     ]
   },
@@ -218,37 +221,38 @@
   },
   {
     "text": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on his own.",
-    "source": "Jiraiya – Naruto",
-    "category": "Law Of Attraction",
+    "source": "Jiraiya - Naruto",
+    "category": "Anime",
     "tags": [
-      "law of attraction"
+      "growth",
+      "independence"
     ],
     "interpretations": {
-      "Rengoku Kyojuro (Anime - Demon Slayer)": "Enduring pain is proof of growth. Protection is love, but growth needs fire.",
-      "Gojo Satoru (Anime - Jujutsu Kaisen)": "Training wheels don’t last forever. They break—or you break them.",
-      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "True refinement begins when the hand of safety is severed.",
-      "Robert Greene (Real Life / Author)": "Independence is the highest form of power. Protect them too long, and you breed weakness."
+      "Edgar Allan Poe (Real Life / Literature)": "Maturity blossoms not in shelter, but under the burden of agony.",
+      "Kanye West (Real Life / Music)": "You can't raise kings in comfort. Pressure shapes greatness.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Loneliness teaches lessons no guardian ever could.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Solitude is not a hardship; it is a laboratory for the self."
     },
     "personality_types": [
       {
-        "personality": "Passionate",
-        "origin": "Anime - Demon Slayer",
-        "character": "Rengoku Kyojuro"
+        "personality": "Melancholy",
+        "origin": "Real Life / Literature",
+        "character": "Edgar Allan Poe"
       },
       {
-        "personality": "Confident",
-        "origin": "Anime - Jujutsu Kaisen",
-        "character": "Gojo Satoru"
+        "personality": "Egotistical",
+        "origin": "Real Life / Music",
+        "character": "Kanye West"
+      },
+      {
+        "personality": "Pensive",
+        "origin": "Anime - Frieren: Beyond Journey's End",
+        "character": "Frieren"
       },
       {
         "personality": "Intellectual",
         "origin": "Literature / Movie - Silence of the Lambs",
         "character": "Hannibal Lecter"
-      },
-      {
-        "personality": "Strategic",
-        "origin": "Real Life / Author",
-        "character": "Robert Greene"
       }
     ]
   },
@@ -1450,112 +1454,39 @@
   },
   {
     "text": "Even the smallest person can change the course of the future.",
-    "source": "Galadriel - The Lord of the Rings: The Fellowship of the Ring (2001)",
-    "category": "Movie",
+    "source": "Galadriel (The Lord of the Rings: The Fellowship of the Ring)",
+    "category": "Fantasy",
     "tags": [
-      "potential",
-      "destiny"
+      "hope",
+      "destiny",
+      "courage"
     ],
     "interpretations": {
-      "Edgar Allan Poe (Real Life / Literature)": "Tiny hands often tip the scales of fate—unseen, but undeniable.",
-      "Kanye West (Real Life / Music)": "Don’t measure power by size. Greatness starts in the overlooked.",
-      "Frieren (Anime - Frieren: Beyond Journey's End)": "I’ve watched the smallest spark ignite history.",
-      "Bojack Horseman (TV - Bojack Horseman)": "I guess that means even I could’ve mattered. I just didn’t believe it in time."
+      "Ashitaka (Anime - Princess Mononoke)": "The world turns on quiet strength. What’s small in form may be vast in purpose.",
+      "Bojack Horseman (TV - Bojack Horseman)": "I guess that means even I could’ve mattered. I just didn’t believe it in time.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Size does not define fire. Even a spark, lit in resolve, can lead armies home.",
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "I've seen so many small moments that changed everything. It's the quiet acts that last."
     },
     "personality_types": [
       {
-        "personality": "Melancholy",
-        "origin": "Real Life / Literature",
-        "character": "Edgar Allan Poe"
-      },
-      {
-        "personality": "Egotistical",
-        "origin": "Real Life / Music",
-        "character": "Kanye West"
-      },
-      {
-        "personality": "Pensive",
-        "origin": "Anime - Frieren: Beyond Journey's End",
-        "character": "Frieren"
+        "personality": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
       },
       {
         "personality": "Nihilistic",
         "origin": "TV - Bojack Horseman",
         "character": "Bojack Horseman"
-      }
-    ]
-  },
-  {
-    "text": "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else.",
-    "source": "Edward Elric - Fullmetal Alchemist: Brotherhood",
-    "category": "Anime",
-    "tags": [
-      "sacrifice",
-      "growth"
-    ],
-    "interpretations": {
-      "Edgar Allan Poe (Real Life / Literature)": "Pain is the toll exacted at every threshold of understanding.",
-      "Kanye West (Real Life / Music)": "I built my empire with sacrifice. That’s the alchemy of greatness.",
-      "Frieren (Anime - Frieren: Beyond Journey's End)": "Pain gives shape to our choices—and teaches us why they matter.",
-      "Robert Greene (Real Life / Author)": "Sacrifice is a negotiation. You give up something small to gain something great."
-    },
-    "personality_types": [
-      {
-        "personality": "Melancholy",
-        "origin": "Real Life / Literature",
-        "character": "Edgar Allan Poe"
       },
       {
-        "personality": "Egotistical",
-        "origin": "Real Life / Music",
-        "character": "Kanye West"
+        "personality": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
       },
       {
         "personality": "Pensive",
         "origin": "Anime - Frieren: Beyond Journey's End",
         "character": "Frieren"
-      },
-      {
-        "personality": "Strategic",
-        "origin": "Real Life / Author",
-        "character": "Robert Greene"
-      }
-    ]
-  },
-  {
-    "text": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on his own.",
-    "source": "Jiraiya - Naruto",
-    "category": "Anime",
-    "tags": [
-      "growth",
-      "independence"
-    ],
-    "interpretations": {
-      "Edgar Allan Poe (Real Life / Literature)": "Maturity blossoms not in shelter, but under the burden of agony.",
-      "Kanye West (Real Life / Music)": "You can't raise kings in comfort. Pressure shapes greatness.",
-      "Frieren (Anime - Frieren: Beyond Journey's End)": "Loneliness teaches lessons no guardian ever could.",
-      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Solitude is not a hardship; it is a laboratory for the self."
-    },
-    "personality_types": [
-      {
-        "personality": "Melancholy",
-        "origin": "Real Life / Literature",
-        "character": "Edgar Allan Poe"
-      },
-      {
-        "personality": "Egotistical",
-        "origin": "Real Life / Music",
-        "character": "Kanye West"
-      },
-      {
-        "personality": "Pensive",
-        "origin": "Anime - Frieren: Beyond Journey's End",
-        "character": "Frieren"
-      },
-      {
-        "personality": "Intellectual",
-        "origin": "Literature / Movie - Silence of the Lambs",
-        "character": "Hannibal Lecter"
       }
     ]
   },
@@ -3081,44 +3012,6 @@
     ]
   },
   {
-    "text": "Even the smallest person can change the course of the future.",
-    "source": "Galadriel (The Lord of the Rings: The Fellowship of the Ring)",
-    "category": "Fantasy",
-    "tags": [
-      "hope",
-      "destiny",
-      "courage"
-    ],
-    "interpretations": {
-      "Ashitaka (Anime - Princess Mononoke)": "The world turns on quiet strength. What’s small in form may be vast in purpose.",
-      "Bojack Horseman (TV - Bojack Horseman)": "I guess that means even I could’ve mattered. I just didn’t believe it in time.",
-      "Rengoku Kyojuro (Anime - Demon Slayer)": "Size does not define fire. Even a spark, lit in resolve, can lead armies home.",
-      "Frieren (Anime - Frieren: Beyond Journey's End)": "I've seen so many small moments that changed everything. It's the quiet acts that last."
-    },
-    "personality_types": [
-      {
-        "personality": "Harmonious",
-        "origin": "Anime - Princess Mononoke",
-        "character": "Ashitaka"
-      },
-      {
-        "personality": "Nihilistic",
-        "origin": "TV - Bojack Horseman",
-        "character": "Bojack Horseman"
-      },
-      {
-        "personality": "Passionate",
-        "origin": "Anime - Demon Slayer",
-        "character": "Rengoku Kyojuro"
-      },
-      {
-        "personality": "Pensive",
-        "origin": "Anime - Frieren: Beyond Journey's End",
-        "character": "Frieren"
-      }
-    ]
-  },
-  {
     "text": "They see me as I was, not as I am.",
     "source": "Unknown – Common modern proverb",
     "category": "Identity",
@@ -3828,44 +3721,6 @@
         "personality": "Stoic",
         "origin": "Anime – Dance in the Vampire Bund",
         "character": "Yukari"
-      }
-    ]
-  },
-  {
-    "text": "Grief is just love with nowhere to go.",
-    "source": "Jamie Anderson – Popular internet quote",
-    "category": "Grief",
-    "tags": [
-      "loss",
-      "grief",
-      "love"
-    ],
-    "interpretations": {
-      "Violet Evergarden (Anime - Violet Evergarden)": "I now understand that some letters never arrive. And still we write them.",
-      "Maya Angelou (Poetry)": "Grief bends us low, but it is proof we stood for something sacred.",
-      "Clara (Parasyte)": "Even parasites feel something when they lose a host. You learn grief by living.",
-      "Rem (Re:Zero)": "When love has no destination, it lingers like a ghost."
-    },
-    "personality_types": [
-      {
-        "personality": "Grieving",
-        "origin": "Anime – Violet Evergarden",
-        "character": "Violet Evergarden"
-      },
-      {
-        "personality": "Resilient",
-        "origin": "Poetry – Civil Rights",
-        "character": "Maya Angelou"
-      },
-      {
-        "personality": "Protective",
-        "origin": "Anime – Parasyte",
-        "character": "Clara"
-      },
-      {
-        "personality": "Devoted",
-        "origin": "Anime – Re:Zero",
-        "character": "Rem"
       }
     ]
   },
@@ -5537,6 +5392,2066 @@
         "personality": "Dual-Natured",
         "origin": "Anime – Deadman Wonderland",
         "character": "Shiro"
+      }
+    ]
+  },
+  {
+    "text": "I never go back on my word. That is my nindo, my ninja way!",
+    "source": "Hinata Hyuga - Naruto",
+    "category": "Anime",
+    "tags": [
+      "conviction",
+      "identity"
+    ],
+    "interpretations": {
+      "Edgar Allan Poe (Real Life / Literature)": "To bind oneself to a vow is to chain the soul to a destiny of its own making.",
+      "Dani Ardor (Movie - Midsommar)": "Sticking to your word is scary when everything else is changing, but it's the only thing that keeps you real.",
+      "Isabella (Anime - The Promised Neverland)": "A promise is a cage, but sometimes it is also the key to survival.",
+      "Kumoko (Anime - So I'm a Spider, So What?)": "Stats and skills are nice, but grit? That's the real OP ability."
+    },
+    "personality_types": [
+      {
+        "personality": "Melancholy",
+        "origin": "Real Life / Literature",
+        "character": "Edgar Allan Poe"
+      },
+      {
+        "personality": "Distraught",
+        "origin": "Movie - Midsommar",
+        "character": "Dani Ardor"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime - The Promised Neverland",
+        "character": "Isabella"
+      },
+      {
+        "personality": "Resourceful",
+        "origin": "Anime - So I'm a Spider, So What?",
+        "character": "Kumoko"
+      }
+    ]
+  },
+  {
+    "text": "Your smiling face saved me.",
+    "source": "Hinata Hyuga - Naruto",
+    "category": "Anime",
+    "tags": [
+      "gratitude",
+      "inspiration"
+    ],
+    "interpretations": {
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "A smile is a fleeting magic, yet it can alter the course of a century.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Salvation found in a smile? Hmph. True power is found in the will to seize it.",
+      "Clevatess (Manga - Clevatess)": "Prey finds comfort in the strangest gestures. It makes them easier to herd.",
+      "Kahlil Gibran (Poetry)": "In the curvature of a smile, the spirit finds a harbor from the storm."
+    },
+    "personality_types": [
+      {
+        "personality": "Pensive",
+        "origin": "Anime - Frieren: Beyond Journey's End",
+        "character": "Frieren"
+      },
+      {
+        "personality": "Grandiose",
+        "origin": "Anime - Tengen Toppa Gurren Lagann",
+        "character": "Lord Genome"
+      },
+      {
+        "personality": "Predator",
+        "origin": "Manga - Clevatess",
+        "character": "Clevatess"
+      },
+      {
+        "personality": "Philosophical",
+        "origin": "Poetry",
+        "character": "Kahlil Gibran"
+      }
+    ]
+  },
+  {
+    "text": "It is double pleasure to deceive the deceiver.",
+    "source": "Niccolò Machiavelli - The Prince (Attributed)",
+    "category": "Philosophy",
+    "tags": [
+      "deception",
+      "justice"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "To deceive is to stain the soul; to return deception is to wallow in the same mud.",
+      "Sephiroth (Video Game - Final Fantasy)": "Betrayal is the sweetest fruit when fed to the one who planted the tree.",
+      "Ganta Igarashi (Anime - Deadman Wonderland)": "I don't want to play their games, but if I have to, I'll make sure they lose.",
+      "Emily Dickinson (Poetry)": "The spider weaves a web of silk—how just, when the fly brings its own trap."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Godlike",
+        "origin": "Video Game - Final Fantasy",
+        "character": "Sephiroth"
+      },
+      {
+        "personality": "Survivor",
+        "origin": "Anime - Deadman Wonderland",
+        "character": "Ganta Igarashi"
+      },
+      {
+        "personality": "Introspective",
+        "origin": "Poetry",
+        "character": "Emily Dickinson"
+      }
+    ]
+  },
+  {
+    "text": "Everyone sees what you appear to be, few experience what you really are.",
+    "source": "Niccolò Machiavelli - The Prince",
+    "category": "Philosophy",
+    "tags": [
+      "self-perception",
+      "misunderstanding"
+    ],
+    "interpretations": {
+      "Kanye West (Real Life / Music)": "They see the headlines, not the vision. That's why I'm lonely at the top.",
+      "Makima (Anime - Chainsaw Man)": "Perception is a leash. Let them see what they want, as long as they obey.",
+      "Hana (Anime - Wolf Children)": "I hid the wolf to protect the child. Sometimes the truth is too wild for the world.",
+      "Lisa (Anime - Ponyo)": "I don't care what they see. I know who I am when I'm driving through the storm."
+    },
+    "personality_types": [
+      {
+        "personality": "Egotistical",
+        "origin": "Real Life / Music",
+        "character": "Kanye West"
+      },
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Wolf Children",
+        "character": "Hana"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      }
+    ]
+  },
+  {
+    "text": "If your life can change once, there's no reason it can't change again.",
+    "source": "Sanae Furukawa - Clannad",
+    "category": "Anime",
+    "tags": [
+      "transition",
+      "hope"
+    ],
+    "interpretations": {
+      "Ted Lasso (TV - Ted Lasso)": "That's the spirit! Life's a shapeshifter, might as well enjoy the new look.",
+      "Rumi (Poetry)": "The wound is the place where the Light enters you; change is the door swinging open.",
+      "Shiro (Anime - Deadman Wonderland)": "Change is scary... but if it means snacks and friends, maybe it's okay.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "I was a weapon, now I am a doll. Perhaps one day I will simply be Violet."
+    },
+    "personality_types": [
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime - Deadman Wonderland",
+        "character": "Shiro"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Anime - Violet Evergarden",
+        "character": "Violet Evergarden"
+      }
+    ]
+  },
+  {
+    "text": "It is important to cry when you are sad.",
+    "source": "Sanae Furukawa - Clannad",
+    "category": "Anime",
+    "tags": [
+      "emotional strength",
+      "healing"
+    ],
+    "interpretations": {
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah, or you could just drink until the sad goes away. Just a thought.",
+      "Joker (Comics / Movie - DC Comics)": "Why cry when you can laugh? The tears ruin the makeup anyway!",
+      "Maya Angelou (Poetry)": "Tears are the river that carries the soul back to peace. Let them flow.",
+      "Aesop (Fables)": "Even the mightiest oak bends in the rain; to deny the storm is to break."
+    },
+    "personality_types": [
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "personality": "Chaotic",
+        "origin": "Comics / Movie - DC Comics",
+        "character": "Joker"
+      },
+      {
+        "personality": "Resilient",
+        "origin": "Poetry",
+        "character": "Maya Angelou"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "We suffer more often in imagination than in reality.",
+    "source": "Seneca - Letters from a Stoic",
+    "category": "Philosophy",
+    "tags": [
+      "psychology",
+      "fear"
+    ],
+    "interpretations": {
+      "Frank Underwood (TV - House of Cards)": "Imagination is a weakness. Reality is a chessboard. Focus on the pieces.",
+      "Lucifer (TV - Lucifer)": "Humans and their guilt. You invent your own hells, darling. I just stoke the fire.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Burn away the shadows of the mind with the flame of action!",
+      "Kojiro Sasaki (Anime - Record of Ragnarok)": "I fought a thousand battles in my head. The real one was easier."
+    },
+    "personality_types": [
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "personality": "Defiant",
+        "origin": "TV - Lucifer",
+        "character": "Lucifer"
+      },
+      {
+        "personality": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "personality": "Redemptive",
+        "origin": "Anime - Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      }
+    ]
+  },
+  {
+    "text": "Luck is what happens when preparation meets opportunity.",
+    "source": "Seneca - Moral Letters",
+    "category": "Philosophy",
+    "tags": [
+      "opportunity",
+      "success"
+    ],
+    "interpretations": {
+      "Ashitaka (Anime - Princess Mononoke)": "The forest grants nothing to the idle. One must be ready when the path clears.",
+      "Satan (Mythology)": "I prefer to create the opportunity. The preparation is merely... detail.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "A queen does not rely on luck. She relies on centuries of planning.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "You call it luck. I call it surviving long enough to make a choice."
+    },
+    "personality_types": [
+      {
+        "personality": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "personality": "Malevolent",
+        "origin": "Mythology",
+        "character": "Satan"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      }
+    ]
+  },
+  {
+    "text": "I'm not going there to die. I'm going to find out if I'm really alive.",
+    "source": "Spike Spiegel - Cowboy Bebop",
+    "category": "Anime",
+    "tags": [
+      "mortality",
+      "purpose"
+    ],
+    "interpretations": {
+      "Jonathan Switcher (Movie - Mannequin)": "That's heavy, man. I just want to feel the magic, you know?",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Maybe being alive is just a state of mind. The Nargles know for sure.",
+      "Itachi Uchiha (Anime - Naruto)": "To seek life in the face of death is the ultimate test of resolve.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "Dying's boring! Living's where the explosions are!"
+    },
+    "personality_types": [
+      {
+        "personality": "Romantic",
+        "origin": "Movie - Mannequin",
+        "character": "Jonathan Switcher"
+      },
+      {
+        "personality": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "personality": "Disciplined",
+        "origin": "Anime - Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Manic",
+        "origin": "Comics / Movie - DC Comics",
+        "character": "Harley Quinn"
+      }
+    ]
+  },
+  {
+    "text": "Look at my eyes, Faye. One of them is a fake because I lost it in an accident. Since then, I've been seeing the past in one eye and the present in the other.",
+    "source": "Spike Spiegel - Cowboy Bebop",
+    "category": "Anime",
+    "tags": [
+      "history",
+      "perspective"
+    ],
+    "interpretations": {
+      "Sherlock Holmes (Literature / TV)": "Bifurcated data streams. An inefficient way to process reality, but poetically tragic.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "Cut the past loose! If you keep looking back, you'll trip over today.",
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "With my eyes, I see everything. And trust me, the past is boring compared to me.",
+      "Rem (Anime - Re:Zero)": "I will look at the future for you, so you don't have to be alone with your ghosts."
+    },
+    "personality_types": [
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Kill la Kill",
+        "character": "Ryuko Matoi"
+      },
+      {
+        "personality": "Confident",
+        "origin": "Anime - Jujutsu Kaisen",
+        "character": "Gojo Satoru"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Re:Zero",
+        "character": "Rem"
+      }
+    ]
+  },
+  {
+    "text": "No act of kindness, no matter how small, is ever wasted.",
+    "source": "Aesop - The Lion and the Mouse",
+    "category": "Fables",
+    "tags": [
+      "tenderness",
+      "gratitude"
+    ],
+    "interpretations": {
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Kindness softens the texture of the soul. It makes the inevitable... smoother.",
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "I used to think kindness was weak. Then I met Gon.",
+      "Clara (TV - Doctor Who)": "It's the small things that save the universe. Not the armies, just the kindness.",
+      "Jareth the Goblin King (Movie - Labyrinth)": "Wasted? Perhaps. Or perhaps it is simply a debt waiting to be collected."
+    },
+    "personality_types": [
+      {
+        "personality": "Intellectual",
+        "origin": "Literature / Movie - Silence of the Lambs",
+        "character": "Hannibal Lecter"
+      },
+      {
+        "personality": "Cynical",
+        "origin": "Anime - Hunter x Hunter",
+        "character": "Killua Zoldyck"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara"
+      },
+      {
+        "personality": "Manipulative",
+        "origin": "Movie - Labyrinth",
+        "character": "Jareth the Goblin King"
+      }
+    ]
+  },
+  {
+    "text": "It is easy to be brave from a safe distance.",
+    "source": "Aesop - The Wolf and the Kid",
+    "category": "Fables",
+    "tags": [
+      "security",
+      "bravery"
+    ],
+    "interpretations": {
+      "Robert Greene (Real Life / Author)": "Distance is a strategy. Bravery is a performance. Master both.",
+      "Holo (Anime - Spice and Wolf)": "Wolves know this well. The loudest dogs are always behind the fence.",
+      "Oprah Winfrey (Real Life / Media)": "True courage is stepping into the arena, not shouting from the stands.",
+      "Violet Crawley (TV - Downton Abbey)": "It is also easy to be critical from a comfortable armchair."
+    },
+    "personality_types": [
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      }
+    ]
+  },
+  {
+    "text": "Loneliness is a sickness that leads to death.",
+    "source": "Holo - Spice and Wolf",
+    "category": "Anime",
+    "tags": [
+      "loneliness",
+      "mortality"
+    ],
+    "interpretations": {
+      "Rupi Kaur (Poetry)": "but you are a garden / waiting to bloom / you are not a graveyard",
+      "Hinata Hyuga (Anime - Naruto)": "I was sick with it too... until I found someone to walk with.",
+      "Niccolò Machiavelli (Philosophy)": "Solitude is necessary for strategy. Loneliness is a failure of the mind.",
+      "Sanae (Anime - Clannad)": "No one should be alone! Come to the bakery, we have bread and family!"
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Pragmatic",
+        "origin": "Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae"
+      }
+    ]
+  },
+  {
+    "text": "When a person lies, what is important is not the lie itself. No, it is their reason. Their why.",
+    "source": "Holo - Spice and Wolf",
+    "category": "Anime",
+    "tags": [
+      "deception",
+      "psychology"
+    ],
+    "interpretations": {
+      "Seneca (Stoicism)": "Truth is the only virtue. A lie for a good reason is still a corruption of nature.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Everyone lies. Usually to themselves. The reason doesn't change the outcome.",
+      "Yukari (Anime - Touhou Project)": "I lie because the truth is boring. Isn't that reason enough?",
+      "Marcus Aurelius (Stoicism)": "Examine the intent, but do not let it excuse the falsehood."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Historical Figure / Meditations",
+        "character": "Marcus Aurelius"
+      }
+    ]
+  },
+  {
+    "text": "I ask for so little. Just let me rule you, and you can have everything that you want.",
+    "source": "Jareth the Goblin King - Labyrinth",
+    "category": "Movie",
+    "tags": [
+      "desire",
+      "influence"
+    ],
+    "interpretations": {
+      "Edgar Allan Poe (Real Life / Literature)": "A pact with shadows offers gold but pays in dust.",
+      "Dani Ardor (Movie - Midsommar)": "I just wanted to be held... I didn't ask what the price was.",
+      "Isabella (Anime - The Promised Neverland)": "Submission is a comfortable cage. I chose it once. I know the cost.",
+      "Kumoko (Anime - So I'm a Spider, So What?)": "Rule me? Yeah, right. I'm gonna eat you and take your XP."
+    },
+    "personality_types": [
+      {
+        "personality": "Melancholy",
+        "origin": "Real Life / Literature",
+        "character": "Edgar Allan Poe"
+      },
+      {
+        "personality": "Distraught",
+        "origin": "Movie - Midsommar",
+        "character": "Dani Ardor"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime - The Promised Neverland",
+        "character": "Isabella"
+      },
+      {
+        "personality": "Resourceful",
+        "origin": "Anime - So I'm a Spider, So What?",
+        "character": "Kumoko"
+      }
+    ]
+  },
+  {
+    "text": "It's only forever, not long at all.",
+    "source": "Jareth the Goblin King - Labyrinth",
+    "category": "Movie",
+    "tags": [
+      "time",
+      "magic"
+    ],
+    "interpretations": {
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Forever is a long time for humans. For me, it's just a season.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "I waited a thousand years in the dark. Forever is a test of will.",
+      "Clevatess (Manga - Clevatess)": "Time means nothing to the apex. Only the hunt matters.",
+      "Kahlil Gibran (Poetry)": "Eternity is not a length of time, but a depth of feeling."
+    },
+    "personality_types": [
+      {
+        "personality": "Pensive",
+        "origin": "Anime - Frieren: Beyond Journey's End",
+        "character": "Frieren"
+      },
+      {
+        "personality": "Grandiose",
+        "origin": "Anime - Tengen Toppa Gurren Lagann",
+        "character": "Lord Genome"
+      },
+      {
+        "personality": "Predator",
+        "origin": "Manga - Clevatess",
+        "character": "Clevatess"
+      },
+      {
+        "personality": "Philosophical",
+        "origin": "Poetry",
+        "character": "Kahlil Gibran"
+      }
+    ]
+  },
+  {
+    "text": "Turn your wounds into wisdom.",
+    "source": "Oprah Winfrey",
+    "category": "Media",
+    "tags": [
+      "wisdom",
+      "struggle"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "Pain is information. Use it to fortify the citadel of the mind.",
+      "Sephiroth (Video Game - Final Fantasy)": "Wounds are merely reminders of weakness left behind.",
+      "Ganta Igarashi (Anime - Deadman Wonderland)": "Every scar teaches me how to survive the next hit.",
+      "Emily Dickinson (Poetry)": "The Soul selects her own Society—Then—shuts the Door—On Pain—"
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Godlike",
+        "origin": "Video Game - Final Fantasy",
+        "character": "Sephiroth"
+      },
+      {
+        "personality": "Survivor",
+        "origin": "Anime - Deadman Wonderland",
+        "character": "Ganta Igarashi"
+      },
+      {
+        "personality": "Introspective",
+        "origin": "Poetry",
+        "character": "Emily Dickinson"
+      }
+    ]
+  },
+  {
+    "text": "The biggest adventure you can take is to live the life of your dreams.",
+    "source": "Oprah Winfrey",
+    "category": "Media",
+    "tags": [
+      "exploration",
+      "ambition"
+    ],
+    "interpretations": {
+      "Kanye West (Real Life / Music)": "I'm already living it. The movie is my life.",
+      "Makima (Anime - Chainsaw Man)": "Dreams are chaotic. Order is the only adventure worth pursuing.",
+      "Hana (Anime - Wolf Children)": "My adventure was raising them. It was wilder than any dream.",
+      "Lisa (Anime - Ponyo)": "Driving on a cliff edge during a tsunami? Now that's an adventure!"
+    },
+    "personality_types": [
+      {
+        "personality": "Egotistical",
+        "origin": "Real Life / Music",
+        "character": "Kanye West"
+      },
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Wolf Children",
+        "character": "Hana"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      }
+    ]
+  },
+  {
+    "text": "how you love yourself is / how you teach others / to love you",
+    "source": "Rupi Kaur - Milk and Honey",
+    "category": "Poetry",
+    "tags": [
+      "example",
+      "self-worth"
+    ],
+    "interpretations": {
+      "Ted Lasso (TV - Ted Lasso)": "You gotta treat yourself like you're your own best teammate.",
+      "Rumi (Poetry)": "You are the mirror; polish it, and the world reflects light.",
+      "Shiro (Anime - Deadman Wonderland)": "I love sweets! Does that mean people will give me sweets?",
+      "Violet Evergarden (Anime - Violet Evergarden)": "I am learning what 'love' means. Perhaps it begins with not hating myself."
+    },
+    "personality_types": [
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime - Deadman Wonderland",
+        "character": "Shiro"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Anime - Violet Evergarden",
+        "character": "Violet Evergarden"
+      }
+    ]
+  },
+  {
+    "text": "if you were born with the weakness to fall / you were born with the strength to rise",
+    "source": "Rupi Kaur - Milk and Honey",
+    "category": "Poetry",
+    "tags": [
+      "uplift",
+      "strength"
+    ],
+    "interpretations": {
+      "Bojack Horseman (TV - Bojack Horseman)": "Or you just stay down. Staying down is easier.",
+      "Joker (Comics / Movie - DC Comics)": "Falling is the best part! It's the landing that kills you.",
+      "Maya Angelou (Poetry)": "I rise. Again and again. It is the nature of the spirit.",
+      "Aesop (Fables)": "The reed bends and survives; the oak stands rigid and breaks."
+    },
+    "personality_types": [
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "personality": "Chaotic",
+        "origin": "Comics / Movie - DC Comics",
+        "character": "Joker"
+      },
+      {
+        "personality": "Resilient",
+        "origin": "Poetry",
+        "character": "Maya Angelou"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "Vulgarity is no substitute for wit.",
+    "source": "Violet Crawley - Downton Abbey",
+    "category": "TV",
+    "tags": [
+      "intellect",
+      "standards"
+    ],
+    "interpretations": {
+      "Frank Underwood (TV - House of Cards)": "Wit wins votes. Vulgarity is for the campaign trail behind closed doors.",
+      "Lucifer (TV - Lucifer)": "I can be both, my dear. It's called multitasking.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Speak with your chest! Loud and clear is better than clever and quiet!",
+      "Kojiro Sasaki (Anime - Record of Ragnarok)": "A sharp tongue cuts deeper than a dull blade."
+    },
+    "personality_types": [
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "personality": "Defiant",
+        "origin": "TV - Lucifer",
+        "character": "Lucifer"
+      },
+      {
+        "personality": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "personality": "Redemptive",
+        "origin": "Anime - Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      }
+    ]
+  },
+  {
+    "text": "I’m not a romantic, but even I concede that the heart does not exist solely for the purpose of pumping blood.",
+    "source": "Violet Crawley - Downton Abbey",
+    "category": "TV",
+    "tags": [
+      "romance",
+      "emotion"
+    ],
+    "interpretations": {
+      "Ashitaka (Anime - Princess Mononoke)": "The heart beats for harmony, for the connection between all living things.",
+      "Satan (Mythology)": "The heart pumps blood. Desire pumps the world.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "Blood is power. But the heart... the heart is where loyalty lives.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "It exists to protect. Even if it stops beating, the protection remains."
+    },
+    "personality_types": [
+      {
+        "personality": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "personality": "Malevolent",
+        "origin": "Mythology",
+        "character": "Satan"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      }
+    ]
+  },
+  {
+    "text": "Shinichi... Run...",
+    "source": "Nobuko Izumi - Parasyte: The Maxim",
+    "category": "Anime",
+    "tags": [
+      "sacrifice",
+      "protection"
+    ],
+    "interpretations": {
+      "Jonathan Switcher (Movie - Mannequin)": "She gave everything... that's real love.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Love shields us, even after the person is gone.",
+      "Itachi Uchiha (Anime - Naruto)": "To sacrifice oneself for the next generation is the duty of those who came before.",
+      "Harley Quinn (Comics / Movie - DC Comics)": "Running's smart! Fighting's fun, but running keeps you alive to fight later!"
+    },
+    "personality_types": [
+      {
+        "personality": "Romantic",
+        "origin": "Movie - Mannequin",
+        "character": "Jonathan Switcher"
+      },
+      {
+        "personality": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "personality": "Disciplined",
+        "origin": "Anime - Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Manic",
+        "origin": "Comics / Movie - DC Comics",
+        "character": "Harley Quinn"
+      }
+    ]
+  },
+  {
+    "text": "I believe praying to ask for a favor is arrogant. Prayer should be for seeking forgiveness.",
+    "source": "Rem - Re:Zero",
+    "category": "Anime",
+    "tags": [
+      "humility",
+      "faith"
+    ],
+    "interpretations": {
+      "Sherlock Holmes (Literature / TV)": "Arrogance is assuming a deity cares about your petty requests. Logic dictates self-reliance.",
+      "Ryuko Matoi (Anime - Kill la Kill)": "I don't pray. I just punch until I get what I want.",
+      "Gojo Satoru (Anime - Jujutsu Kaisen)": "Why pray when you're the strongest? I grant my own wishes.",
+      "Rem (Anime - Re:Zero)": "I will pray for your safety, even if I cannot be there to ensure it."
+    },
+    "personality_types": [
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Kill la Kill",
+        "character": "Ryuko Matoi"
+      },
+      {
+        "personality": "Confident",
+        "origin": "Anime - Jujutsu Kaisen",
+        "character": "Gojo Satoru"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Re:Zero",
+        "character": "Rem"
+      }
+    ]
+  },
+  {
+    "text": "No matter what painful things happen, even when it looks like you'll lose... I will believe in you!",
+    "source": "Rem - Re:Zero",
+    "category": "Anime",
+    "tags": [
+      "trust",
+      "loyalty"
+    ],
+    "interpretations": {
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Blind belief is delicious. It makes the betrayal so much more... textured.",
+      "Killua Zoldyck (Anime - Hunter x Hunter)": "I believe in Gon because he's Gon. That's all the reason I need.",
+      "Clara (TV - Doctor Who)": "Believing is the first step. Then you run.",
+      "Jareth the Goblin King (Movie - Labyrinth)": "Believe in me, and I will give you the world. Believe in yourself, and you get nothing."
+    },
+    "personality_types": [
+      {
+        "personality": "Intellectual",
+        "origin": "Literature / Movie - Silence of the Lambs",
+        "character": "Hannibal Lecter"
+      },
+      {
+        "personality": "Cynical",
+        "origin": "Anime - Hunter x Hunter",
+        "character": "Killua Zoldyck"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara"
+      },
+      {
+        "personality": "Manipulative",
+        "origin": "Movie - Labyrinth",
+        "character": "Jareth the Goblin King"
+      }
+    ]
+  },
+  {
+    "text": "I've lost more than anyone... that's why I'm strong.",
+    "source": "Kojiro Sasaki - Record of Ragnarok",
+    "category": "Anime",
+    "tags": [
+      "endurance",
+      "humility"
+    ],
+    "interpretations": {
+      "Robert Greene (Real Life / Author)": "Use defeat as a whetstone. The master has failed more times than the beginner has tried.",
+      "Holo (Anime - Spice and Wolf)": "Loss empties the cup so it may be filled with better wine.",
+      "Oprah Winfrey (Real Life / Media)": "You build your castle from the stones they threw at you.",
+      "Violet Crawley (TV - Downton Abbey)": "One does not advertise one's losses. One simply learns and proceeds."
+    },
+    "personality_types": [
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      }
+    ]
+  },
+  {
+    "text": "Winning is fun... but losing is valuable too.",
+    "source": "Kojiro Sasaki - Record of Ragnarok",
+    "category": "Anime",
+    "tags": [
+      "success",
+      "growth"
+    ],
+    "interpretations": {
+      "Rupi Kaur (Poetry)": "the flower that blooms in adversity / is the rarest and most beautiful of all",
+      "Hinata Hyuga (Anime - Naruto)": "I learned from losing. I learned I had to get stronger to stand next to him.",
+      "Niccolò Machiavelli (Philosophy)": "Victory washes away the memory of defeat. Losing is only valuable if you survive it.",
+      "Sanae (Anime - Clannad)": "If you lose, you just try again tomorrow! With better bread!"
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Pragmatic",
+        "origin": "Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae"
+      }
+    ]
+  },
+  {
+    "text": "In this world full of violence, blood and scheming, the promise we made on that day was my one and only refuge.",
+    "source": "Mina Tepes - Dance in the Vampire Bund",
+    "category": "Anime",
+    "tags": [
+      "promise",
+      "home"
+    ],
+    "interpretations": {
+      "Seneca (Stoicism)": "A sanctuary built on a promise is fragile. Build your refuge within the self.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Promises... they're just words until you have to bleed for them.",
+      "Yukari (Anime - Touhou Project)": "Refuge? How boring. I prefer to manipulate the boundaries of the war itself.",
+      "Marcus Aurelius (Stoicism)": "The only true refuge is the reasoned mind, untouched by the chaos of the world."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Historical Figure / Meditations",
+        "character": "Marcus Aurelius"
+      }
+    ]
+  },
+  {
+    "text": "I will expose the darkness of this world.",
+    "source": "Mina Tepes - Dance in the Vampire Bund",
+    "category": "Anime",
+    "tags": [
+      "darkness",
+      "truth"
+    ],
+    "interpretations": {
+      "Edgar Allan Poe (Real Life / Literature)": "The darkness is not to be exposed, but inhabited. It is the only place where truth does not burn.",
+      "Dani Ardor (Movie - Midsommar)": "When you shine a light on it, sometimes you see things you wish stayed hidden.",
+      "Isabella (Anime - The Promised Neverland)": "Expose it? No. I will manage it. I will survive it.",
+      "Kumoko (Anime - So I'm a Spider, So What?)": "Darkness is just a dungeon biome. Farm it for XP."
+    },
+    "personality_types": [
+      {
+        "personality": "Melancholy",
+        "origin": "Real Life / Literature",
+        "character": "Edgar Allan Poe"
+      },
+      {
+        "personality": "Distraught",
+        "origin": "Movie - Midsommar",
+        "character": "Dani Ardor"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime - The Promised Neverland",
+        "character": "Isabella"
+      },
+      {
+        "personality": "Resourceful",
+        "origin": "Anime - So I'm a Spider, So What?",
+        "character": "Kumoko"
+      }
+    ]
+  },
+  {
+    "text": "Run you clever boy, and remember me.",
+    "source": "Clara Oswald - Doctor Who",
+    "category": "TV",
+    "tags": [
+      "farewell",
+      "memory"
+    ],
+    "interpretations": {
+      "Frieren (Anime - Frieren: Beyond Journey's End)": "Memory is the only thing that defies time. I will remember.",
+      "Lord Genome (Anime - Tengen Toppa Gurren Lagann)": "Don't run. Fight until the memory of you is etched into the universe!",
+      "Clevatess (Manga - Clevatess)": "Run all you like. I never forget a scent.",
+      "Kahlil Gibran (Poetry)": "Farewell is a word that the eyes speak when the heart cannot bear the silence."
+    },
+    "personality_types": [
+      {
+        "personality": "Pensive",
+        "origin": "Anime - Frieren: Beyond Journey's End",
+        "character": "Frieren"
+      },
+      {
+        "personality": "Grandiose",
+        "origin": "Anime - Tengen Toppa Gurren Lagann",
+        "character": "Lord Genome"
+      },
+      {
+        "personality": "Predator",
+        "origin": "Manga - Clevatess",
+        "character": "Clevatess"
+      },
+      {
+        "personality": "Philosophical",
+        "origin": "Poetry",
+        "character": "Kahlil Gibran"
+      }
+    ]
+  },
+  {
+    "text": "While one may lose much because of avarice, nothing was ever accomplished by abstinence.",
+    "source": "Holo - Spice and Wolf",
+    "category": "Investment",
+    "tags": [
+      "investment",
+      "crypto",
+      "risk"
+    ],
+    "interpretations": {
+      "Robert Greene (Real Life / Author)": "Boldness is a currency. Hoarding safety only yields inflation of fear.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "To rule is to wager. I bet an entire kingdom on a single move.",
+      "Sanae Furukawa (Anime - Clannad)": "You have to try! If you don't put the bread in the oven, it never rises.",
+      "Kojiro Sasaki (Anime - Record of Ragnarok)": "A sword kept in the sheath never learns the shape of victory."
+    },
+    "personality_types": [
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
+      },
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Redemptive",
+        "origin": "Anime - Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      }
+    ]
+  },
+  {
+    "text": "We are merchants. As long as we profit, we triumph.",
+    "source": "Holo - Spice and Wolf",
+    "category": "Business",
+    "tags": [
+      "business",
+      "wealth",
+      "success"
+    ],
+    "interpretations": {
+      "Niccolò Machiavelli (Philosophy)": "Profit is the only honest metric of power. All else is vanity.",
+      "Oprah Winfrey (Real Life / Media)": "Profit isn't just money, honey. It's growth. If you aren't growing, you're shrinking.",
+      "Jareth the Goblin King (Movie - Labyrinth)": "Triumph? A simple exchange. You give me your fear, I give you order.",
+      "Aesop (Fables)": "The ant stores for winter while the grasshopper sings. Profit is survival."
+    },
+    "personality_types": [
+      {
+        "personality": "Pragmatic",
+        "origin": "Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Manipulative",
+        "origin": "Movie - Labyrinth",
+        "character": "Jareth the Goblin King"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "It is not the man who has too little, but the man who craves more, that is poor.",
+    "source": "Seneca - Letters from a Stoic",
+    "category": "Wealth",
+    "tags": [
+      "wealth",
+      "intrapersonal",
+      "crypto"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "A full wagon means nothing if the driver is hungry for another's cargo.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "You carry that hunger around, it eats you. I travel light.",
+      "Violet Crawley (TV - Downton Abbey)": "To want is vulgar. To have is merely adequate.",
+      "Robert Greene (Real Life / Author)": "Desire exposes your lack. The powerful appear to need nothing."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      }
+    ]
+  },
+  {
+    "text": "To be everywhere is to be nowhere.",
+    "source": "Seneca - Letters from a Stoic",
+    "category": "Business",
+    "tags": [
+      "focus",
+      "business",
+      "strategy"
+    ],
+    "interpretations": {
+      "Yukari (Anime - Touhou Project)": "I manipulate the boundary. I am exactly where I need to be, which is everywhere.",
+      "Clara Oswald (TV - Doctor Who)": "Running everywhere is fun, but sometimes you just need to stand still to save the day.",
+      "Machiavelli (Philosophy)": "Spread your forces too thin, and you will be conquered in detail.",
+      "Kojiro Sasaki (Anime - Record of Ragnarok)": "One strike. Perfect. That is better than a thousand flailing cuts."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara"
+      },
+      {
+        "personality": "Pragmatic",
+        "origin": "Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Redemptive",
+        "origin": "Anime - Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      }
+    ]
+  },
+  {
+    "text": "Whosoever desires constant success must change his conduct with the times.",
+    "source": "Niccolò Machiavelli - The Prince",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "adaptability",
+      "business"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "The market shifts like the wind. A merchant who cannot tack his sails will sink.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "The old laws are dust. I built a new Bund because I adapted.",
+      "Rem (Anime - Re:Zero)": "If the future is grim, we rewrite it. We start from zero if we have to.",
+      "Robert Greene (Real Life / Author)": "Formlessness is power. Rigid strategies are for the dead."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Re:Zero",
+        "character": "Rem"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      }
+    ]
+  },
+  {
+    "text": "Men judge generally more by the eye than by the hand, for everyone can see and few can feel.",
+    "source": "Niccolò Machiavelli - The Prince",
+    "category": "Interpersonal",
+    "tags": [
+      "perception",
+      "interpersonal",
+      "business"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "They see the odd bread, but they don't taste the love inside!",
+      "Jareth the Goblin King (Movie - Labyrinth)": "Exactly. That is why I offer them dreams. They love the sparkle.",
+      "Oprah Winfrey (Real Life / Media)": "People show you who they are. Believe them, not the polished image.",
+      "Yukari (Anime - Touhou Project)": "Eyes are easily fooled by a simple gap in perception."
+    },
+    "personality_types": [
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Manipulative",
+        "origin": "Movie - Labyrinth",
+        "character": "Jareth the Goblin King"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      }
+    ]
+  },
+  {
+    "text": "It is the job of grandmothers to interfere.",
+    "source": "Violet Crawley - Downton Abbey",
+    "category": "Family Dynamics",
+    "tags": [
+      "family dynamics",
+      "interpersonal",
+      "wisdom"
+    ],
+    "interpretations": {
+      "Hinata Hyuga (Anime - Naruto)": "Elders guide us... even when it feels like they're in the way.",
+      "Sanae Furukawa (Anime - Clannad)": "That's right! Family looks out for each other, always!",
+      "Hana (Anime - Wolf Children)": "I wish they had a grandmother... someone to help hold the weight.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "Interference? I call it executive oversight of the bloodline."
+    },
+    "personality_types": [
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Wolf Children",
+        "character": "Hana"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
+      }
+    ]
+  },
+  {
+    "text": "I don't dislike him. I just don't like him. Which is quite different.",
+    "source": "Violet Crawley - Downton Abbey",
+    "category": "Interpersonal",
+    "tags": [
+      "interpersonal",
+      "boundaries",
+      "standards"
+    ],
+    "interpretations": {
+      "Robert Greene (Real Life / Author)": "Ambivalence is a weapon. Hate signals they matter; indifference signals they don't.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Whatever happens, happens. I don't waste energy on liking or disliking.",
+      "Aesop (Fables)": "The fox didn't hate the grapes. He just decided they were sour.",
+      "Clara Oswald (TV - Doctor Who)": "It's okay to be neutral. You can't love every alien you meet."
+    },
+    "personality_types": [
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara"
+      }
+    ]
+  },
+  {
+    "text": "I have turned the world upside down, and I have done it all for you.",
+    "source": "Jareth the Goblin King - Labyrinth",
+    "category": "Isekai",
+    "tags": [
+      "isekai",
+      "devotion",
+      "power"
+    ],
+    "interpretations": {
+      "Rem (Anime - Re:Zero)": "I would turn the world for him too. Even if I had to break it.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "A true ruler reshapes reality to fit their desire.",
+      "Yukari (Anime - Touhou Project)": "Upside down? Child's play. I can flip the boundary of existence itself.",
+      "Clara Oswald (TV - Doctor Who)": "You don't need to break the world to save someone. You just need to listen."
+    },
+    "personality_types": [
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Re:Zero",
+        "character": "Rem"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara"
+      }
+    ]
+  },
+  {
+    "text": "Your eyes can be so cruel. Just as I can be so cruel.",
+    "source": "Jareth the Goblin King - Labyrinth",
+    "category": "Interpersonal",
+    "tags": [
+      "interpersonal",
+      "pain",
+      "reflection"
+    ],
+    "interpretations": {
+      "Seneca (Philosophy)": "Cruelty in the eye is a reflection of the soul's unrest.",
+      "Hinata Hyuga (Anime - Naruto)": "Eyes show the truth... even the painful parts.",
+      "Robert Greene (Real Life / Author)": "Mirroring behavior is a classic seduction. Show them their own cruelty.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "My eye just sees the past. It's cruel enough on its own."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      }
+    ]
+  },
+  {
+    "text": "I'm just watching a bad dream I never wake up from.",
+    "source": "Spike Spiegel - Cowboy Bebop",
+    "category": "Isekai",
+    "tags": [
+      "isekai",
+      "intrapersonal",
+      "reality"
+    ],
+    "interpretations": {
+      "Clara Oswald (TV - Doctor Who)": "Dreams are just other universes leaking in. Wake up and fly.",
+      "Rem (Anime - Re:Zero)": "Nightmares end. Morning comes. We make sure of it.",
+      "Yukari (Anime - Touhou Project)": "Dreams and reality are separated by a very thin line. I can cut it.",
+      "Seneca (Philosophy)": "We suffer in the dream more than the waking. Open your eyes."
+    },
+    "personality_types": [
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Re:Zero",
+        "character": "Rem"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      }
+    ]
+  },
+  {
+    "text": "Hunger is the best spice.",
+    "source": "Spike Spiegel - Cowboy Bebop",
+    "category": "Wealth",
+    "tags": [
+      "wealth",
+      "poverty",
+      "gratitude"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "Indeed! Even a stale crust tastes like gold when the belly is empty.",
+      "Violet Crawley (TV - Downton Abbey)": "I suppose that explains the food at the workhouse. How novel.",
+      "Sanae Furukawa (Anime - Clannad)": "My bread is delicious even without hunger! But eat up!",
+      "Aesop (Fables)": "The dog with the bone envied the reflection, for his hunger made him foolish."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "The happiness between you two is our dream.",
+    "source": "Sanae Furukawa - Clannad",
+    "category": "Family Dynamics",
+    "tags": [
+      "family dynamics",
+      "love",
+      "support"
+    ],
+    "interpretations": {
+      "Hana (Anime - Wolf Children)": "A mother's dream is just to see them smile and walk their own path.",
+      "Hinata Hyuga (Anime - Naruto)": "Your happiness is my ninja way. I will protect it.",
+      "Rem (Anime - Re:Zero)": "If you are happy, my world is complete. Even if I am in the background.",
+      "Violet Crawley (TV - Downton Abbey)": "One must secure the dynasty. Happiness is a pleasant bonus."
+    },
+    "personality_types": [
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Wolf Children",
+        "character": "Hana"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Re:Zero",
+        "character": "Rem"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      }
+    ]
+  },
+  {
+    "text": "My bread... I made it with love.",
+    "source": "Sanae Furukawa - Clannad",
+    "category": "Business",
+    "tags": [
+      "business",
+      "passion",
+      "crypto"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "Love adds no coin to the ledger, but it keeps the customers returning.",
+      "Robert Greene (Real Life / Author)": "Infuse your work with emotion. It creates a connection money cannot buy.",
+      "Oprah Winfrey (Real Life / Media)": "Passion is the brand! If you love it, they will love it.",
+      "Aesop (Fables)": "The baker who baked with hate sold bitter loaves. Love is the yeast."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "Those who have plenty want more and so lose all they have.",
+    "source": "Aesop - The Goose that Laid the Golden Eggs",
+    "category": "Investment",
+    "tags": [
+      "investment",
+      "crypto",
+      "greed"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "Greed blinds the merchant. One apple today is better than the promise of an orchard that never grows.",
+      "Seneca (Philosophy)": "To want more than enough is to be a slave to fortune.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "I paid my debts. I did not gamble my kingdom on a wish.",
+      "Robert Greene (Real Life / Author)": "Pigs get fat, hogs get slaughtered. Know when to cash out."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      }
+    ]
+  },
+  {
+    "text": "Union gives strength.",
+    "source": "Aesop - The Bundle of Sticks",
+    "category": "Business",
+    "tags": [
+      "business",
+      "interpersonal",
+      "family dynamics"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "Like the Dango Family! Together we are strong!",
+      "Machiavelli (Philosophy)": "Alliances are useful, but ensure you hold the strongest stick.",
+      "Hinata Hyuga (Anime - Naruto)": "Alone I broke. With my team, I stand.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "My Bund is my strength. A unified people cannot be hunted."
+    },
+    "personality_types": [
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Pragmatic",
+        "origin": "Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
+      }
+    ]
+  },
+  {
+    "text": "Fear is a superpower. Fear can make you faster, and cleverer, and stronger.",
+    "source": "Clara Oswald - Doctor Who",
+    "category": "Intrapersonal",
+    "tags": [
+      "intrapersonal",
+      "growth",
+      "isekai"
+    ],
+    "interpretations": {
+      "Seneca (Philosophy)": "Fear is a teacher, not a master. Use it to sharpen the mind.",
+      "Kojiro Sasaki (Anime - Record of Ragnarok)": "I was afraid to lose. That fear made me simulate a thousand victories.",
+      "Robert Greene (Real Life / Author)": "Use your enemies' fear. But use your own fear to stay alert.",
+      "Holo (Anime - Spice and Wolf)": "A frightened wolf runs faster than a brave one. Survival is the prize."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Redemptive",
+        "origin": "Anime - Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      }
+    ]
+  },
+  {
+    "text": "We're all ghosts to you. We must be nothing.",
+    "source": "Clara Oswald - Doctor Who",
+    "category": "Interpersonal",
+    "tags": [
+      "interpersonal",
+      "value",
+      "wealth"
+    ],
+    "interpretations": {
+      "Spike Spiegel (Anime - Cowboy Bebop)": "We're all ghosts. Some of us just haven't realized we're dead yet.",
+      "Violet Crawley (TV - Downton Abbey)": "Don't be dramatic. You aren't nothing; you're just not family.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "You are not nothing. You are life trying to survive. That is everything.",
+      "Rem (Anime - Re:Zero)": "You are my hero. You could never be nothing to me."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Re:Zero",
+        "character": "Rem"
+      }
+    ]
+  },
+  {
+    "text": "Let’s start from here. From one... No. From zero!",
+    "source": "Rem - Re:Zero",
+    "category": "Isekai",
+    "tags": [
+      "isekai",
+      "investment",
+      "starting over"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "Bankruptcy is just a new ledger. Write a better profit this time.",
+      "Kojiro Sasaki (Anime - Record of Ragnarok)": "Zero is where the learning happens. Lose, learn, start again.",
+      "Machiavelli (Philosophy)": "When fortune fails, virtue must rebuild the foundation.",
+      "Clara Oswald (TV - Doctor Who)": "The universe is big. Plenty of room for a fresh start."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Redemptive",
+        "origin": "Anime - Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      },
+      {
+        "personality": "Pragmatic",
+        "origin": "Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara"
+      }
+    ]
+  },
+  {
+    "text": "To see you smile, I would do anything.",
+    "source": "Rem - Re:Zero",
+    "category": "Interpersonal",
+    "tags": [
+      "interpersonal",
+      "devotion",
+      "family dynamics"
+    ],
+    "interpretations": {
+      "Hinata Hyuga (Anime - Naruto)": "I know that feeling. It pushes you past your limits.",
+      "Jareth the Goblin King (Movie - Labyrinth)": "Anything? Careful. I might hold you to that.",
+      "Sanae Furukawa (Anime - Clannad)": "A smile is the best payment in the world!",
+      "Hana (Anime - Wolf Children)": "I smiled through the hard times for them. It was enough."
+    },
+    "personality_types": [
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Manipulative",
+        "origin": "Movie - Labyrinth",
+        "character": "Jareth the Goblin King"
+      },
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Wolf Children",
+        "character": "Hana"
+      }
+    ]
+  },
+  {
+    "text": "I have paid off the entire gross national debt of Japan.",
+    "source": "Mina Tepes - Dance in the Vampire Bund",
+    "category": "Wealth",
+    "tags": [
+      "wealth",
+      "crypto",
+      "power"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "An impressive pile of coin. But debt is a leash; you just bought the master.",
+      "Robert Greene (Real Life / Author)": "Generosity is a power move. You didn't pay a debt; you bought sovereignty.",
+      "Violet Crawley (TV - Downton Abbey)": "Discussing money is vulgar, but possessing that much of it is... undeniable.",
+      "Seneca (Philosophy)": "Great wealth is great slavery. You are now the servant of a nation."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      }
+    ]
+  },
+  {
+    "text": "The terrifying thing is not that you don't know the truth, but that you don't know how much you don't know.",
+    "source": "Mina Tepes - Dance in the Vampire Bund",
+    "category": "Investment",
+    "tags": [
+      "investment",
+      "risk",
+      "crypto"
+    ],
+    "interpretations": {
+      "Robert Greene (Real Life / Author)": "Never assume you see the whole board. The hidden variable kills you.",
+      "Holo (Anime - Spice and Wolf)": "The unseen wolf bites hardest. Caution is the merchant's shield.",
+      "Yukari (Anime - Touhou Project)": "Knowledge has boundaries. I sit on the edge and laugh at what you miss.",
+      "Sherlock Holmes (Literature)": "Data! Data! I cannot make bricks without clay. Ignorance is a capital offense."
+    },
+    "personality_types": [
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Literature",
+        "character": "Sherlock Holmes"
+      }
+    ]
+  },
+  {
+    "text": "To lose is to win, and to win is to lose.",
+    "source": "Yukari Yakumo - Touhou Project",
+    "category": "Business",
+    "tags": [
+      "business",
+      "strategy",
+      "paradox"
+    ],
+    "interpretations": {
+      "Kojiro Sasaki (Anime - Record of Ragnarok)": "I lost a thousand times to win once. The math works out.",
+      "Machiavelli (Philosophy)": "A victory that costs too much is a defeat. A defeat that teaches is a victory.",
+      "Aesop (Fables)": "The dog dropped his meat to grab the reflection. He won the image and lost the meal.",
+      "Jareth the Goblin King (Movie - Labyrinth)": "You won the child, but you lost your dreams. Did you really win, Sarah?"
+    },
+    "personality_types": [
+      {
+        "personality": "Redemptive",
+        "origin": "Anime - Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      },
+      {
+        "personality": "Pragmatic",
+        "origin": "Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      },
+      {
+        "personality": "Manipulative",
+        "origin": "Movie - Labyrinth",
+        "character": "Jareth the Goblin King"
+      }
+    ]
+  },
+  {
+    "text": "I used to always cry and give up... I made many wrong turns... But you... You helped me find the right path.",
+    "source": "Hinata Hyuga - Naruto",
+    "category": "Family Dynamics",
+    "tags": [
+      "family dynamics",
+      "growth",
+      "mentorship"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "We all need a hand to hold when the path gets dark!",
+      "Rem (Anime - Re:Zero)": "My hero showed me the light too. I follow it still.",
+      "Seneca (Philosophy)": "To choose a guide is wisdom. To follow is strength, not weakness.",
+      "Hana (Anime - Wolf Children)": "My children found their own paths. I just cleared the weeds for a while."
+    },
+    "personality_types": [
+      {
+        "personality": "Sanae (Clannad)",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Re:Zero",
+        "character": "Rem"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Devoted",
+        "origin": "Anime - Wolf Children",
+        "character": "Hana"
+      }
+    ]
+  },
+  {
+    "text": "What is offered for free is dangerous.",
+    "source": "Robert Greene - The 48 Laws of Power",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "scams",
+      "investment"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "Free wheat? Check for weevils. Or a trap.",
+      "Jareth the Goblin King (Movie - Labyrinth)": "I offered you a crystal for free. It only cost you your baby brother. A bargain!",
+      "Aesop (Fables)": "The fox praised the crow's voice for free. The crow lost her cheese.",
+      "Mina Tepes (Anime - Dance in the Vampire Bund)": "Nothing is free. I pay in blood or gold. Both leave a stain."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Manipulative",
+        "origin": "Movie - Labyrinth",
+        "character": "Jareth the Goblin King"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      },
+      {
+        "personality": "Sovereign",
+        "origin": "Anime - Dance in the Vampire Bund",
+        "character": "Mina Tepes"
       }
     ]
   }
