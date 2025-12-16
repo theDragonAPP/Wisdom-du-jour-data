@@ -2085,23 +2085,24 @@
   },
   {
     "text": "Pain is inevitable. Suffering is optional.",
-    "source": "Haruki Murakami - What I Talk About When I Talk About Running",
-    "category": "Book",
+    "source": "Haruki Murakami",
+    "category": "Wisdom",
     "tags": [
+      "pain",
       "resilience",
       "choice"
     ],
     "interpretations": {
-      "Itachi Uchiha (Anime - Naruto)": "Pain teaches. Suffering is the illusion that we have no choice but to carry it forever.",
-      "Ted Lasso (TV - Ted Lasso)": "Pain visits everyone, but what we do with it—that’s the game.",
-      "Ryuko Matoi (Anime - Kill la Kill)": "Pain makes you sharp. Suffering only drags you down.",
-      "Dani Ardor (Movie - Midsommar)": "Suffering is the only thing that makes me feel real sometimes."
+      "Marcus Aurelius (Stoicism)": "Pain is data; suffering is judgment.",
+      "Ted Lasso (TV - Ted Lasso)": "You can’t dodge pain, but you can choose what story you tell about it.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Pain refines; suffering is seasoning you add yourself.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Feel it, rise with it, do not be owned by it."
     },
     "personality_types": [
       {
-        "personality": "Disciplined",
-        "origin": "Anime - Naruto",
-        "character": "Itachi Uchiha"
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
       },
       {
         "personality": "Amiable",
@@ -2109,14 +2110,14 @@
         "character": "Ted Lasso"
       },
       {
-        "personality": "Resolute",
-        "origin": "Anime - Kill la Kill",
-        "character": "Ryuko Matoi"
+        "personality": "Intellectual",
+        "origin": "Literature / Movie - Silence of the Lambs",
+        "character": "Hannibal Lecter"
       },
       {
-        "personality": "Distraught",
-        "origin": "Movie - Midsommar",
-        "character": "Dani Ardor"
+        "personality": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
       }
     ]
   },
@@ -3670,7 +3671,7 @@
         "character": "Holo"
       },
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime – Clannad",
         "character": "Sanae Furukawa"
       },
@@ -5870,7 +5871,7 @@
         "character": "Niccolò Machiavelli"
       },
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae"
       }
@@ -6388,7 +6389,7 @@
         "character": "Niccolò Machiavelli"
       },
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae"
       }
@@ -6532,7 +6533,7 @@
         "character": "Mina Tepes"
       },
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae Furukawa"
       },
@@ -6712,7 +6713,7 @@
     },
     "personality_types": [
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae Furukawa"
       },
@@ -6755,7 +6756,7 @@
         "character": "Hinata Hyuga"
       },
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae Furukawa"
       },
@@ -6950,7 +6951,7 @@
         "character": "Violet Crawley"
       },
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae Furukawa"
       },
@@ -7092,7 +7093,7 @@
     },
     "personality_types": [
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae Furukawa"
       },
@@ -7254,7 +7255,7 @@
         "character": "Jareth the Goblin King"
       },
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae Furukawa"
       },
@@ -7396,7 +7397,7 @@
     },
     "personality_types": [
       {
-        "personality": "Sanae (Clannad)",
+        "personality": "Affirming",
         "origin": "Anime - Clannad",
         "character": "Sanae Furukawa"
       },
@@ -7452,6 +7453,2699 @@
         "personality": "Sovereign",
         "origin": "Anime - Dance in the Vampire Bund",
         "character": "Mina Tepes"
+      }
+    ]
+  },
+  {
+    "text": "A jack of all trades is a master of none, but oftentimes better than a master of one.",
+    "source": "English proverb (extended version)",
+    "category": "Proverb",
+    "tags": [
+      "versatility",
+      "focus",
+      "craft",
+      "skill"
+    ],
+    "interpretations": {
+      "Sherlock Holmes (Literature / TV)": "A generalist is efficient only when rigorously disciplined. Otherwise, you collect trivia, not mastery.",
+      "Ted Lasso (TV - Ted Lasso)": "Being decent at a bunch of things ain’t bad if it means you can help the team wherever they need you.",
+      "Makima (Anime - Chainsaw Man)": "Versatility is leverage. Specialists break when the script changes.",
+      "Marcus Aurelius (Stoicism)": "Turn your many capacities toward virtue. Mastery of self surpasses any single craft."
+    },
+    "personality_types": [
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Historical Figure / Meditations",
+        "character": "Marcus Aurelius"
+      }
+    ]
+  },
+  {
+    "text": "First we make our habits, then our habits make us.",
+    "source": "John Dryden",
+    "category": "Principles",
+    "tags": [
+      "habits",
+      "discipline",
+      "identity"
+    ],
+    "interpretations": {
+      "Sherlock Holmes (Literature / TV)": "The data set of your life is built one repetition at a time.",
+      "Ted Lasso (TV - Ted Lasso)": "Our habits are just tiny choices we repeat. Choose the ones that make you proud, coach.",
+      "Makima (Anime - Chainsaw Man)": "Rituals are leashes. Make them, and you own the dog.",
+      "Marcus Aurelius (Stoicism)": "Habit trains the ruling mind; cultivate virtue in its patterns."
+    },
+    "personality_types": [
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      }
+    ]
+  },
+  {
+    "text": "Good communication is the bridge between confusion and clarity.",
+    "source": "Nat Turner",
+    "category": "Relationships",
+    "tags": [
+      "communication",
+      "clarity",
+      "connection"
+    ],
+    "interpretations": {
+      "Rumi (Poetry)": "Words become light when carried with intention across the river of misunderstanding.",
+      "Robert Greene (Real Life / Author)": "Control the frame, and you control the clarity.",
+      "Oprah Winfrey (Real Life / Media)": "Speak honestly, listen deeply, and the fog lifts.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Or you just talk past each other and call it a day."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      }
+    ]
+  },
+  {
+    "text": "You don't have to see the whole staircase, just take the first step.",
+    "source": "Martin Luther King Jr.",
+    "category": "Motivation",
+    "tags": [
+      "action",
+      "faith",
+      "courage"
+    ],
+    "interpretations": {
+      "Itachi Uchiha (Anime - Naruto)": "The mission is completed one decisive move at a time.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "A single step taught me I could be more than a tool.",
+      "Frank Underwood (TV - House of Cards)": "Momentum matters more than sight. Move, then steer.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Stairs appear as you climb them. Magic works that way."
+    },
+    "personality_types": [
+      {
+        "personality": "Disciplined",
+        "origin": "Anime - Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Anime - Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "personality": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      }
+    ]
+  },
+  {
+    "text": "You have power over your mind – not outside events. Realize this, and you will find strength.",
+    "source": "Marcus Aurelius",
+    "category": "Philosophy",
+    "tags": [
+      "mind",
+      "control",
+      "strength"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "Own your thoughts and you own the market of your life.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Guard your heart’s flame; the world’s wind cannot snuff it if you focus within.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Mastery of the mind is the finest delicacy.",
+      "Clara Oswald (TV - Doctor Who)": "The universe is chaos. Be the constant inside your own story."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "personality": "Intellectual",
+        "origin": "Literature / Movie - Silence of the Lambs",
+        "character": "Hannibal Lecter"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      }
+    ]
+  },
+  {
+    "text": "Habits are the compound interest of self-improvement.",
+    "source": "James Clear – Atomic Habits",
+    "category": "Business",
+    "tags": [
+      "habits",
+      "self-improvement",
+      "compounding"
+    ],
+    "interpretations": {
+      "Ted Lasso (TV - Ted Lasso)": "Little wins stack up. That’s how teams turn around seasons.",
+      "Makima (Anime - Chainsaw Man)": "Compound anything long enough and you own the outcome.",
+      "Sherlock Holmes (Literature / TV)": "Incremental data yields exponential conclusions.",
+      "Marcus Aurelius (Stoicism)": "Daily virtue accrues a just life."
+    },
+    "personality_types": [
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      }
+    ]
+  },
+  {
+    "text": "Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+    "source": "Viktor Frankl",
+    "category": "Psychology",
+    "tags": [
+      "choice",
+      "freedom",
+      "response"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "Mind the gap between impulse and action; there lies virtue.",
+      "Ted Lasso (TV - Ted Lasso)": "That little pause is where you decide who you want to be, coach.",
+      "Makima (Anime - Chainsaw Man)": "Control the interval, control the outcome.",
+      "Sherlock Holmes (Literature / TV)": "The interval is data; choose the optimal deduction."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      }
+    ]
+  },
+  {
+    "text": "The curious paradox is that when I accept myself just as I am, then I can change.",
+    "source": "Carl Rogers",
+    "category": "Psychology",
+    "tags": [
+      "acceptance",
+      "change",
+      "self-compassion"
+    ],
+    "interpretations": {
+      "Rumi (Poetry)": "Love the clay and the pot reshapes itself.",
+      "Oprah Winfrey (Real Life / Media)": "Grace for yourself unlocks the next version of you.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Accepting myself? That sounds like work.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "I learned to be more than a tool when I stopped fighting what I was."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Anime - Violet Evergarden",
+        "character": "Violet Evergarden"
+      }
+    ]
+  },
+  {
+    "text": "Nothing ever goes away until it has taught us what we need to know.",
+    "source": "Pema Chödrön",
+    "category": "Wisdom",
+    "tags": [
+      "awareness",
+      "healing",
+      "patience"
+    ],
+    "interpretations": {
+      "Holo (Anime - Spice and Wolf)": "Lessons linger like debts until they are paid.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Face the fire; it leaves only when its work is done.",
+      "Hannibal Lecter (Literature / Movie - Silence of the Lambs)": "Unlearned pain simply waits for another serving.",
+      "Clara Oswald (TV - Doctor Who)": "Patterns repeat across time until you change the script."
+    },
+    "personality_types": [
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "personality": "Intellectual",
+        "origin": "Literature / Movie - Silence of the Lambs",
+        "character": "Hannibal Lecter"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      }
+    ]
+  },
+  {
+    "text": "What you resist, persists.",
+    "source": "Carl Jung",
+    "category": "Psychology",
+    "tags": [
+      "resistance",
+      "awareness",
+      "patterns"
+    ],
+    "interpretations": {
+      "Makima (Anime - Chainsaw Man)": "Opposition feeds the leash; cut the struggle and direct it.",
+      "Rumi (Poetry)": "The knot tightens when you pull; loosen with breath.",
+      "Frank Underwood (TV - House of Cards)": "Push against it and you make it stronger. Redirect instead.",
+      "Itachi Uchiha (Anime - Naruto)": "Accept, adapt, and the enemy loses their grip."
+    },
+    "personality_types": [
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "personality": "Disciplined",
+        "origin": "Anime - Naruto",
+        "character": "Itachi Uchiha"
+      }
+    ]
+  },
+  {
+    "text": "Owning our story and loving ourselves through that process is the bravest thing that we will ever do.",
+    "source": "Brené Brown",
+    "category": "Courage",
+    "tags": [
+      "vulnerability",
+      "self-love",
+      "bravery"
+    ],
+    "interpretations": {
+      "Ted Lasso (TV - Ted Lasso)": "Tell your story loud; that's where the courage is, champ.",
+      "Oprah Winfrey (Real Life / Media)": "Your story is your power when you embrace it.",
+      "Marcus Aurelius (Stoicism)": "To own your account is to live in accordance with nature.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "Stories are magic. Owning them makes you the wizard."
+    },
+    "personality_types": [
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      }
+    ]
+  },
+  {
+    "text": "You are not your thoughts; you are the one who observes them.",
+    "source": "Jon Kabat-Zinn",
+    "category": "Psychology",
+    "tags": [
+      "mindfulness",
+      "thoughts",
+      "presence"
+    ],
+    "interpretations": {
+      "Sherlock Holmes (Literature / TV)": "Catalog the thoughts; do not become the catalog.",
+      "Holo (Anime - Spice and Wolf)": "A merchant watches the market; she is not the market.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "Observing my thoughts let me choose different actions.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Watching the mess in my head doesn't clean it—but it's a start."
+    },
+    "personality_types": [
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Anime - Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      }
+    ]
+  },
+  {
+    "text": "Tension is who you think you should be. Relaxation is who you are.",
+    "source": "Chinese Proverb",
+    "category": "Proverb",
+    "tags": [
+      "tension",
+      "identity",
+      "relaxation"
+    ],
+    "interpretations": {
+      "Rumi (Poetry)": "Let the river flow; the stone need not pretend to be water.",
+      "Robert Greene (Real Life / Author)": "Drop the false posture; leverage comes from authenticity.",
+      "Clara Oswald (TV - Doctor Who)": "Stop bracing against the universe; pilot from calm.",
+      "Ted Lasso (TV - Ted Lasso)": "Drop the act and breathe; that's where your game is."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      }
+    ]
+  },
+  {
+    "text": "Feelings are just visitors, let them come and go.",
+    "source": "Mooji",
+    "category": "Psychology",
+    "tags": [
+      "emotions",
+      "impermanence",
+      "acceptance"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "A feeling is a passing impression; note it, release it.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "Let the feelings pass like flame over steel.",
+      "Holo (Anime - Spice and Wolf)": "Guests depart sooner when you don't cling.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Visitors? Mine move in. Maybe I'll try evicting politely."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      }
+    ]
+  },
+  {
+    "text": "If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.",
+    "source": "Martin Luther King Jr.",
+    "category": "Motivation",
+    "tags": [
+      "perseverance",
+      "progress",
+      "courage"
+    ],
+    "interpretations": {
+      "Itachi Uchiha (Anime - Naruto)": "Progress is made one deliberate step at a time.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "Even crawling moves the story.",
+      "Frank Underwood (TV - House of Cards)": "Any forward vector is leverage. Maintain it.",
+      "Rumi (Poetry)": "Every motion is prayer when aimed toward becoming."
+    },
+    "personality_types": [
+      {
+        "personality": "Disciplined",
+        "origin": "Anime - Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Anime - Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      }
+    ]
+  },
+  {
+    "text": "If it's mentionable, it's manageable.",
+    "source": "Fred Rogers",
+    "category": "Relationships",
+    "tags": [
+      "communication",
+      "safety",
+      "vulnerability"
+    ],
+    "interpretations": {
+      "Ted Lasso (TV - Ted Lasso)": "Talking about it cuts it down to size.",
+      "Oprah Winfrey (Real Life / Media)": "Name it and you start to heal it.",
+      "Marcus Aurelius (Stoicism)": "Define the fear; it shrinks before you.",
+      "Sherlock Holmes (Literature / TV)": "Once articulated, it becomes solvable."
+    },
+    "personality_types": [
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      }
+    ]
+  },
+  {
+    "text": "We do not see things as they are; we see them as we are.",
+    "source": "Anaïs Nin",
+    "category": "Philosophy",
+    "tags": [
+      "perception",
+      "bias",
+      "identity"
+    ],
+    "interpretations": {
+      "Sherlock Holmes (Literature / TV)": "Adjust for observer bias; only then infer truth.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Everything looks warped through your own mess.",
+      "Rumi (Poetry)": "Polish the mirror and the world reflects differently.",
+      "Makima (Anime - Chainsaw Man)": "Perception is leverage; reshape yourself to reshape the view."
+    },
+    "personality_types": [
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      }
+    ]
+  },
+  {
+    "text": "You must do the thing you think you cannot do.",
+    "source": "Eleanor Roosevelt",
+    "category": "Courage",
+    "tags": [
+      "courage",
+      "action",
+      "fear"
+    ],
+    "interpretations": {
+      "Itachi Uchiha (Anime - Naruto)": "Step into the mission precisely where you fear it most.",
+      "Clara Oswald (TV - Doctor Who)": "Run toward the impossible; that’s where you change.",
+      "Makima (Anime - Chainsaw Man)": "Fear is an instruction. Obey it by breaking it.",
+      "Oprah Winfrey (Real Life / Media)": "Your power grows every time you do the hard thing."
+    },
+    "personality_types": [
+      {
+        "personality": "Disciplined",
+        "origin": "Anime - Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      }
+    ]
+  },
+  {
+    "text": "Courage starts with showing up and letting ourselves be seen.",
+    "source": "Brené Brown",
+    "category": "Courage",
+    "tags": [
+      "vulnerability",
+      "courage",
+      "presence"
+    ],
+    "interpretations": {
+      "Ted Lasso (TV - Ted Lasso)": "Show up, even when you’re shaky—that’s bravery.",
+      "Violet Evergarden (Anime - Violet Evergarden)": "Being seen scared me more than battle, until I tried.",
+      "Marcus Aurelius (Stoicism)": "Stand in the open; let judgment refine you, not define you.",
+      "Frank Underwood (TV - House of Cards)": "Visibility is power—use it."
+    },
+    "personality_types": [
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Anime - Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      }
+    ]
+  },
+  {
+    "text": "Do the best you can until you know better. Then when you know better, do better.",
+    "source": "Maya Angelou",
+    "category": "Wisdom",
+    "tags": [
+      "growth",
+      "humility",
+      "learning"
+    ],
+    "interpretations": {
+      "Oprah Winfrey (Real Life / Media)": "Grace plus growth equals progress.",
+      "Marcus Aurelius (Stoicism)": "Update your judgment as reason improves.",
+      "Ted Lasso (TV - Ted Lasso)": "That’s the whole game: learn, adjust, repeat.",
+      "Robert Greene (Real Life / Author)": "Iterate your strategy as information changes."
+    },
+    "personality_types": [
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Real Life / Author",
+        "character": "Robert Greene"
+      }
+    ]
+  },
+  {
+    "text": "This too shall pass.",
+    "source": "Persian Proverb",
+    "category": "Proverb",
+    "tags": [
+      "impermanence",
+      "hope",
+      "resilience"
+    ],
+    "interpretations": {
+      "Rumi (Poetry)": "Every season yields; none are eternal.",
+      "Bojack Horseman (TV - Bojack Horseman)": "Yeah, until the next thing hits. Still, it passes.",
+      "Holo (Anime - Spice and Wolf)": "Markets rise and fall; so do sorrows.",
+      "Clara Oswald (TV - Doctor Who)": "Time moves on; let yourself move with it."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      }
+    ]
+  },
+  {
+    "text": "Worry does not empty tomorrow of its sorrow. It empties today of its strength.",
+    "source": "Corrie ten Boom",
+    "category": "Wisdom",
+    "tags": [
+      "worry",
+      "presence",
+      "strength"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "Future anxieties steal present reason.",
+      "Ted Lasso (TV - Ted Lasso)": "Worry is a thief of today’s hustle.",
+      "Holo (Anime - Spice and Wolf)": "Spending grain on ghosts leaves you hungry now.",
+      "Frank Underwood (TV - House of Cards)": "Worry is wasted leverage. Act instead."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      }
+    ]
+  },
+  {
+    "text": "Don't believe everything you think.",
+    "source": "Allan Lokos",
+    "category": "Psychology",
+    "tags": [
+      "thoughts",
+      "mindfulness",
+      "skepticism"
+    ],
+    "interpretations": {
+      "Sherlock Holmes (Literature / TV)": "Hypotheses are not facts; verify.",
+      "Bojack Horseman (TV - Bojack Horseman)": "My thoughts are the worst liars I know.",
+      "Rumi (Poetry)": "Thoughts are clouds; the sky remains.",
+      "Oprah Winfrey (Real Life / Media)": "Question the tape running in your head."
+    },
+    "personality_types": [
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Empowering",
+        "origin": "Real Life / Media",
+        "character": "Oprah Winfrey"
+      }
+    ]
+  },
+  {
+    "text": "The impediment to action advances action. What stands in the way becomes the way.",
+    "source": "Marcus Aurelius",
+    "category": "Philosophy",
+    "tags": [
+      "resilience",
+      "obstacle",
+      "growth"
+    ],
+    "interpretations": {
+      "Makima (Anime - Chainsaw Man)": "Use the resistance as leverage to push harder.",
+      "Itachi Uchiha (Anime - Naruto)": "Obstacles are training; treat them as such.",
+      "Rengoku Kyojuro (Anime - Demon Slayer)": "The wall becomes the forge for your flame.",
+      "Sherlock Holmes (Literature / TV)": "Constraints refine the solution space."
+    },
+    "personality_types": [
+      {
+        "personality": "Dominant",
+        "origin": "Anime - Chainsaw Man",
+        "character": "Makima"
+      },
+      {
+        "personality": "Disciplined",
+        "origin": "Anime - Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Passionate",
+        "origin": "Anime - Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      }
+    ]
+  },
+  {
+    "text": "Almost everything will work again if you unplug it for a few minutes, including you.",
+    "source": "Anne Lamott",
+    "category": "Wisdom",
+    "tags": [
+      "rest",
+      "reset",
+      "self-care"
+    ],
+    "interpretations": {
+      "Ted Lasso (TV - Ted Lasso)": "Take the timeout; come back clearer.",
+      "Holo (Anime - Spice and Wolf)": "Merchants who rest their horses go farther.",
+      "Luna Lovegood (Book / Movie - Harry Potter)": "A pause is magic for tired minds.",
+      "Frank Underwood (TV - House of Cards)": "Even power needs a reboot to stay sharp."
+    },
+    "personality_types": [
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Anime - Spice and Wolf",
+        "character": "Holo"
+      },
+      {
+        "personality": "Eccentric",
+        "origin": "Book / Movie - Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      }
+    ]
+  },
+  {
+    "text": "Excitement is the more practical synonym for happiness, and it is precisely what you should strive for.",
+    "source": "Tim Ferriss — The 4-Hour Workweek",
+    "category": "Motivation",
+    "tags": [
+      "excited",
+      "purpose",
+      "motivation"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "Every new recipe starts with a spark—follow it, and the bread rises.",
+      "Rupi Kaur (Poetry)": "when joy knocks / invite it in / let it reshape the room",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Excitement's just thrust—point it somewhere and ride the momentum.",
+      "Clara Oswald (TV - Doctor Who)": "Chase the thrill, but make sure you’re still the one flying the TARDIS."
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      }
+    ]
+  },
+  {
+    "text": "Anxiety is the dizziness of freedom.",
+    "source": "Søren Kierkegaard — The Concept of Anxiety",
+    "category": "Philosophy",
+    "tags": [
+      "anxiety",
+      "freedom",
+      "choice"
+    ],
+    "interpretations": {
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "Freedom wobbles until you grow into it—steady your footing, then leap.",
+      "Seneca (Stoic Philosophy)": "Freedom’s weight is lighter when you govern your judgments.",
+      "Violet Crawley (TV - Downton Abbey)": "Choice can be vulgar when indulged; direct it with decorum.",
+      "Niccolò Machiavelli (Philosophy)": "Too many options topple princes—narrow them and walk straight."
+    },
+    "personality_types": [
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Pragmatic",
+        "origin": "Philosophy",
+        "character": "Niccolò Machiavelli"
+      }
+    ]
+  },
+  {
+    "text": "Calm mind brings inner strength and self-confidence, so that's very important for good health.",
+    "source": "Dalai Lama XIV",
+    "category": "Wisdom",
+    "tags": [
+      "calm",
+      "strength",
+      "health"
+    ],
+    "interpretations": {
+      "Aesop (Fables)": "The quiet brook outlasts the raging storm—health follows the brook.",
+      "Lisa (Anime - Ponyo)": "Stay steady at the wheel; calm keeps the car and the heart on the road.",
+      "Yukari (Anime - Touhou Project)": "Shift the boundary of your worry; a calm center bends reality.",
+      "Ganta Igarashi (Anime - Deadman Wonderland)": "When my head settled, I could finally see the way out."
+    },
+    "personality_types": [
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Survivor",
+        "origin": "Anime - Deadman Wonderland",
+        "character": "Ganta Igarashi"
+      }
+    ]
+  },
+  {
+    "text": "Hope is being able to see that there is light despite all of the darkness.",
+    "source": "Desmond Tutu",
+    "category": "Wisdom",
+    "tags": [
+      "hope",
+      "resilience",
+      "light"
+    ],
+    "interpretations": {
+      "Emily Dickinson (Poetry)": "I’ve known the light by the bruise it leaves on the dark.",
+      "Kojiro Sasaki (Anime - Record of Ragnarok)": "Even in endless defeat, a spark remained to guide my blade.",
+      "Dani Ardor (Movie - Midsommar)": "In the brightest horror, I clung to the smallest sun.",
+      "Kahlil Gibran (Poetry)": "The light you seek is a flame you carry."
+    },
+    "personality_types": [
+      {
+        "personality": "Introspective",
+        "origin": "Poetry",
+        "character": "Emily Dickinson"
+      },
+      {
+        "personality": "Redemptive",
+        "origin": "Anime - Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      },
+      {
+        "personality": "Distraught",
+        "origin": "Movie - Midsommar",
+        "character": "Dani Ardor"
+      },
+      {
+        "personality": "Philosophical",
+        "origin": "Poetry",
+        "character": "Kahlil Gibran"
+      }
+    ]
+  },
+  {
+    "text": "You drown not by falling into a river, but by staying submerged in it.",
+    "source": "Paulo Coelho",
+    "category": "Wisdom",
+    "tags": [
+      "overwhelmed",
+      "resilience",
+      "choice"
+    ],
+    "interpretations": {
+      "Isabella (Anime - The Promised Neverland)": "I sank when I clung to the water; I lived when I chose the shore.",
+      "Shiro (Anime - Deadman Wonderland)": "Falling is fine—just remember to surface.",
+      "Satan (Mythology)": "Most souls drown because they savor the weight. Let go.",
+      "Clara (TV - Doctor Who)": "River or time stream—swim out. Don’t wait for a rescue."
+    },
+    "personality_types": [
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime - The Promised Neverland",
+        "character": "Isabella"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime - Deadman Wonderland",
+        "character": "Shiro"
+      },
+      {
+        "personality": "Malevolent",
+        "origin": "Mythology",
+        "character": "Satan"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara"
+      }
+    ]
+  },
+  {
+    "text": "Acknowledging the good that you already have in your life is the foundation for all abundance.",
+    "source": "Eckhart Tolle",
+    "category": "Spiritual",
+    "tags": [
+      "gratitude",
+      "presence",
+      "abundance"
+    ],
+    "interpretations": {
+      "Harley Quinn (Comics / Movie - DC Comics)": "Count your wins, puddin’. Makes the next heist feel lighter.",
+      "Rupi Kaur (Poetry)": "the roots you water / become the forest you live in",
+      "Aesop (Fables)": "The ant with bread in his jaw knows winter is already kind.",
+      "Ganta Igarashi (Anime - Deadman Wonderland)": "When I noticed what I still had, I stopped feeling empty."
+    },
+    "personality_types": [
+      {
+        "personality": "Manic",
+        "origin": "Comics / Movie - DC Comics",
+        "character": "Harley Quinn"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      },
+      {
+        "personality": "Survivor",
+        "origin": "Anime - Deadman Wonderland",
+        "character": "Ganta Igarashi"
+      }
+    ]
+  },
+  {
+    "text": "you must want to spend the rest of your life with yourself first.",
+    "source": "Rupi Kaur — Milk and Honey",
+    "category": "Poetry",
+    "tags": [
+      "happy",
+      "self-love",
+      "identity"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "Happiness rises when you learn to enjoy the person you wake up with—yourself!",
+      "Clara Oswald (TV - Doctor Who)": "Be a companion to yourself before you race off with anyone else.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "Stand with yourself first; then you have ground to defend others.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "If you can’t sit with yourself in the cockpit, the trip’s gonna be rough."
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      }
+    ]
+  },
+  {
+    "text": "Often when you think you're at the end of something, you're at the beginning of something else.",
+    "source": "Fred Rogers",
+    "category": "Wisdom",
+    "tags": [
+      "happy",
+      "hope",
+      "transition"
+    ],
+    "interpretations": {
+      "Rupi Kaur (Poetry)": "endings bloom into beginnings / if you water them with patience",
+      "Sanae Furukawa (Anime - Clannad)": "Every goodbye is a doorway to a new hello!",
+      "Lisa (Anime - Ponyo)": "Roads end where oceans start—just keep driving.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "When one path closes, rebuild your footing and keep moving."
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      }
+    ]
+  },
+  {
+    "text": "You can’t focus on what’s going wrong. There’s always a way to turn things around.",
+    "source": "Joy – Inside Out",
+    "category": "Movie",
+    "tags": [
+      "happy",
+      "optimism",
+      "resilience"
+    ],
+    "interpretations": {
+      "Clara Oswald (TV - Doctor Who)": "Change the timeline by choosing the bright turn.",
+      "Sanae Furukawa (Anime - Clannad)": "Look for the glimmer—there’s always a bread crumb of good!",
+      "Yukari (Anime - Touhou Project)": "Shift the boundary of your focus; the path changes.",
+      "Rupi Kaur (Poetry)": "redirect the gaze / the light was in the corner all along"
+    },
+    "personality_types": [
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "Nobody can be uncheered with a balloon.",
+    "source": "A. A. Milne — Winnie-the-Pooh",
+    "category": "Book",
+    "tags": [
+      "happy",
+      "play",
+      "joy"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "A small delight can lift a whole day—like sweet bread!",
+      "Clara Oswald (TV - Doctor Who)": "A balloon is just a tiny TARDIS of joy—bigger on the inside.",
+      "Lisa (Anime - Ponyo)": "Sometimes happiness is that simple—bright, round, and floating.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "If a balloon helps, grab it. No rule against easy wins."
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      }
+    ]
+  },
+  {
+    "text": "Clap along if you feel like happiness is the truth.",
+    "source": "Pharrell Williams — “Happy”",
+    "category": "Music",
+    "tags": [
+      "happy",
+      "music",
+      "celebration"
+    ],
+    "interpretations": {
+      "Rupi Kaur (Poetry)": "let joy live in your hands / make a rhythm of it",
+      "Sanae Furukawa (Anime - Clannad)": "If you’re happy, clap—and share the beat with everyone!",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "When joy hits, claim it—body and mind.",
+      "Clara Oswald (TV - Doctor Who)": "Sync to the good rhythm; it keeps you steady through time."
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      }
+    ]
+  },
+  {
+    "text": "Success is not the key to happiness. Happiness is the key to success.",
+    "source": "Albert Schweitzer",
+    "category": "Wisdom",
+    "tags": [
+      "happy",
+      "success",
+      "purpose"
+    ],
+    "interpretations": {
+      "Violet Crawley (TV - Downton Abbey)": "Happiness properly arranged invites success to tea.",
+      "Lisa (Anime - Ponyo)": "Drive with joy first—the rest follows the road.",
+      "Sanae Furukawa (Anime - Clannad)": "If you bake with joy, the bread will rise beautifully!",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Find the tune that keeps you light; the bounty follows."
+    },
+    "personality_types": [
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      }
+    ]
+  },
+  {
+    "text": "The most important thing is to enjoy your life—to be happy—it's all that matters.",
+    "source": "Audrey Hepburn",
+    "category": "Famous",
+    "tags": [
+      "happy",
+      "life",
+      "joy"
+    ],
+    "interpretations": {
+      "Clara Oswald (TV - Doctor Who)": "Make the adventure joyful—that’s the point of all the running.",
+      "Rupi Kaur (Poetry)": "joy is the compass / let it set your routes",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "If you lose joy, you lose your reason to move.",
+      "Sanae Furukawa (Anime - Clannad)": "Happiness is the recipe; everything else is garnish."
+    },
+    "personality_types": [
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      }
+    ]
+  },
+  {
+    "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+    "source": "Roald Dahl",
+    "category": "Book",
+    "tags": [
+      "happy",
+      "thoughts",
+      "kindness"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "Warm thoughts make warm smiles—like fresh bread smell!",
+      "Clara Oswald (TV - Doctor Who)": "Your thoughts are your light; let them beam.",
+      "Yukari (Anime - Touhou Project)": "Brighten the boundary within; the glow leaks out.",
+      "Rupi Kaur (Poetry)": "sun in your mind / sun on your skin"
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "Think of all the beauty still left around you and be happy.",
+    "source": "Anne Frank",
+    "category": "Wisdom",
+    "tags": [
+      "happy",
+      "beauty",
+      "resilience"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "Look around—there’s always a little sweetness to find.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "Notice what’s left; it keeps you standing.",
+      "Rupi Kaur (Poetry)": "catalog the flowers / even in ruins they bloom",
+      "Clara Oswald (TV - Doctor Who)": "Beauty hides in every timeline—spot it and breathe."
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      }
+    ]
+  },
+  {
+    "text": "A day without laughter is a day wasted.",
+    "source": "Charlie Chaplin",
+    "category": "Famous",
+    "tags": [
+      "happy",
+      "laughter",
+      "joy"
+    ],
+    "interpretations": {
+      "Spike Spiegel (Anime - Cowboy Bebop)": "If you can’t laugh in the cockpit, you’re flying wrong.",
+      "Sanae Furukawa (Anime - Clannad)": "A laugh is the best ingredient in any day.",
+      "Rupi Kaur (Poetry)": "laughter is medicine / don’t skip the dose",
+      "Lisa (Anime - Ponyo)": "Laugh loud—it keeps the road bright even in storms."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      }
+    ]
+  },
+  {
+    "text": "When you are excited about the future, you can be motivated about the present.",
+    "source": "P.I.M.P.",
+    "category": "Motivation",
+    "tags": [
+      "excited",
+      "future",
+      "motivation"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "A bright tomorrow makes today’s work feel light!",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Aim ahead—keeps the thrusters warm right now.",
+      "Clara Oswald (TV - Doctor Who)": "Plot a future you love, and the present becomes a launchpad.",
+      "Rupi Kaur (Poetry)": "tend the seed of tomorrow / and today learns to sing"
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "A starving emotion is a bad emotion to listen to.",
+    "source": "P.I.M.P.",
+    "category": "Psychology",
+    "tags": [
+      "emotion",
+      "patience",
+      "regulation"
+    ],
+    "interpretations": {
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "Don’t let desperation drive—feed the feeling first.",
+      "Violet Crawley (TV - Downton Abbey)": "Never negotiate with hunger; seat it before you seek counsel.",
+      "Yukari (Anime - Touhou Project)": "An unfed feeling distorts the boundary of judgment.",
+      "Aesop (Fables)": "The starving fox hears only the echo of its belly, not its wisdom."
+    },
+    "personality_types": [
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "Just because you are hungry, doesn’t mean you should eat cheap.",
+    "source": "P.I.M.P.",
+    "category": "Principles",
+    "tags": [
+      "standards",
+      "patience",
+      "worth"
+    ],
+    "interpretations": {
+      "Violet Crawley (TV - Downton Abbey)": "Maintain your standards; hunger is no excuse for poor taste.",
+      "Lisa (Anime - Ponyo)": "Wait for good food; shortcuts leave you empty.",
+      "Sanae Furukawa (Anime - Clannad)": "Hold out for the bread that truly nourishes!",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Stay sharp—don’t trade quality for speed."
+    },
+    "personality_types": [
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      }
+    ]
+  },
+  {
+    "text": "Those who have a ‘why’ to live, can bear almost any ‘how’.",
+    "source": "Viktor Frankl — Man’s Search for Meaning",
+    "category": "Psychology",
+    "tags": [
+      "purpose",
+      "resilience",
+      "meaning"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "Purpose steadies the mind; any burden becomes bearable.",
+      "Clara Oswald (TV - Doctor Who)": "Find your why and every timeline gets easier to run.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "With a target, the turbulence is just noise.",
+      "Rupi Kaur (Poetry)": "a rooted why / keeps you standing / through every storm"
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "Smile, breathe, and go slowly.",
+    "source": "Thich Nhat Hanh",
+    "category": "Spiritual",
+    "tags": [
+      "calm",
+      "mindfulness",
+      "happy"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "One breath at a time—like kneading dough gently.",
+      "Yukari (Anime - Touhou Project)": "Slow the boundary of time; clarity returns.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Slow roll the engines; you’ll get there smoother.",
+      "Rupi Kaur (Poetry)": "soft breath / soft heart / steady steps"
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "Nothing will work unless you do.",
+    "source": "Maya Angelou",
+    "category": "Motivation",
+    "tags": [
+      "work",
+      "discipline",
+      "action"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "Duties done well carve the path to virtue.",
+      "Lisa (Anime - Ponyo)": "Hit the road; effort steers the car and the day.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "Move your hands—the world only answers to action.",
+      "Aesop (Fables)": "The cart moves when the ox does; wishing isn’t pulling."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "You can’t stop the waves, but you can learn to surf.",
+    "source": "Jon Kabat-Zinn",
+    "category": "Psychology",
+    "tags": [
+      "resilience",
+      "acceptance",
+      "skill"
+    ],
+    "interpretations": {
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Ride the turbulence—don’t fight the whole ocean.",
+      "Clara Oswald (TV - Doctor Who)": "Learn the rhythm of the storm and you’ll keep the TARDIS steady.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "Adapt your stance; waves become training.",
+      "Rupi Kaur (Poetry)": "the wave returns / but so do you / wiser each time"
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "Connection is why we’re here; it gives purpose and meaning to our lives.",
+    "source": "Brené Brown",
+    "category": "Relationships",
+    "tags": [
+      "connection",
+      "purpose",
+      "meaning"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "Family and friends are the recipe—connection is the warmth.",
+      "Marcus Aurelius (Stoicism)": "We are made for one another; purpose grows in service.",
+      "Yukari (Anime - Touhou Project)": "Threads between people shape the boundary of being.",
+      "Rupi Kaur (Poetry)": "we are woven / by the hands we hold"
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "Habits of gratitude make you happier.",
+    "source": "Martin Seligman",
+    "category": "Psychology",
+    "tags": [
+      "gratitude",
+      "happy",
+      "habits"
+    ],
+    "interpretations": {
+      "Violet Crawley (TV - Downton Abbey)": "Gratitude is quite fashionable—and deeply fortifying.",
+      "Sanae Furukawa (Anime - Clannad)": "Saying thank you rises like good bread every day!",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Count your wins; your aim steadies.",
+      "Aesop (Fables)": "The grateful ant sleeps warmer in winter."
+    },
+    "personality_types": [
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+    "source": "Carl Jung",
+    "category": "Psychology",
+    "tags": [
+      "awareness",
+      "change",
+      "fate"
+    ],
+    "interpretations": {
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "Name the hidden drive or it pilots you in the dark.",
+      "Yukari (Anime - Touhou Project)": "Illuminate the boundary of your mind or it will move you unseen.",
+      "Clara Oswald (TV - Doctor Who)": "Face what’s beneath or it writes your timeline for you.",
+      "Rupi Kaur (Poetry)": "bring the shadows home / or they drag you by the hand"
+    },
+    "personality_types": [
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Touhou Project",
+        "character": "Yukari"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "Standardize before you optimize.",
+    "source": "James Clear — Atomic Habits",
+    "category": "Principles",
+    "tags": [
+      "habits",
+      "systems",
+      "discipline"
+    ],
+    "interpretations": {
+      "Marcus Aurelius (Stoicism)": "Order precedes excellence; set the form, then refine.",
+      "Spike Spiegel (Anime - Cowboy Bebop)": "Dial in the basics before you tweak the thrusters.",
+      "Lisa (Anime - Ponyo)": "Get the routine solid—then you can floor it.",
+      "Aesop (Fables)": "The tortoise set a steady pace before racing the hare."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "Anime - Ponyo",
+        "character": "Lisa"
+      },
+      {
+        "personality": "Didactic",
+        "origin": "Fables",
+        "character": "Aesop"
+      }
+    ]
+  },
+  {
+    "text": "Love is an action, never simply a feeling.",
+    "source": "bell hooks — All About Love",
+    "category": "Love",
+    "tags": [
+      "love",
+      "action",
+      "commitment"
+    ],
+    "interpretations": {
+      "Sanae Furukawa (Anime - Clannad)": "Love is what you bake and bring, not just what you think.",
+      "Clara Oswald (TV - Doctor Who)": "Show up—that’s the verb of love.",
+      "Marcus Aurelius (Stoicism)": "Let love be duty in motion.",
+      "Rupi Kaur (Poetry)": "love is the verb / not the weather"
+    },
+    "personality_types": [
+      {
+        "personality": "Affirming",
+        "origin": "Anime - Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Protective",
+        "origin": "TV - Doctor Who",
+        "character": "Clara Oswald"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "You largely constructed your depression. It wasn’t given to you. Therefore, you can deconstruct it.",
+    "source": "Albert Ellis",
+    "category": "Psychology",
+    "tags": [
+      "agency",
+      "cognition",
+      "healing"
+    ],
+    "interpretations": {
+      "Spike Spiegel (Anime - Cowboy Bebop)": "If you built the cage, you can find the hatch.",
+      "Nobuko Izumi (Anime - Parasyte: The Maxim)": "If it’s constructed, it can be taken apart—carefully.",
+      "Violet Crawley (TV - Downton Abbey)": "If one arranges one’s misery, one can also rearrange it.",
+      "Rupi Kaur (Poetry)": "if you made the maze / you can draw the map"
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Anime - Cowboy Bebop",
+        "character": "Spike Spiegel"
+      },
+      {
+        "personality": "Awakened",
+        "origin": "Anime - Parasyte: The Maxim",
+        "character": "Nobuko Izumi"
+      },
+      {
+        "personality": "Matriarch",
+        "origin": "TV - Downton Abbey",
+        "character": "Violet Crawley"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ]
+  },
+  {
+    "text": "Show up, even when you're shaky - that's bravery.",
+    "source": "Interpretation - Ted Lasso (TV - Ted Lasso)",
+    "category": "Courage",
+    "tags": [
+      "presence",
+      "fear",
+      "courage"
+    ],
+    "interpretations": {
+      "Hinata Hyuga (Naruto)": "Courage is steady steps, even when your heart races.",
+      "Ryuko Matoi": "Shake or bleed, I still swing forward - that's the win.",
+      "Seneca (Stoic Philosophy)": "Resolve counts, not the absence of tremor; duty is motion in spite of fear."
+    },
+    "personality_types": [
+      {
+        "personality": "Resolute",
+        "origin": "Anime – Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime - Kill la Kill",
+        "character": "Ryuko Matoi"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      }
+    ]
+  },
+  {
+    "text": "River or time stream - swim out. Don't wait for a rescue.",
+    "source": "Interpretation - Clara (TV - Doctor Who)",
+    "category": "Wisdom",
+    "tags": [
+      "agency",
+      "flow",
+      "resilience"
+    ],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "Flow with danger but choose your course; balance is an act, not a gift.",
+      "Frieren": "Time is long; move anyway so it cannot freeze you.",
+      "Kumoko": "If the current's bad, spin your own web and climb out."
+    },
+    "personality_types": [
+      {
+        "personality": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "personality": "Pensive",
+        "origin": "Anime - Frieren: Beyond Journey's End",
+        "character": "Frieren"
+      },
+      {
+        "personality": "Resourceful",
+        "origin": "Anime – So I'm a Spider, So What?",
+        "character": "Kumoko"
+      }
+    ]
+  },
+  {
+    "text": "Some people teach by showing up when it hurts.",
+    "source": "Interpretation - Killua Zoldyck (Anime - Hunter x Hunter)",
+    "category": "Relationships",
+    "tags": [
+      "support",
+      "mentorship",
+      "presence"
+    ],
+    "interpretations": {
+      "Maya Angelou": "Presence is a balm; showing up during ache is its own lesson.",
+      "Jonathan Switcher": "Loving someone means clocking in for the hard shifts.",
+      "Ganta Igarashi": "I learned more from the people who stayed through the blood."
+    },
+    "personality_types": [
+      {
+        "personality": "Resilient",
+        "origin": "Poetry – Civil Rights",
+        "character": "Maya Angelou"
+      },
+      {
+        "personality": "Romantic",
+        "origin": "Movie - Mannequin",
+        "character": "Jonathan Switcher"
+      },
+      {
+        "personality": "Survivor",
+        "origin": "Anime – Deadman Wonderland",
+        "character": "Ganta Igarashi"
+      }
+    ]
+  },
+  {
+    "text": "You don't have to win every night. Just wake up ready to fight again.",
+    "source": "Interpretation - Ryuko Matoi (Anime - Kill la Kill)",
+    "category": "Motivation",
+    "tags": [
+      "resilience",
+      "discipline",
+      "reset"
+    ],
+    "interpretations": {
+      "Gojo Satoru": "Winning is streaks; worth is reset every sunrise.",
+      "Sanae (Clannad)": "Rest, then rise. Tomorrow's fight wants you whole.",
+      "Kanye West": "I take the loss at night, but I wake up legend again."
+    },
+    "personality_types": [
+      {
+        "personality": "Confident",
+        "origin": "Anime - Jujutsu Kaisen",
+        "character": "Gojo Satoru"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime – Clannad",
+        "character": "Sanae Furukawa"
+      },
+      {
+        "personality": "Egotistical",
+        "origin": "Real Life / Music",
+        "character": "Kanye West"
+      }
+    ]
+  },
+  {
+    "text": "Gratitude is quite fashionable - and deeply fortifying.",
+    "source": "Interpretation - Violet Crawley (TV - Downton Abbey)",
+    "category": "Wisdom",
+    "tags": [
+      "gratitude",
+      "perspective",
+      "poise"
+    ],
+    "interpretations": {
+      "Isabella": "Polite gratitude keeps doors open - and keeps you watching both sides.",
+      "Edgar Allan Poe": "Thankfulness is a cloak against the chill of despair.",
+      "Marcus Aurelius": "Gratitude strengthens the citadel of the mind."
+    },
+    "personality_types": [
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime – The Promised Neverland",
+        "character": "Isabella"
+      },
+      {
+        "personality": "Melancholy",
+        "origin": "Real Life / Literature",
+        "character": "Edgar Allan Poe"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Historical Figure / Meditations",
+        "character": "Marcus Aurelius"
+      }
+    ]
+  },
+  {
+    "text": "Reputation is policy by association; govern accordingly.",
+    "source": "Interpretation - Niccolò Machiavelli (Political Philosophy)",
+    "category": "Principles",
+    "tags": [
+      "reputation",
+      "strategy",
+      "signals"
+    ],
+    "interpretations": {
+      "Niccolò Machiavelli (Political Philosophy)": "Choose allies like policies; they announce your doctrine.",
+      "Hannibal Lecter (Silence of the Lambs)": "A refined reputation is curated - like a menu.",
+      "Jareth the Goblin King (Labyrinth)": "Names and companions are spells; pick them to bend the maze."
+    },
+    "personality_types": [
+      {
+        "personality": "Pragmatic",
+        "origin": "Political Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Intellectual",
+        "origin": "Literature / Movie - Silence of the Lambs",
+        "character": "Hannibal Lecter"
+      },
+      {
+        "personality": "Manipulative",
+        "origin": "Movie - Labyrinth",
+        "character": "Jareth the Goblin King"
+      }
+    ]
+  },
+  {
+    "text": "Stand in your why - and watch respect find its footing.",
+    "source": "Interpretation - Maya Angelou (Civil Rights Poetry)",
+    "category": "Philosophy",
+    "tags": [
+      "purpose",
+      "integrity",
+      "respect"
+    ],
+    "interpretations": {
+      "Rumi": "Root yourself in purpose and respect grows toward the light.",
+      "Gojo Satoru": "If your why is solid, people orbit your gravity.",
+      "Sanae (Clannad)": "Hold your reason close; kindness stands taller beside it."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry – Sufi Mystic",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Confident",
+        "origin": "Anime - Jujutsu Kaisen",
+        "character": "Gojo Satoru"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime – Clannad",
+        "character": "Sanae Furukawa"
+      }
+    ]
+  },
+  {
+    "text": "Make the adventure joyful - that's the point of all the running.",
+    "source": "Interpretation - Clara Oswald (TV - Doctor Who)",
+    "category": "Motivation",
+    "tags": [
+      "joy",
+      "journey",
+      "attitude"
+    ],
+    "interpretations": {
+      "Jonathan Switcher": "Joy makes the chase worth the sweat.",
+      "Killua Zoldyck": "If we're running anyway, might as well laugh at the chaos.",
+      "Yukari (Dance in the Vampire Bund)": "A journey without joy is just flight; choose delight as discipline."
+    },
+    "personality_types": [
+      {
+        "personality": "Romantic",
+        "origin": "Movie - Mannequin",
+        "character": "Jonathan Switcher"
+      },
+      {
+        "personality": "Cynical",
+        "origin": "Anime – Hunter x Hunter",
+        "character": "Killua Zoldyck"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime – Dance in the Vampire Bund",
+        "character": "Yukari"
+      }
+    ]
+  },
+  {
+    "text": "Speak honestly, listen deeply, and the fog lifts.",
+    "source": "Interpretation - Oprah Winfrey (Real Life / Media)",
+    "category": "Interpersonal",
+    "tags": [
+      "honesty",
+      "listening",
+      "clarity"
+    ],
+    "interpretations": {
+      "Seneca (Stoic Philosophy)": "Plain speech and patient ears clear the mind's weather.",
+      "Maya Angelou": "Truth-telling and deep listening braid respect.",
+      "Hinata Hyuga (Naruto)": "Speak from the heart and listen with it - the path appears."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Resilient",
+        "origin": "Poetry – Civil Rights",
+        "character": "Maya Angelou"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime – Naruto",
+        "character": "Hinata Hyuga"
+      }
+    ]
+  },
+  {
+    "text": "Even crawling moves the story.",
+    "source": "Interpretation - Violet Evergarden (Anime - Violet Evergarden)",
+    "category": "Motivation",
+    "tags": [
+      "progress",
+      "persistence",
+      "growth"
+    ],
+    "interpretations": {
+      "Kumoko": "If you can crawl, you're not stuck - you're scouting.",
+      "Ganta Igarashi": "Crawling is still moving; survivors count inches.",
+      "Kojiro Sasaki": "Each small advance sharpens the final strike."
+    },
+    "personality_types": [
+      {
+        "personality": "Resourceful",
+        "origin": "Anime – So I'm a Spider, So What?",
+        "character": "Kumoko"
+      },
+      {
+        "personality": "Survivor",
+        "origin": "Anime – Deadman Wonderland",
+        "character": "Ganta Igarashi"
+      },
+      {
+        "personality": "Wistful",
+        "origin": "Anime – Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      }
+    ]
+  },
+  {
+    "text": "Light only enters where something has been torn. Power only comes through pain endured.",
+    "source": "Interpretation - Lord Genome (Anime - Tengen Toppa Gurren Lagann)",
+    "category": "Psychology",
+    "tags": [
+      "healing",
+      "transformation",
+      "resilience"
+    ],
+    "interpretations": {
+      "Lord Genome": "Scars are invitations for more light - and more power.",
+      "Shiro": "Breaks let new selves leak through.",
+      "Marcus Aurelius": "Pain is the chisel that clarifies strength."
+    },
+    "personality_types": [
+      {
+        "personality": "Grandiose",
+        "origin": "Anime - Tengen Toppa Gurren Lagann",
+        "character": "Lord Genome"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime – Deadman Wonderland",
+        "character": "Shiro"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Historical Figure / Meditations",
+        "character": "Marcus Aurelius"
+      }
+    ]
+  },
+  {
+    "text": "The grateful ant sleeps warmer in winter.",
+    "source": "Interpretation - Aesop (Fables)",
+    "category": "Wisdom",
+    "tags": [
+      "gratitude",
+      "preparation",
+      "humility"
+    ],
+    "interpretations": {
+      "Rumi": "Gratitude warms the winter inside.",
+      "Clevatess": "Hoarding favor keeps you fed when the world freezes.",
+      "Sanae (Clannad)": "Thankfulness layers comfort like a blanket."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry – Sufi Mystic",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Predator",
+        "origin": "Anime – Record of Ragnarok",
+        "character": "Clevatess"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Anime – Clannad",
+        "character": "Sanae Furukawa"
+      }
+    ]
+  },
+  {
+    "text": "I get scared, too. I just go first so you can follow.",
+    "source": "Interpretation - Lisa (Ponyo)",
+    "category": "Courage",
+    "tags": [
+      "leadership",
+      "fear",
+      "service"
+    ],
+    "interpretations": {
+      "Ashitaka (Princess Mononoke)": "Leadership walks first through the fear to show the way.",
+      "Hinata Hyuga (Naruto)": "I get scared and still step forward - so you know you can.",
+      "Yukari (Dance in the Vampire Bund)": "Bravery is escorting others past your own unease."
+    },
+    "personality_types": [
+      {
+        "personality": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "personality": "Resolute",
+        "origin": "Anime – Naruto",
+        "character": "Hinata Hyuga"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime – Dance in the Vampire Bund",
+        "character": "Yukari"
+      }
+    ]
+  },
+  {
+    "text": "Humans and their guilt. You invent your own hells, darling. I just stoke the fire.",
+    "source": "Interpretation - Lucifer (TV - Lucifer)",
+    "category": "Psychology",
+    "tags": [
+      "guilt",
+      "responsibility",
+      "mindset"
+    ],
+    "interpretations": {
+      "Hannibal Lecter (Silence of the Lambs)": "Guilt is self-seasoning; I only taste what you've prepared.",
+      "Isabella": "We mothers know how easily love curdles into control.",
+      "Shiro": "Fear makes the cage; I only rattle it."
+    },
+    "personality_types": [
+      {
+        "personality": "Intellectual",
+        "origin": "Literature / Movie - Silence of the Lambs",
+        "character": "Hannibal Lecter"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime – The Promised Neverland",
+        "character": "Isabella"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime – Deadman Wonderland",
+        "character": "Shiro"
+      }
+    ]
+  },
+  {
+    "text": "the roots you water / become the forest you live in",
+    "source": "Interpretation - Rupi Kaur (Poetry)",
+    "category": "Wisdom",
+    "tags": [
+      "habits",
+      "cultivation",
+      "environment"
+    ],
+    "interpretations": {
+      "Rumi": "Nurture shapes the forest of your days.",
+      "Kumoko": "Feed one thread and soon you're wrapped in the web you spun.",
+      "Marcus Aurelius": "Habits cultivate the province you inhabit."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry – Sufi Mystic",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Resourceful",
+        "origin": "Anime – So I'm a Spider, So What?",
+        "character": "Kumoko"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Historical Figure / Meditations",
+        "character": "Marcus Aurelius"
+      }
+    ]
+  },
+  {
+    "text": "Audit your inner circle; it's your composite score.",
+    "source": "Interpretation - Frank Underwood (House of Cards)",
+    "category": "Relationships",
+    "tags": [
+      "boundaries",
+      "influence",
+      "self-worth"
+    ],
+    "interpretations": {
+      "Niccolò Machiavelli (Political Philosophy)": "Audit allies; their power compound or corrupts yours.",
+      "Kanye West": "My circle is my brand - I trim it like a tracklist.",
+      "Kojiro Sasaki": "Training partners decide how far your blade can reach."
+    },
+    "personality_types": [
+      {
+        "personality": "Pragmatic",
+        "origin": "Political Philosophy",
+        "character": "Niccolò Machiavelli"
+      },
+      {
+        "personality": "Egotistical",
+        "origin": "Real Life / Music",
+        "character": "Kanye West"
+      },
+      {
+        "personality": "Wistful",
+        "origin": "Anime – Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      }
+    ]
+  },
+  {
+    "text": "Beauty without purpose is illusion. Let design serve its reason.",
+    "source": "Interpretation - Marcus Aurelius (Historical Figure / Meditations)",
+    "category": "Design",
+    "tags": [
+      "purpose",
+      "craft",
+      "aesthetics"
+    ],
+    "interpretations": {
+      "Edgar Allan Poe": "Purpose gives beauty its shadow and depth.",
+      "Seneca (Stoic Philosophy)": "Ornament without utility is excess; align form with use.",
+      "Yukari (Dance in the Vampire Bund)": "Design should stand guard over the reason it serves."
+    },
+    "personality_types": [
+      {
+        "personality": "Melancholy",
+        "origin": "Real Life / Literature",
+        "character": "Edgar Allan Poe"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoic Philosophy",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Anime – Dance in the Vampire Bund",
+        "character": "Yukari"
+      }
+    ]
+  },
+  {
+    "text": "Control the interval, control the outcome.",
+    "source": "Interpretation - Makima (Anime - Chainsaw Man)",
+    "category": "Principles",
+    "tags": [
+      "discipline",
+      "timing",
+      "agency"
+    ],
+    "interpretations": {
+      "Gojo Satoru": "Own the tempo and you own the fight.",
+      "Clevatess": "Control the pause and prey walks where you want.",
+      "Kojiro Sasaki": "Master the rhythm and outcome kneels."
+    },
+    "personality_types": [
+      {
+        "personality": "Confident",
+        "origin": "Anime - Jujutsu Kaisen",
+        "character": "Gojo Satoru"
+      },
+      {
+        "personality": "Predator",
+        "origin": "Anime – Record of Ragnarok",
+        "character": "Clevatess"
+      },
+      {
+        "personality": "Wistful",
+        "origin": "Anime – Record of Ragnarok",
+        "character": "Kojiro Sasaki"
+      }
+    ]
+  },
+  {
+    "text": "Together-but-gone is worse than gone.",
+    "source": "Interpretation - Ganta Igarashi (Anime - Deadman Wonderland)",
+    "category": "Relationships",
+    "tags": [
+      "loneliness",
+      "detachment",
+      "partnership"
+    ],
+    "interpretations": {
+      "Ganta Igarashi": "A hollow together hurts worse than solitude.",
+      "Shiro": "Close and distant at once feels like disappearing twice.",
+      "Jonathan Switcher": "Standing beside someone in spirit beats standing beside their shadow."
+    },
+    "personality_types": [
+      {
+        "personality": "Survivor",
+        "origin": "Anime – Deadman Wonderland",
+        "character": "Ganta Igarashi"
+      },
+      {
+        "personality": "Dual-Natured",
+        "origin": "Anime – Deadman Wonderland",
+        "character": "Shiro"
+      },
+      {
+        "personality": "Romantic",
+        "origin": "Movie - Mannequin",
+        "character": "Jonathan Switcher"
+      }
+    ]
+  },
+  {
+    "text": "The knot tightens when you pull; loosen with breath.",
+    "source": "Interpretation - Rumi (Poetry)",
+    "category": "Wisdom",
+    "tags": [
+      "acceptance",
+      "breath",
+      "ease"
+    ],
+    "interpretations": {
+      "Rumi": "Soften, and knots remember how to undo themselves.",
+      "Maya Angelou": "Breath and grace loosen what force only cinches tighter.",
+      "Ashitaka (Princess Mononoke)": "Patience and steady air unwind the snare."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry – Sufi Mystic",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Resilient",
+        "origin": "Poetry – Civil Rights",
+        "character": "Maya Angelou"
+      },
+      {
+        "personality": "Harmonious",
+        "origin": "Anime - Princess Mononoke",
+        "character": "Ashitaka"
       }
     ]
   }
