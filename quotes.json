@@ -1,5 +1,565 @@
 [
   {
+    "text": "The ego is not master in its own house.",
+    "source": "Sigmund Freud – Civilization and Its Discontents",
+    "category": "Ego",
+    "tags": ["ego", "self-awareness", "inner referee"],
+    "interpretations": {
+      "Marcus Aurelius": "I know the ego sits in the crowd but it isn’t the general; keep asking for the commands from the senate of wisdom.",
+      "Gendo Ikari": "Even the commander’s plan bends when the pilot’s ego thinks it knows better.",
+      "Nora Helmer": "When I let the ego rearrange our home, every fix feels temporary.",
+      "Sherlock Holmes": "Observe the ego as a witness would; treat its claims as clues, not confessions."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Meditations",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Neon Genesis Evangelion",
+        "character": "Gendo Ikari"
+      },
+      {
+        "personality": "Rebellious",
+        "origin": "A Doll's House",
+        "character": "Nora Helmer"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Literature / Detective Fiction",
+        "character": "Sherlock Holmes"
+      }
+    ],
+    "question": "When the ego crowds the room, what other voice will you invite to remind it that the house has more than one master?",
+    "therapy_type": "Psychodynamic reflection",
+    "question_voice": "Sigmund Freud",
+    "likes": 134,
+    "favorites": 68,
+    "shares": 29
+  },
+  {
+    "text": "No man is free who is not master of himself.",
+    "source": "Epictetus – Discourses",
+    "category": "Freedom",
+    "tags": ["freedom", "self-mastery", "agency"],
+    "interpretations": {
+      "Korra": "I found freedom when my choices were about calm, not about control of others.",
+      "Itachi Uchiha": "I sealed my ego so the blade wouldn’t swing without reason.",
+      "King T'Challa": "A throne that depends on dominance is a cage; the real crown is discipline.",
+      "Master Oogway": "Yesterday is history, tomorrow is mystery, so master yourself in this moment."
+    },
+    "personality_types": [
+      {
+        "personality": "Determined",
+        "origin": "TV - The Legend of Korra",
+        "character": "Korra"
+      },
+      {
+        "personality": "Disciplined",
+        "origin": "Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Regal",
+        "origin": "Marvel / Black Panther",
+        "character": "King T'Challa"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Kung Fu Panda",
+        "character": "Master Oogway"
+      }
+    ],
+    "question": "Which impulse will you master today so it stops running you and starts serving your values instead?",
+    "therapy_type": "Stoic reframing",
+    "question_voice": "Epictetus",
+    "likes": 193,
+    "favorites": 154,
+    "shares": 112
+  },
+  {
+    "text": "Before you embark on a journey of revenge, dig two graves.",
+    "source": "Confucius – Analects",
+    "category": "Revenge",
+    "tags": ["revenge", "consequence", "restoration"],
+    "interpretations": {
+      "Tyrion Lannister": "I prefer to pay debts with cunning, not with coffins.",
+      "Yoda": "Revenge, the dark path is. Two graves you will dig.",
+      "Jon Snow": "When you chase revenge you lose the warmth of home twice.",
+      "Itachi Uchiha": "I turned away from vengeance because each kill cost me a piece of myself."
+    },
+    "personality_types": [
+      {
+        "personality": "Strategic",
+        "origin": "Game of Thrones",
+        "character": "Tyrion Lannister"
+      },
+      {
+        "personality": "Enigmatic",
+        "origin": "Star Wars",
+        "character": "Yoda"
+      },
+      {
+        "personality": "Honor-bound",
+        "origin": "Game of Thrones",
+        "character": "Jon Snow"
+      },
+      {
+        "personality": "Sacrificial",
+        "origin": "Naruto",
+        "character": "Itachi Uchiha"
+      }
+    ],
+    "question": "If revenge asks you to dig two graves, how can you choose one act of healing instead?",
+    "therapy_type": "Narrative reframing",
+    "question_voice": "Tyrion Lannister",
+    "likes": 287,
+    "favorites": 141,
+    "shares": 189
+  },
+  {
+    "text": "He who conquers others is strong; he who conquers himself is mighty.",
+    "source": "Lao Tzu \u2013 Tao Te Ching",
+    "category": "Ego",
+    "tags": [
+      "ego",
+      "self-mastery",
+      "strength"
+    ],
+    "interpretations": {
+      "Ashitaka": "Conquering yourself steadies the fire so you can lead without burning others.",
+      "Itachi Uchiha": "Discipline hushes the ego that wants to hurt when it feels threatened.",
+      "Korra": "Master the storm inside and you land before anyone feels the blast.",
+      "Holo": "Choose which inner parts to nurture and which to release; the journey feels lighter when you do."
+    },
+    "personality_types": [
+      {
+        "personality": "Harmonious",
+        "origin": "Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "personality": "Disciplined",
+        "origin": "Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Determined",
+        "origin": "Avatar: The Legend of Korra",
+        "character": "Korra"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Spice and Wolf",
+        "character": "Holo"
+      }
+    ],
+    "question": "Which internal battle are you choosing today so you can lead by example?",
+    "therapy_type": "Self-mastery practice",
+    "question_voice": "Lao Tzu",
+    "likes": 210,
+    "favorites": 89,
+    "shares": 74
+  },
+  {
+    "text": "The best revenge is not to be like your enemy.",
+    "source": "Marcus Aurelius \u2013 Meditations",
+    "category": "Revenge",
+    "tags": [
+      "revenge",
+      "integrity",
+      "stoicism"
+    ],
+    "interpretations": {
+      "Marcus Aurelius": "Refuse to mirror harm and you starve your enemy of fuel.",
+      "Rengoku Kyojuro": "A steady flame refuses to cast the same shadow as cruelty.",
+      "Violet Evergarden": "Kindness is the revenge that leaves no cracks in your heart.",
+      "Saitama": "Walking away proves you are stronger than the fight."
+    },
+    "personality_types": [
+      {
+        "personality": "Stoic",
+        "origin": "Meditations",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "personality": "Passionate",
+        "origin": "Demon Slayer",
+        "character": "Rengoku Kyojuro"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Unfiltered",
+        "origin": "One Punch Man",
+        "character": "Saitama"
+      }
+    ],
+    "question": "What does refusing to mimic harm look like in your story today?",
+    "therapy_type": "Narrative reframing",
+    "question_voice": "Marcus Aurelius",
+    "likes": 224,
+    "favorites": 112,
+    "shares": 84
+  },
+  {
+    "text": "Holding on to anger is like drinking poison and expecting the other person to die.",
+    "source": "Attributed to Buddha \u2013 Dhammapada",
+    "category": "Anger",
+    "tags": [
+      "anger",
+      "release",
+      "self-harm"
+    ],
+    "interpretations": {
+      "Violet Evergarden": "Empty the poison cup before it damages the things you love.",
+      "Bojack Horseman": "Stewing in rage rewrites your life in dark ink; stop being the editor.",
+      "Jon Snow": "Every grudge adds another winter to your heart.",
+      "Seneca": "Let restraint become the brave reply after an insult."
+    },
+    "personality_types": [
+      {
+        "personality": "Earnest",
+        "origin": "Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "personality": "Honor-bound",
+        "origin": "Game of Thrones",
+        "character": "Jon Snow"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Seneca"
+      }
+    ],
+    "question": "If anger were poison, what antidote will you take tonight?",
+    "therapy_type": "Mindfulness check-in",
+    "question_voice": "Buddha",
+    "likes": 241,
+    "favorites": 118,
+    "shares": 66
+  },
+  {
+    "text": "Self-control is strength. Right thought is mastery. Calmness is power.",
+    "source": "James Allen \u2013 As a Man Thinketh",
+    "category": "Self-mastery",
+    "tags": [
+      "ego",
+      "self-control",
+      "calm"
+    ],
+    "interpretations": {
+      "Violet Evergarden": "Control of thought rehearses courage for every future act.",
+      "Sherlock Holmes": "Self-control is the hypothesis you test before you speak.",
+      "Korra": "Thoughts obey when your breath is steady and deliberate.",
+      "Master Oogway": "Calmness is your training ground; the world respects stillness."
+    },
+    "personality_types": [
+      {
+        "personality": "Earnest",
+        "origin": "Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      },
+      {
+        "personality": "Determined",
+        "origin": "Avatar: The Legend of Korra",
+        "character": "Korra"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Kung Fu Panda",
+        "character": "Master Oogway"
+      }
+    ],
+    "question": "Which thought will you master today so calmness becomes your default?",
+    "therapy_type": "Breathwork (box breathing)",
+    "question_voice": "James Allen",
+    "likes": 198,
+    "favorites": 143,
+    "shares": 88
+  },
+  {
+    "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+    "source": "Viktor Frankl \u2013 Man's Search for Meaning",
+    "category": "Agency",
+    "tags": [
+      "agency",
+      "control",
+      "ego"
+    ],
+    "interpretations": {
+      "Frank Underwood": "When outcomes stay fixed, evolve the way you show up.",
+      "Violet Evergarden": "Change your inner story and the situation begins to shift.",
+      "Ashitaka": "Your posture, not the wind, decides where you go.",
+      "Frieren": "Meaning blooms in choosing your response even if the field will not move."
+    },
+    "personality_types": [
+      {
+        "personality": "Calculating",
+        "origin": "TV - House of Cards",
+        "character": "Frank Underwood"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Harmonious",
+        "origin": "Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "personality": "Pensive",
+        "origin": "Frieren: Beyond Journey's End",
+        "character": "Frieren"
+      }
+    ],
+    "question": "Which small shift in response keeps your dignity when the plot refuses to bend?",
+    "therapy_type": "Acceptance & Commitment (ACT) values step",
+    "question_voice": "Viktor Frankl",
+    "likes": 206,
+    "favorites": 125,
+    "shares": 92
+  },
+  {
+    "text": "The greatest victory is that which requires no battle.",
+    "source": "Sun Tzu \u2013 The Art of War",
+    "category": "Revenge",
+    "tags": [
+      "strategy",
+      "revenge",
+      "restraint"
+    ],
+    "interpretations": {
+      "Tyrion Lannister": "Strategic silence wins wars the clever avoid altogether.",
+      "Jon Snow": "Letting the battle die keeps the living warm.",
+      "Gendo Ikari": "The ultimate victory is the retreat you never publicize.",
+      "Rupi Kaur": "Hands that welcome peace turn away from revenge."
+    },
+    "personality_types": [
+      {
+        "personality": "Strategic",
+        "origin": "Game of Thrones",
+        "character": "Tyrion Lannister"
+      },
+      {
+        "personality": "Honor-bound",
+        "origin": "Game of Thrones",
+        "character": "Jon Snow"
+      },
+      {
+        "personality": "Strategic",
+        "origin": "Neon Genesis Evangelion",
+        "character": "Gendo Ikari"
+      },
+      {
+        "personality": "Affirming",
+        "origin": "Poetry",
+        "character": "Rupi Kaur"
+      }
+    ],
+    "question": "Where can you claim victory by refusing to fight?",
+    "therapy_type": "Narrative reframing",
+    "question_voice": "Sun Tzu",
+    "likes": 183,
+    "favorites": 101,
+    "shares": 76
+  },
+  {
+    "text": "She who angers you conquers you.",
+    "source": "Elizabeth Kenny \u2013 Nurse",
+    "category": "Ego",
+    "tags": [
+      "anger",
+      "ego",
+      "power"
+    ],
+    "interpretations": {
+      "Itachi Uchiha": "Anger is a signal; discipline is the path you choose instead.",
+      "Lisa": "Hold onto steadiness when heat wants to steal your limbs.",
+      "Luna Lovegood": "Let curiosity, not fury, guide you when people poke the bear.",
+      "Kahlil Gibran": "You are conquered only when you allow another's rage to rule your breath."
+    },
+    "personality_types": [
+      {
+        "personality": "Disciplined",
+        "origin": "Naruto",
+        "character": "Itachi Uchiha"
+      },
+      {
+        "personality": "Steadfast",
+        "origin": "WDJ Original",
+        "character": "Lisa"
+      },
+      {
+        "personality": "Eccentric",
+        "origin": "Harry Potter",
+        "character": "Luna Lovegood"
+      },
+      {
+        "personality": "Philosophical",
+        "origin": "Poetry",
+        "character": "Kahlil Gibran"
+      }
+    ],
+    "question": "Who wins when you refuse to let anger take the reins?",
+    "therapy_type": "Cognitive restructuring (CBT)",
+    "question_voice": "Elizabeth Kenny",
+    "likes": 170,
+    "favorites": 89,
+    "shares": 61
+  },
+  {
+    "text": "The ego is a veil between humans and God.",
+    "source": "Rumi \u2013 Sufi poetry",
+    "category": "Ego",
+    "tags": [
+      "ego",
+      "spirituality",
+      "veil"
+    ],
+    "interpretations": {
+      "Rumi": "When the veil lifts, you see that the ego was only a mask you wore out of habit.",
+      "Seneca": "Every attempt to control the universe starts with lowering the ego's volume.",
+      "Korra": "Freedom grows when the ego steps aside for the true self to move.",
+      "Master Oogway": "What you think your ego protects is the very thing that craves release."
+    },
+    "personality_types": [
+      {
+        "personality": "Mystic",
+        "origin": "Poetry",
+        "character": "Rumi"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Stoicism",
+        "character": "Seneca"
+      },
+      {
+        "personality": "Determined",
+        "origin": "Avatar: The Last Airbender",
+        "character": "Korra"
+      },
+      {
+        "personality": "Wise",
+        "origin": "Kung Fu Panda",
+        "character": "Master Oogway"
+      }
+    ],
+    "question": "What veil do you lift so you can hear the voice beyond ego?",
+    "therapy_type": "Psychodynamic reflection",
+    "question_voice": "Rumi",
+    "likes": 212,
+    "favorites": 134,
+    "shares": 93
+  },
+  {
+    "text": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+    "source": "Albert Camus \u2013 The Rebel",
+    "category": "Freedom",
+    "tags": [
+      "freedom",
+      "agency",
+      "rebellion"
+    ],
+    "interpretations": {
+      "Albert Camus": "Radical freedom is the act that silently defies every cage the world builds.",
+      "Ashitaka": "Steadiness becomes rebellion when everyone else surrenders to fear.",
+      "Frieren": "Time shows that quiet constancy can topple tyrants faster than swords.",
+      "Marcus Aurelius": "When you command yourself, nothing external can imprison you."
+    },
+    "personality_types": [
+      {
+        "personality": "Philosophical",
+        "origin": "The Rebel",
+        "character": "Albert Camus"
+      },
+      {
+        "personality": "Harmonious",
+        "origin": "Princess Mononoke",
+        "character": "Ashitaka"
+      },
+      {
+        "personality": "Pensive",
+        "origin": "Frieren: Beyond Journey's End",
+        "character": "Frieren"
+      },
+      {
+        "personality": "Stoic",
+        "origin": "Meditations",
+        "character": "Marcus Aurelius"
+      }
+    ],
+    "question": "What act of absolute freedom will you take today to resist surrendering?",
+    "therapy_type": "Narrative therapy",
+    "question_voice": "Albert Camus",
+    "likes": 189,
+    "favorites": 120,
+    "shares": 68
+  },
+  {
+    "text": "Forgiveness is the best revenge.",
+    "source": "Proverb \u2013 Unknown",
+    "category": "Revenge",
+    "tags": [
+      "revenge",
+      "forgiveness",
+      "restoration"
+    ],
+    "interpretations": {
+      "Ted Lasso": "Forgiveness lets you move forward with the lightest step.",
+      "Bojack Horseman": "Dropping the grudge feels like reclaiming all the time you wasted being angry.",
+      "Violet Evergarden": "Mending yourself is the sweetest ending to any feud.",
+      "Sherlock Holmes": "The cleverest detective knows when a case is closed by compassion."
+    },
+    "personality_types": [
+      {
+        "personality": "Amiable",
+        "origin": "TV - Ted Lasso",
+        "character": "Ted Lasso"
+      },
+      {
+        "personality": "Nihilistic",
+        "origin": "TV - Bojack Horseman",
+        "character": "Bojack Horseman"
+      },
+      {
+        "personality": "Earnest",
+        "origin": "Violet Evergarden",
+        "character": "Violet Evergarden"
+      },
+      {
+        "personality": "Analytical",
+        "origin": "Literature / TV",
+        "character": "Sherlock Holmes"
+      }
+    ],
+    "question": "How can forgiveness feel like victory instead of surrender?",
+    "therapy_type": "Narrative reframing",
+    "question_voice": "Unknown Proverb",
+    "likes": 243,
+    "favorites": 156,
+    "shares": 101
+  },
+  {
     "text": "For I know the plans I have for you, declares the Lord.",
     "source": "Bible - Jeremiah 29:11",
     "category": "Religious devotionals",
